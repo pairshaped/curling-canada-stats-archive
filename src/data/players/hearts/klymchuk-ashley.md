@@ -66,13 +66,13 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - Logan, Emma
- - McCarville, Krista
  - McEwen, Dawn
  - Miskew, Emma
  - Peterman, Jocelyn
  - Plonka, Gabrielle
  - Porter, Erin
  - Rizzo, Jo-Ann
+ - Scharf, Krista
  - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley

@@ -2,17 +2,45 @@
 title: Ashton Skrlik Head-to-head
 name: Skrlik, Ashton
 vs:
+ - name: Smith, Carly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(6)
+      score: AB 9 - NB 3
  - name: Smith, Sabrina
    totals:
     - event: Hearts
       player1:
-        percent: 86
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -30,6 +58,22 @@ vs:
       year: 2025
       draw: Round Robin(15)
       score: AB 7 - PE 5
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(10)
+      score: PE 4 - AB 10
  - name: St-Georges, Laurie
    totals:
     - event: Hearts
@@ -90,12 +134,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 66
+        percent: 68
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 75
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -114,6 +158,22 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: AB 5 - AB 6
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(12)
+      score: AB 5 - AB 9
  - name: Sweeting, Val
    totals:
     - event: Hearts
@@ -162,13 +222,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 88
-        wins: 1
+        percent: 87
+        wins: 2
         losses: 0
       player2:
-        percent: 83
+        percent: 88
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -186,6 +246,22 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: NU 4 - AB 9
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(8)
+      score: NU 2 - AB 9
  - name: Thevenot, Kara
    totals:
     - event: Hearts
@@ -242,17 +318,45 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: WC 8 - AB 5
+ - name: Watson, Rebecca
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 72
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(6)
+      score: AB 9 - NB 3
  - name: Weagle, Julia
    totals:
     - event: Hearts
       player1:
-        percent: 93
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
       player2:
-        percent: 67
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -270,6 +374,22 @@ vs:
       year: 2025
       draw: Round Robin(17)
       score: NU 4 - AB 7
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(8)
+      score: NU 2 - AB 9
  - name: Wilkes, Sarah
    totals:
     - event: Hearts
@@ -298,4 +418,32 @@ vs:
       year: 2025
       draw: Round Robin(5)
       score: CA 9 - AB 7
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(16)
+      score: AB 10 - NL 4
 ---

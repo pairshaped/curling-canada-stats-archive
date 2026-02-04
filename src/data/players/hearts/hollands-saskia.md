@@ -60,7 +60,6 @@ vs:
  - Loder, Cherie-Ann
  - MacDiarmid, Kristen
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McInnis, Susan
  - Muise, Morgan
  - Officer, Jill
@@ -70,6 +69,7 @@ vs:
  - Ridalls, Kristen
  - Rocque, Raylene
  - Rudulier, Andrea
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

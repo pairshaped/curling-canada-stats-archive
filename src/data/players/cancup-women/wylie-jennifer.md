@@ -75,6 +75,7 @@ years:
 vs:
  - Armstrong, Leigh
  - Brown, Rachel
+ - Calvert, Kelsey
  - Courtney, Joanne
  - Crocker, Laura
  - Ferguson, Dana
@@ -90,7 +91,6 @@ vs:
  - Officer, Jill
  - Olson-Johns, Lori
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Sweeting, Val
  - Weagle, Lisa
 ---

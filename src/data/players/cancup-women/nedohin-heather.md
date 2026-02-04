@@ -187,7 +187,6 @@ vs:
  - Maclachlan, Kyla
  - MacLean, Kari
  - MacPhee, Robyn
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
@@ -211,6 +210,7 @@ vs:
  - Rocque, Raylene
  - Rumberg, Crystal
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schneider, Kim
  - Schneider, Tammy

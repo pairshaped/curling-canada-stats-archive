@@ -4,19 +4,19 @@ name: Patty Wallingham
 name-sort: Wallingham, Patty
 totals:
  - event: Hearts
-   games: 18
+   games: 26
    wins: 2
-   losses: 16
-   inturn-total: 170
-   inturn-percent: 72
-   outturn-total: 166
+   losses: 24
+   inturn-total: 248
+   inturn-percent: 73
+   outturn-total: 224
    outturn-percent: 69
-   draw-total: 183
+   draw-total: 256
    draw-percent: 71
-   takeout-total: 153
-   takeout-percent: 70
-   shots-total: 336
-   shots-percent: 70
+   takeout-total: 216
+   takeout-percent: 71
+   shots-total: 472
+   shots-percent: 71
 years:
  - year: 2014
    event: Hearts
@@ -122,6 +122,24 @@ years:
    takeout-percent: 58
    shots-total: 126
    shots-percent: 62
+ - year: 2026
+   event: Hearts
+   team: "YT"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 78
+   inturn-percent: 74
+   outturn-total: 58
+   outturn-percent: 69
+   draw-total: 73
+   draw-percent: 72
+   takeout-total: 63
+   takeout-percent: 73
+   shots-total: 136
+   shots-percent: 72
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -131,49 +149,72 @@ vs:
  - Balsdon, Megan
  - Barker, Shelley
  - Baxter, Jennifer
+ - Big Eagle, Rachel
+ - Birchard, Shannon
  - Black, Christina
  - Bobbie, Tess
+ - Bonneau, Kim
  - Brothers, Jillian
  - Brown, Rachelle
  - Burgess, Karlee
  - Cameron, Kate
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
  - Cooper, Kathryn
  - Cottrill, Katie
  - Court, Morgan
  - Courtney, Joanne
+ - Demmans, Dayna
  - deSolla, Jodie
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Hollie
+ - Einarson, Kerri
  - Everist, Karlee
  - Ferguson, Dana
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flaxey, Allison
  - Flemming, Margot
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Foster, Kristen
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gannon, Melissa
+ - Gordon, Kristin
  - Homan, Rachel
  - Joyce, Blisse
  - Kasner, Marliese
+ - Kaufman, Nicky
  - Kelly, Andrea
  - Knezevic, Patti
+ - Koehler, Megan
  - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
+ - Lafrance, Emy
+ - Lafrance, Megan
+ - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lenentine, Lauren
+ - Lloyd, Grace
  - MacDonald, Rebecca Jean
+ - Mackenzie, Julianna
  - McDonald, Kristy
  - McDonald, Taylor
+ - McGillivray, Megan
  - Miskew, Emma
+ - Njegovan, Selena
  - Nugent, Pamela
  - O'Rourke, Brittany
  - Parsons, Danielle
+ - Reese-Hansen, Taylor
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Robert, Michaela
  - Robison, Michala
  - Ross, Allison
  - Routledge, Alanna
@@ -181,10 +222,14 @@ vs:
  - Sandwith, Carley
  - Schraeder, Jeanna
  - Scotland, Nadine
+ - Silvernagle, Robyn
  - Simons, Renee
  - Singler, Sherri
+ - Skauge, Ella
  - Smith, Heather
  - St-Georges, Laurie
+ - Steele, Rachel
+ - Stevens, Taylour
  - Strong, Heather
  - Strong, Laura
  - Strybosch, Rachelle
@@ -192,6 +237,7 @@ vs:
  - Titheridge, Lindsay
  - Tuck, Kimberly
  - Udle, Teri
+ - Umlah, Alison
  - Walker, Laura
  - Weagle, Lisa
  - Wiseman, Jessica

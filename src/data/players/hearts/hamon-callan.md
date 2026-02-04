@@ -36,6 +36,11 @@ years:
    takeout-percent: 83
    shots-total: 204
    shots-percent: 80
+ - year: 2026
+   event: Hearts
+   team: "SK"
+   position: Alternate
+   alternate: true
 vs:
  - Arsenault-Bishop, Nicole
  - Atkinson, Rebecca
@@ -61,7 +66,6 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - MacPhee, Robyn
- - McCarville, Krista
  - McEwen, Dawn
  - Murphy, Sarah
  - Nicholls, Brenda
@@ -78,6 +82,7 @@ vs:
  - Richard, Marie
  - Ryan, Kristen
  - Sagle, Karen
+ - Scharf, Krista
  - Sippala, Ashley
  - Thompson, Karla
  - Udle, Teri

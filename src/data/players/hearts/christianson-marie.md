@@ -170,6 +170,7 @@ vs:
  - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
+ - Calvert, Kelsey
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -238,7 +239,6 @@ vs:
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - Martin, Nancy
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
@@ -266,13 +266,13 @@ vs:
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Routledge, Alanna
  - Rusnell, Jen
  - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
  - Schafer, Kelly
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Scoffin, Bayly

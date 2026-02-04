@@ -144,7 +144,6 @@ vs:
  - Lenentine, Lauren
  - Lilly, Kendra
  - Logan, Emma
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -160,6 +159,7 @@ vs:
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scotland, Nadine

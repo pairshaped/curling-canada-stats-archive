@@ -490,66 +490,6 @@ vs:
       year: 2009
       draw: Round Robin(10)
       score: SK 10 - TR 6
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 2
-      player2:
-        percent: 78
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2009
-      draw: Round Robin(3)
-      score: ON 8 - SK 7
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Pool(16)
-      score: SK 11 - NO 5
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 82
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(14)
-      score: NO 4 - SK 3
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -2126,6 +2066,66 @@ vs:
       year: 2019
       draw: Pool(17)
       score: SK 8 - BC 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 2
+      player2:
+        percent: 78
+        wins: 2
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2009
+      draw: Round Robin(3)
+      score: ON 8 - SK 7
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Pool(16)
+      score: SK 11 - NO 5
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(14)
+      score: NO 4 - SK 3
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

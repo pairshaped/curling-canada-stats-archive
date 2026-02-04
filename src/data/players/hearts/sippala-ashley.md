@@ -4,18 +4,18 @@ name: Ashley Sippala
 name-sort: Sippala, Ashley
 totals:
  - event: Hearts
-   games: 88
-   wins: 55
-   losses: 33
-   inturn-total: 863
+   games: 96
+   wins: 60
+   losses: 36
+   inturn-total: 933
    inturn-percent: 81
-   outturn-total: 833
+   outturn-total: 909
    outturn-percent: 80
-   draw-total: 805
+   draw-total: 871
    draw-percent: 80
-   takeout-total: 891
+   takeout-total: 971
    takeout-percent: 81
-   shots-total: 1696
+   shots-total: 1842
    shots-percent: 80
 years:
  - year: 2009
@@ -235,9 +235,28 @@ years:
    takeout-percent: 78
    shots-total: 105
    shots-percent: 83
+ - year: 2026
+   event: Hearts
+   team: "NO"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 70
+   inturn-percent: 79
+   outturn-total: 76
+   outturn-percent: 85
+   draw-total: 66
+   draw-percent: 83
+   takeout-total: 80
+   takeout-percent: 81
+   shots-total: 146
+   shots-percent: 82
 vs:
  - Ackerman, Skylar
  - Ackland, Abby
+ - Adams, Kristina
  - Adams, Melissa
  - Affleck, Tricia
  - Alcoe-Holland, Jill
@@ -250,6 +269,7 @@ vs:
  - Barker, Shelley
  - Baxter, Jennifer
  - Belisle, Eve
+ - Best, Emily
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
@@ -260,7 +280,9 @@ vs:
  - Brown, Rachelle
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
@@ -295,6 +317,7 @@ vs:
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Forward, Katie
  - Foster, Kerry
  - Fullerton, Sarah
@@ -303,7 +326,9 @@ vs:
  - Gamble, Christie
  - Gilman, Sheena
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Griffin, Alison
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Hamon, Callan
  - Hanna, Jenn
@@ -355,6 +380,7 @@ vs:
  - McEwen, Dawn
  - Mercer, Adrienne
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - More, Whitney
  - Murphy, Sarah
  - Naugler, Tara
@@ -372,13 +398,17 @@ vs:
  - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Phillips, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
+ - Power, Amanda
+ - Powers, Marlee
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Rizzo, Jo-Ann
@@ -405,6 +435,7 @@ vs:
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Sabrina
  - Sobey, Lianne
  - Stewart, Chaelynn
@@ -425,6 +456,8 @@ vs:
  - Verreault, Noemie
  - Walker, Laura
  - Walter, Meghan
+ - Watson, Rebecca
+ - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

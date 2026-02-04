@@ -55,7 +55,6 @@ vs:
  - Lilly, Kendra
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
- - McCarville, Krista
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Robyn
@@ -63,6 +62,7 @@ vs:
  - Pinksen, Sadie
  - Potts, Sarah
  - Quillian, Sylvie
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Sharpe, Kelli
  - Shea, Michelle

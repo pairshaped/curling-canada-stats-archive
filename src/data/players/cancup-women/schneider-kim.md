@@ -93,7 +93,6 @@ vs:
  - Lemay, Annie
  - MacLean, Kari
  - Mair, Jessica
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - Miller, Jessica
@@ -106,6 +105,7 @@ vs:
  - Potts, Sarah
  - Rocque, Raylene
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Singler, Sherri

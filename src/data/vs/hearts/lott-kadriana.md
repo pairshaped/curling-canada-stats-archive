@@ -30,34 +30,6 @@ vs:
       year: 2025
       draw: Round Robin(3)
       score: PE 6 - SK 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2025
-      draw: Round Robin(1)
-      score: SK 10 - NO 6
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -226,6 +198,34 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: SK 7 - NB 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: SK 10 - NO 6
  - name: Schmiemann, Danielle
    totals:
     - event: Hearts

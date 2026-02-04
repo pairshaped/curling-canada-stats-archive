@@ -59,7 +59,6 @@ vs:
  - Jones, Jennifer
  - Lang, Lorraine
  - MacPhee, Robyn
- - McCarville, Krista
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
@@ -71,6 +70,7 @@ vs:
  - Osborne, Chantal
  - Overton-Clapham, Cathy
  - Power, Marie-Anne
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

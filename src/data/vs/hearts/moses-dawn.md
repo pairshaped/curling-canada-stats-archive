@@ -1314,6 +1314,50 @@ vs:
       year: 1998
       draw: Round Robin(1)
       score: PE 9 - TR 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 1
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'TR'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2007
+      draw: Round Robin(11)
+      score: TR 5 - ON 8
+    - player1:
+        team: 'TR'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(16)
+      score: ON 7 - TR 9
  - name: Schikowski, Keri-Lynn
    totals:
     - event: Hearts

@@ -1838,34 +1838,6 @@ vs:
       year: 2009
       draw: Round Robin(2)
       score: QC 9 - TR 6
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 0
-      player2:
-        percent: 61
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Third
-        percent: 76
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 61
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(10)
-      score: ON 8 - QC 10
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -2730,6 +2702,34 @@ vs:
       year: 2001
       draw: Round Robin(1)
       score: MB 8 - QC 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(10)
+      score: ON 8 - QC 10
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts

@@ -452,6 +452,7 @@ vs:
  - Burns, Krysta
  - Burt, Camille
  - Bush, Tracy
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
@@ -484,7 +485,6 @@ vs:
  - Derick, Catherine
  - deSolla, Jodie
  - Dezura, Diane
- - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
@@ -544,7 +544,7 @@ vs:
  - Hollands, Saskia
  - Holtby, Taryn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
@@ -603,7 +603,6 @@ vs:
  - Martin, Heather
  - Materi, Roberta
  - Mattatall, Mary
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -654,13 +653,13 @@ vs:
  - Provencal, Darah
  - Quillian, Sylvie
  - Radchenka, Tammy
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
  - Riley, Emily
  - Robertson, Darcy
  - Robison, Michala
- - Rocque, Kelsey
  - Rocque, Raylene
  - Ross, Allison
  - Rudulier, Andrea
@@ -668,6 +667,7 @@ vs:
  - Sabourin, Joelle
  - Sandison, Janice
  - Saulnier, Andrea
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schneider, Kim
  - Schneider, Lorraine

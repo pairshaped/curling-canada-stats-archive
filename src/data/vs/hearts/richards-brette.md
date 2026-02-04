@@ -58,6 +58,50 @@ vs:
       year: 2017
       draw: Round Robin(1)
       score: NS 5 - BC 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 2
+      player2:
+        percent: 84
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2009
+      draw: Round Robin(13)
+      score: MB 6 - ON 11
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(10)
+      score: NO 8 - BC 3
  - name: Schneider, Lorraine
    totals:
     - event: Hearts

@@ -42,6 +42,7 @@ years:
 vs:
  - Birchard, Shannon
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Courtney, Joanne
  - Einarson, Kerri
  - Ferguson, Dana
@@ -58,14 +59,13 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
  - Njegovan, Selena
  - Peterman, Jocelyn
  - Potts, Sarah
- - Rocque, Kelsey
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Sippala, Ashley

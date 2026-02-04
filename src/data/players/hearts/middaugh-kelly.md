@@ -88,7 +88,6 @@ vs:
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - Mayne, Veronica
- - McCarville, Krista
  - Njegovan, Selena
  - Papley, Paige
  - Peterman, Jocelyn
@@ -98,6 +97,7 @@ vs:
  - Ramsay, Geri-Lynn
  - Rumberg, Crystal
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Shea, Michelle
  - Silvernagle, Robyn

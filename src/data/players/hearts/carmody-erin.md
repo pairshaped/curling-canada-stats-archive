@@ -104,6 +104,7 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha
@@ -115,7 +116,6 @@ vs:
  - Daigle, Julie
  - Daly, Calissa
  - deGroot, Cassandra
- - Doerksen, Katherine
  - Dubue, Lindsay
  - Einarson, Kerri
  - Einarson, Megan
@@ -160,7 +160,6 @@ vs:
  - MacLean, Kari
  - MacMillan, Kayla
  - Makichuk, Lindsay
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -179,12 +178,13 @@ vs:
  - Pinksen, Sadie
  - Potts, Sarah
  - Rainville, Julie
+ - Remillard, Katherine
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Rogers, Leslie
  - Rogers, Rhonda
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

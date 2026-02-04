@@ -103,7 +103,6 @@ vs:
  - MacPhee, Robyn
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - Mittelstadt, Candice
@@ -118,6 +117,7 @@ vs:
  - Ridalls, Kristen
  - Ross, Allison
  - Rudulier, Andrea
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

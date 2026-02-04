@@ -120,7 +120,6 @@ vs:
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -138,6 +137,7 @@ vs:
  - Routledge, Jill
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scotland, Nadine
  - Sharpe, Kelli

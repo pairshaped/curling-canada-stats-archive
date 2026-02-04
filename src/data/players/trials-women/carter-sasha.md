@@ -85,7 +85,6 @@ vs:
  - Linton, Sherry
  - MacLean, Kari
  - Malekoff, Stephanie
- - McCarville, Krista
  - McCusker, Joan
  - McEwen, Dawn
  - McPherson, Cheryl
@@ -99,6 +98,7 @@ vs:
  - Preston, Sam
  - Rizzo, Jo-Ann
  - Rumberg, Crystal
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Singler, Sherri

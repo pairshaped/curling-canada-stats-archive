@@ -91,12 +91,12 @@ vs:
  - Lenentine, Lauren
  - Lilly, Kendra
  - MacDonald, Kaitlin
- - McCarville, Krista
  - Pinksen, Sadie
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Silvernagle, Robyn
  - Simons, Renee

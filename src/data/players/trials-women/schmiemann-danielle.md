@@ -79,7 +79,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -91,6 +90,7 @@ vs:
  - Potts, Sarah
  - Powers, Marlee
  - Ramsay, Geri-Lynn
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scotland, Nadine
  - Sippala, Ashley

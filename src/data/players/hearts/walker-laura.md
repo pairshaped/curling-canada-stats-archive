@@ -4,19 +4,19 @@ name: Laura Walker
 name-sort: Walker, Laura
 totals:
  - event: Hearts
-   games: 38
-   wins: 21
-   losses: 17
-   inturn-total: 336
-   inturn-percent: 77
-   outturn-total: 374
-   outturn-percent: 80
-   draw-total: 297
-   draw-percent: 80
-   takeout-total: 413
-   takeout-percent: 77
-   shots-total: 710
-   shots-percent: 78
+   games: 49
+   wins: 31
+   losses: 18
+   inturn-total: 438
+   inturn-percent: 79
+   outturn-total: 463
+   outturn-percent: 81
+   draw-total: 366
+   draw-percent: 81
+   takeout-total: 535
+   takeout-percent: 80
+   shots-total: 901
+   shots-percent: 80
 years:
  - year: 2020
    event: Hearts
@@ -90,6 +90,24 @@ years:
    takeout-percent: 83
    shots-total: 178
    shots-percent: 84
+ - year: 2026
+   event: Hearts
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 102
+   inturn-percent: 87
+   outturn-total: 89
+   outturn-percent: 85
+   draw-total: 69
+   draw-percent: 84
+   takeout-total: 122
+   takeout-percent: 87
+   shots-total: 191
+   shots-percent: 86
 vs:
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -100,34 +118,42 @@ vs:
  - Barbour, Shona
  - Barker, Shelley
  - Baxter, Jennifer
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
+ - Bonneau, Kim
  - Brine, Jenn
  - Brothers, Jillian
  - Brown, Rachelle
  - Brown, Stephanie
  - Burgess, Karlee
  - Burns, Krysta
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Doerksen, Katherine
+ - Demmans, Dayna
  - Dubue, Lindsay
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
  - Everist, Karlee
  - Ferguson, Dana
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flemming, Margot
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Forward, Katie
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gates, Amanda
  - Gates, Jennifer
  - Gordon, Kristin
@@ -136,49 +162,66 @@ vs:
  - Gustafson, Leigh
  - Guy, Sara
  - Harris, Briane
+ - Helston, Raelyn
  - Homan, Rachel
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Jones, Jennifer
  - Just, Sherry
  - Karwacki, Krysten
+ - Kaufman, Nicky
  - Kelly, Andrea
  - Knapp, Breanne
+ - Koehler, Megan
  - Koltun, Sarah
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lenentine, Lauren
  - Lilly, Kendra
+ - Lloyd, Grace
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
  - MacDonald, Kaitlin
+ - Mackenzie, Julianna
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - Martin, Nancy
- - McCarville, Krista
+ - McGillivray, Megan
  - Middaugh, Kelly
  - Miskew, Emma
  - Njegovan, Selena
  - Peterman, Jocelyn
  - Peterson, Beth
  - Pinksen, Sadie
+ - Powers, Marlee
  - Ramsay, Geri-Lynn
+ - Reese-Hansen, Taylor
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Robert, Michaela
  - Routledge, Alanna
  - Routledge, Jill
  - Schafer, Kelly
+ - Scharf, Krista
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
  - Sippala, Ashley
+ - Skauge, Ella
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Steele, Rachel
+ - Stevens, Taylour
  - Stewart, Chaelynn
  - Strybosch, Rachelle
  - Sweeting, Val
@@ -186,6 +229,7 @@ vs:
  - Thevenot, Kara
  - Tran, Brittany
  - Tuor, Kimberly
+ - Umlah, Alison
  - Verreault, Noemie
  - Wallingham, Patty
  - Weagle, Lisa

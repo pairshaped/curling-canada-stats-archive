@@ -199,6 +199,7 @@ vs:
  - Blair, Janice
  - Brown, Rachel
  - Bush, Tracy
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cannon, Theresa
  - Carey, Chelsea
@@ -254,7 +255,6 @@ vs:
  - Loder, Kristin
  - MacLean, Kari
  - Mair, Jessica
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McTaggart, Cary-Anne
@@ -277,11 +277,11 @@ vs:
  - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Robertson, Darcy
- - Rocque, Kelsey
  - Rocque, Raylene
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Santos, Deb
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim

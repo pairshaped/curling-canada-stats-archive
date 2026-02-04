@@ -126,7 +126,6 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - MacPhee, Robyn
- - McCarville, Krista
  - McEwen, Dawn
  - Miskew, Emma
  - Munroe, Anna
@@ -149,6 +148,7 @@ vs:
  - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
+ - Scharf, Krista
  - Sippala, Ashley
  - Thompson, Karla
  - Vandale, Trysta

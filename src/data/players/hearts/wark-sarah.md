@@ -65,7 +65,6 @@ vs:
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - Lilly, Kendra
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Miskew, Emma
@@ -76,6 +75,7 @@ vs:
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Potts, Sarah
+ - Scharf, Krista
  - Scheidegger, Casey
  - Shea, Michelle
  - Silvernagle, Robyn

@@ -56,6 +56,7 @@ vs:
  - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Courtney, Joanne
@@ -72,7 +73,6 @@ vs:
  - Jones, Jennifer
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -85,7 +85,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
- - Rocque, Kelsey
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle

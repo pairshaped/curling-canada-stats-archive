@@ -286,6 +286,66 @@ vs:
       year: 2025
       draw: Round Robin(15)
       score: NB 5 - BC 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 2
+      player2:
+        percent: 71
+        wins: 2
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Pool(17)
+      score: NO 7 - BC 6
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(1)
+      score: NO 9 - BC 5
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(7)
+      score: NO 3 - BC 9
  - name: Schmiemann, Danielle
    totals:
     - event: Hearts
@@ -646,6 +706,34 @@ vs:
       year: 2024
       draw: Round Robin(13)
       score: QC 3 - BC 8
+ - name: Stevens, Taylour
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(7)
+      score: NS 2 - MB 8
  - name: Stewart, Chaelynn
    totals:
     - event: Hearts
@@ -918,6 +1006,34 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: BC 12 - YT 5
+ - name: Umlah, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 58
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 58
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(7)
+      score: NS 2 - MB 8
  - name: Weagle, Julia
    totals:
     - event: Hearts

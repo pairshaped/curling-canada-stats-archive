@@ -2,6 +2,50 @@
 title: Rachel Brown Head-to-head
 name: Brown, Rachel
 vs:
+ - name: Calvert, Kelsey
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 86
+        wins: 2
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'SWE'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'ROC'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2015
+      draw: Round Robin(7)
+      score: ROC 4 - SWE 10
+    - player1:
+        team: 'SWE'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'ROC'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2016
+      draw: Round Robin(6)
+      score: SWE 6 - ROC 2
  - name: Cameron, Kate
    totals:
     - event: Canada Cup (Women)
@@ -2366,50 +2410,6 @@ vs:
       year: 2018
       draw: Round Robin(1)
       score: Care 6 - Robe 11
- - name: Rocque, Kelsey
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 86
-        wins: 2
-        losses: 0
-      player2:
-        percent: 67
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'SWE'
-        position: Lead
-        percent: 92
-        win: 1
-        loss: 0
-      player2:
-        team: 'ROC'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(7)
-      score: ROC 4 - SWE 10
-    - player1:
-        team: 'SWE'
-        position: Lead
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'ROC'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(6)
-      score: SWE 6 - ROC 2
  - name: Rumberg, Crystal
    totals:
     - event: Canada Cup (Women)

@@ -117,7 +117,6 @@ vs:
  - MacDiarmid, Kristen
  - MacDonald, Rebecca Jean
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McDonald, Kristy
  - McInnis, Susan
  - Miskew, Emma
@@ -134,6 +133,7 @@ vs:
  - Rudulier, Andrea
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

@@ -187,7 +187,6 @@ vs:
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
- - Doerksen, Katherine
  - Dolan, Sinead
  - Dubue, Lindsay
  - Duncan, Hollie
@@ -230,7 +229,6 @@ vs:
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - Martin, Nancy
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - Middaugh, Kelly
@@ -245,11 +243,13 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scotland, Nadine

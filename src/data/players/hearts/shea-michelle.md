@@ -269,7 +269,6 @@ vs:
  - Mann, Lauren
  - Martin, Nancy
  - Mattatall, Mary
- - McCarville, Krista
  - McEvoy, Julie
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -305,6 +304,7 @@ vs:
  - Sandwith, Carley
  - Saulnier, Andrea
  - Schafer, Kelly
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie

@@ -4,18 +4,18 @@ name: Kayla Skrlik
 name-sort: Skrlik, Kayla
 totals:
  - event: Hearts
-   games: 19
-   wins: 11
-   losses: 8
-   inturn-total: 198
-   inturn-percent: 73
-   outturn-total: 163
-   outturn-percent: 81
-   draw-total: 156
-   draw-percent: 74
-   takeout-total: 205
-   takeout-percent: 78
-   shots-total: 361
+   games: 27
+   wins: 16
+   losses: 11
+   inturn-total: 268
+   inturn-percent: 74
+   outturn-total: 240
+   outturn-percent: 79
+   draw-total: 225
+   draw-percent: 75
+   takeout-total: 283
+   takeout-percent: 77
+   shots-total: 508
    shots-percent: 76
 years:
  - year: 2023
@@ -54,10 +54,30 @@ years:
    takeout-percent: 81
    shots-total: 210
    shots-percent: 75
+ - year: 2026
+   event: Hearts
+   team: "AB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 70
+   inturn-percent: 79
+   outturn-total: 77
+   outturn-percent: 75
+   draw-total: 69
+   draw-percent: 79
+   takeout-total: 78
+   takeout-percent: 76
+   shots-total: 147
+   shots-percent: 77
 vs:
+ - Adams, Kristina
  - Adams, Melissa
  - Barker, Shelley
  - Baxter, Jennifer
+ - Best, Emily
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -65,8 +85,11 @@ vs:
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
+ - Calvert, Kelsey
+ - Campbell, Jenna
  - Christianson, Marie
  - Crandall, Jaclyn
+ - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
  - Desjardins, Emilie
@@ -77,7 +100,9 @@ vs:
  - Everist, Karlee
  - Fisher, Samantha
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
  - Gustafson, Leigh
  - Harris, Briane
@@ -91,6 +116,7 @@ vs:
  - Kelly, Andrea
  - Koltun, Sarah
  - Lawes, Kaitlyn
+ - Lilly, Kendra
  - Lister, Kendra
  - Loken, Sarah
  - Lott, Kadriana
@@ -99,23 +125,28 @@ vs:
  - MacPhail, Brigitte
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Papley, Paige
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Power, Amanda
  - Powers, Marlee
+ - Remillard, Katherine
  - Riley, Emily
  - Routledge, Alanna
  - Russell, Kayla
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Smith, Carly
  - Smith, Sabrina
  - St-Georges, Laurie
  - Stewart, Chaelynn
@@ -124,6 +155,8 @@ vs:
  - Taylor, Alison
  - Thevenot, Kara
  - Walker, Laura
+ - Watson, Rebecca
  - Weagle, Julia
  - Wilkes, Sarah
+ - Wiseman, Jessica
 ---

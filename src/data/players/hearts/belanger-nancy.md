@@ -137,7 +137,6 @@ vs:
  - Mallett, Marla
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Tina
  - McEwen, Dawn
@@ -162,6 +161,7 @@ vs:
  - Richards, Brette
  - Robertson, Darcy
  - Sandison, Janice
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simmons, Cindy

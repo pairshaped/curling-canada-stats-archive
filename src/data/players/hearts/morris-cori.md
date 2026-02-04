@@ -121,7 +121,6 @@ vs:
  - Mallett, Marla
  - Martin, Heather
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Morgan, Cheryl
@@ -141,6 +140,7 @@ vs:
  - Robertson, Darcy
  - Ross, Allison
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee

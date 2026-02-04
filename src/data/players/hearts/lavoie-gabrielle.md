@@ -53,7 +53,6 @@ vs:
  - Griffin, Alison
  - Homan, Rachel
  - Lilly, Kendra
- - McCarville, Krista
  - Miskew, Emma
  - Murphy, Sarah
  - Njegovan, Selena
@@ -62,6 +61,7 @@ vs:
  - Potts, Sarah
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scharf, Krista
  - Wark, Sarah
  - Weagle, Lisa
  - Wilkes, Sarah

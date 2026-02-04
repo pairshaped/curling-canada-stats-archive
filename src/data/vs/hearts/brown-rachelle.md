@@ -654,34 +654,6 @@ vs:
       year: 2025
       draw: Round Robin(1)
       score: CA 13 - PE 4
- - name: Doerksen, Katherine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(10)
-      score: WC 6 - AB 4
  - name: Dolan, Kim
    totals:
     - event: Hearts
@@ -2926,50 +2898,6 @@ vs:
       year: 2025
       draw: Round Robin(1)
       score: CA 13 - PE 4
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 1
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(5)
-      score: NO 6 - AB 7
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(1)
-      score: NO 8 - CA 3
  - name: McDonald, Kristy
    totals:
     - event: Hearts
@@ -3950,6 +3878,34 @@ vs:
       year: 2014
       draw: Round Robin(9)
       score: AB 8 - PE 5
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(10)
+      score: WC 6 - AB 4
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -4262,6 +4218,50 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: BC 8 - AB 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(5)
+      score: NO 6 - AB 7
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(1)
+      score: NO 8 - CA 3
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

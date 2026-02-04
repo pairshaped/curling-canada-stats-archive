@@ -90,12 +90,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 52
+        percent: 62
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 81
-        wins: 2
+        percent: 78
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -130,6 +130,22 @@ vs:
       year: 2025
       draw: Round Robin(11)
       score: PE 4 - AB 9
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 72
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(2)
+      score: AB 12 - PE 3
  - name: Sweeting, Val
    totals:
     - event: Hearts
@@ -162,12 +178,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 73
+        percent: 63
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 71
-        wins: 0
+        percent: 68
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -186,6 +202,22 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: NU 6 - PE 7
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 64
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(4)
+      score: PE 5 - NU 8
  - name: Thevenot, Ashley
    totals:
     - event: Hearts
@@ -242,16 +274,44 @@ vs:
       year: 2025
       draw: Round Robin(9)
       score: PE 7 - NB 8
+ - name: Watson, Rebecca
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(8)
+      score: NB 6 - PE 7
  - name: Weagle, Julia
    totals:
     - event: Hearts
       player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
         percent: 63
-        wins: 0
+        wins: 1
+        losses: 1
+      player2:
+        percent: 70
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -270,6 +330,22 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: NU 6 - PE 7
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(4)
+      score: PE 5 - NU 8
  - name: Wilkes, Sarah
    totals:
     - event: Hearts
@@ -298,4 +374,32 @@ vs:
       year: 2025
       draw: Round Robin(1)
       score: CA 13 - PE 4
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(18)
+      score: NL 5 - PE 8
 ---

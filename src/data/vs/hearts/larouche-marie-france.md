@@ -910,50 +910,6 @@ vs:
       year: 2009
       draw: Round Robin(2)
       score: QC 9 - TR 6
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'QC'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 61
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(10)
-      score: ON 8 - QC 10
-    - player1:
-        team: 'QC'
-        position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 89
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(15)
-      score: NO 7 - QC 2
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -2834,6 +2790,50 @@ vs:
       year: 2001
       draw: Round Robin(1)
       score: MB 8 - QC 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 1
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(10)
+      score: ON 8 - QC 10
+    - player1:
+        team: 'QC'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(15)
+      score: NO 7 - QC 2
  - name: Schneider, Kim
    totals:
     - event: Hearts

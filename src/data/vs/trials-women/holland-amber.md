@@ -626,50 +626,6 @@ vs:
       year: 2001
       draw: Round Robin(4)
       score: RID 6 - HOL 5
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 84
-        wins: 1
-        losses: 1
-      player2:
-        percent: 84
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'HOLL'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'MCCA'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2009
-      draw: Round Robin(6)
-      score: HOLL 4 - MCCA 3
-    - player1:
-        team: 'HOLL'
-        position: Fourth
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'MCCA'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2009
-      draw: Tie-Breaker(9)
-      score: MCCA 7 - HOLL 6
  - name: McEwen, Dawn
    totals:
     - event: Trials (Women)
@@ -978,6 +934,50 @@ vs:
       year: 2009
       draw: Round Robin(5)
       score: WEBS 5 - HOLL 6
+ - name: Scharf, Krista
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 84
+        wins: 1
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'HOLL'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCCA'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2009
+      draw: Round Robin(6)
+      score: HOLL 4 - MCCA 3
+    - player1:
+        team: 'HOLL'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCCA'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2009
+      draw: Tie-Breaker(9)
+      score: MCCA 7 - HOLL 6
  - name: Schraeder, Jeanna
    totals:
     - event: Trials (Women)

@@ -80,7 +80,6 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - MacLean, Kari
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Miskew, Emma
@@ -93,6 +92,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim

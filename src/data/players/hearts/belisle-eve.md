@@ -134,7 +134,6 @@ vs:
  - Mallett, Marla
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
@@ -162,6 +161,7 @@ vs:
  - Rogers, Rhonda
  - Rudulier, Andrea
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy

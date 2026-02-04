@@ -186,34 +186,6 @@ vs:
       year: 2018
       draw: Round Robin(5)
       score: Robe 5 - Walk 8
- - name: Rocque, Kelsey
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 79
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CAR'
-        position: Lead
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'ROC'
-        position: Fourth
-        percent: 84
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(3)
-      score: CAR 11 - ROC 5
  - name: Rumberg, Crystal
    totals:
     - event: Canada Cup (Women)
@@ -286,6 +258,34 @@ vs:
       year: 2011
       draw: Round Robin(2)
       score: NED 6 - JON 9
+ - name: Scharf, Krista
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'HN'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'KM'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(10)
+      score: KM 7 - HN 10
  - name: Scheidegger, Casey
    totals:
     - event: Canada Cup (Women)

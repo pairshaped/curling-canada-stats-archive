@@ -170,34 +170,6 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Sche 5 - McCa 4
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 69
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Sche'
-        position: Second
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(3)
-      score: Sche 5 - McCa 4
  - name: McDonald, Taylor
    totals:
     - event: Trials (Women)
@@ -366,34 +338,34 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Sche 5 - McCa 4
- - name: Rocque, Kelsey
+ - name: Scharf, Krista
    totals:
     - event: Trials (Women)
       player1:
-        percent: 94
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
+        percent: 69
         wins: 1
         losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
    games:
     - player1:
         team: 'Sche'
         position: Second
-        percent: 94
-        win: 0
-        loss: 1
-      player2:
-        team: 'Rocq'
-        position: Fourth
-        percent: 89
+        percent: 69
         win: 1
         loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
       event: Trials (Women)
       year: 2021
-      draw: Round Robin(5)
-      score: Sche 5 - Rocq 6
+      draw: Round Robin(3)
+      score: Sche 5 - McCa 4
  - name: Schmiemann, Danielle
    totals:
     - event: Trials (Women)

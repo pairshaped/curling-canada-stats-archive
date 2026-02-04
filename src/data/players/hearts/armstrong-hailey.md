@@ -4,19 +4,19 @@ name: Hailey Armstrong
 name-sort: Armstrong, Hailey
 totals:
  - event: Hearts
-   games: 20
-   wins: 9
-   losses: 11
-   inturn-total: 205
-   inturn-percent: 70
-   outturn-total: 185
-   outturn-percent: 70
-   draw-total: 151
-   draw-percent: 67
-   takeout-total: 239
-   takeout-percent: 72
-   shots-total: 390
-   shots-percent: 70
+   games: 28
+   wins: 14
+   losses: 14
+   inturn-total: 285
+   inturn-percent: 73
+   outturn-total: 260
+   outturn-percent: 73
+   draw-total: 227
+   draw-percent: 72
+   takeout-total: 318
+   takeout-percent: 74
+   shots-total: 545
+   shots-percent: 73
 years:
  - year: 2021
    event: Hearts
@@ -54,6 +54,24 @@ years:
    takeout-percent: 69
    shots-total: 152
    shots-percent: 67
+ - year: 2026
+   event: Hearts
+   team: "ON"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 80
+   inturn-percent: 81
+   outturn-total: 75
+   outturn-percent: 78
+   draw-total: 76
+   draw-percent: 80
+   takeout-total: 79
+   takeout-percent: 79
+   shots-total: 155
+   shots-percent: 80
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -63,48 +81,64 @@ vs:
  - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
+ - Bonneau, Kim
  - Brown, Corryn
  - Brown, Rachelle
  - Burgess, Karlee
  - Cameron, Kate
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
  - Courtney, Joanne
  - Crandall, Jaclyn
- - Doerksen, Katherine
+ - Demmans, Dayna
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
  - Everist, Karlee
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flemming, Margot
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gordon, Kristin
  - Griffin, Alison
  - Hamilton, Beth
  - Harris, Briane
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Hill, Sarah
  - Homan, Rachel
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Jones, Jennifer
+ - Kaufman, Nicky
  - Knapp, Breanne
+ - Koehler, Megan
  - Koltun, Sarah
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lawes, Kaitlyn
  - Lenentine, Lauren
  - Lister, Kendra
  - Loder, Jenna
  - MacDonald, Kaitlin
+ - Mackenzie, Julianna
  - Martin, Nancy
  - McDonald, Taylor
+ - McGillivray, Megan
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
@@ -112,16 +146,23 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Reese-Hansen, Taylor
+ - Remillard, Katherine
  - Rizzo, Jo-Ann
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Shea, Michelle
+ - Silvernagle, Robyn
  - Simons, Renee
+ - Skauge, Ella
+ - Stevens, Taylour
  - Stewart, Chaelynn
  - Strybosch, Rachelle
  - Sweeting, Val
  - Tran, Brittany
  - Tuor, Kimberly
+ - Umlah, Alison
  - Walker, Laura
  - Wallingham, Patty
  - Weagle, Lisa

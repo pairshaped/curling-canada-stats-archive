@@ -142,13 +142,13 @@ vs:
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
- - McCarville, Krista
  - McDonald, Taylor
  - Peterman, Jocelyn
  - Pinksen, Sadie
  - Ramsay, Geri-Lynn
  - Rumberg, Crystal
  - Schafer, Kelly
+ - Scharf, Krista
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn

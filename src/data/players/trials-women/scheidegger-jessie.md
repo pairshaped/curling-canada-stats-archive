@@ -52,7 +52,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McEwen, Dawn
  - Miskew, Emma
  - Officer, Jill
@@ -61,6 +60,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
+ - Scharf, Krista
  - Sippala, Ashley
  - Sweeting, Val
  - Tippin, Julie

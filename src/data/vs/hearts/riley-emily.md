@@ -86,6 +86,34 @@ vs:
       year: 2023
       draw: Round Robin(8)
       score: SK 5 - QC 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(15)
+      score: QC 4 - NO 6
  - name: Schmiemann, Danielle
    totals:
     - event: Hearts

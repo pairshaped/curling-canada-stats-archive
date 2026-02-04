@@ -366,34 +366,6 @@ vs:
       year: 2009
       draw: Round Robin(6)
       score: WEBS 11 - SCOT 3
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'SCOT'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'MCCA'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2009
-      draw: Round Robin(5)
-      score: SCOT 5 - MCCA 9
  - name: McEwen, Dawn
    totals:
     - event: Trials (Women)
@@ -646,6 +618,34 @@ vs:
       year: 2009
       draw: Round Robin(6)
       score: WEBS 11 - SCOT 3
+ - name: Scharf, Krista
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SCOT'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCCA'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2009
+      draw: Round Robin(5)
+      score: SCOT 5 - MCCA 9
  - name: Schneider, Kim
    totals:
     - event: Trials (Women)

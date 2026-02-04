@@ -129,7 +129,6 @@ vs:
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - Mann, Lauren
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - Miskew, Emma
@@ -145,6 +144,7 @@ vs:
  - Quillian, Sylvie
  - Richard, Marie
  - Rusnell, Jen
+ - Scharf, Krista
  - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley

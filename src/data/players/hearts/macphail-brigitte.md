@@ -60,6 +60,7 @@ vs:
  - Barker, Penny
  - Barker, Shelley
  - Baxter, Jennifer
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -70,7 +71,6 @@ vs:
  - Dubue, Lindsay
  - Einarson, Kerri
  - Enge, Jenna
- - Erickson, Rachel
  - Everist, Karlee
  - Flaxey, Allison
  - Forward, Katie
@@ -89,7 +89,6 @@ vs:
  - Lilly, Kendra
  - Loken, Sarah
  - MacMillan, Kayla
- - McCarville, Krista
  - Mercer, Adrienne
  - Middaugh, Kelly
  - Miskew, Emma
@@ -102,6 +101,7 @@ vs:
  - Riley, Emily
  - Routledge, Alanna
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Sharpe, Kelli
  - Shea, Michelle

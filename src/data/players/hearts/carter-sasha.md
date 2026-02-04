@@ -367,7 +367,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -420,6 +419,7 @@ vs:
  - Ross, Allison
  - Rudulier, Andrea
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Scotland, Nadine

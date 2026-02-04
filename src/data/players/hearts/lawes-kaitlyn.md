@@ -4,18 +4,18 @@ name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
  - event: Hearts
-   games: 131
-   wins: 90
-   losses: 41
-   inturn-total: 1214
+   games: 142
+   wins: 100
+   losses: 42
+   inturn-total: 1306
    inturn-percent: 82
-   outturn-total: 1251
+   outturn-total: 1355
    outturn-percent: 81
-   draw-total: 963
-   draw-percent: 79
-   takeout-total: 1502
+   draw-total: 1041
+   draw-percent: 80
+   takeout-total: 1620
    takeout-percent: 82
-   shots-total: 2465
+   shots-total: 2661
    shots-percent: 81
 years:
  - year: 2011
@@ -216,6 +216,24 @@ years:
    takeout-percent: 79
    shots-total: 144
    shots-percent: 78
+ - year: 2026
+   event: Hearts
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 92
+   inturn-percent: 83
+   outturn-total: 104
+   outturn-percent: 83
+   draw-total: 78
+   draw-percent: 85
+   takeout-total: 118
+   takeout-percent: 81
+   shots-total: 196
+   shots-percent: 83
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -235,11 +253,13 @@ vs:
  - Baxter, Jennifer
  - Beauchamp, Sasha
  - Bell, Chelsey
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
+ - Bonneau, Kim
  - Boyle, Jane
  - Bradley, Shelley
  - Brassard, Veronique
@@ -272,9 +292,9 @@ vs:
  - Daly, Calissa
  - deGroot, Cassandra
  - deJager, Blaine
+ - Demmans, Dayna
  - deSolla, Jodie
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Dubue, Lindsay
@@ -291,7 +311,11 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Fleury, Tracy
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Forward, Katie
  - Foster, Kerry
  - Fraser, Sherry
@@ -322,7 +346,7 @@ vs:
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -337,6 +361,7 @@ vs:
  - Kalenchuk, Heather
  - Karwacki, Krysten
  - Kasner, Marliese
+ - Kaufman, Nicky
  - Kelly, Andrea
  - Kelly, Kim
  - Kleibrink, Shannon
@@ -347,6 +372,8 @@ vs:
  - Koltun, Sarah
  - Korab, Stephanie
  - Kreviazuk, Alison
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lamswood, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -354,12 +381,14 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - Lister, Kendra
+ - Lloyd, Grace
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacDougall, Leslie
+ - Mackenzie, Julianna
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - MacPhee, Robyn
@@ -369,8 +398,8 @@ vs:
  - Martin, Nancy
  - Materi, Roberta
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
+ - McGillivray, Megan
  - McInnis, Susan
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
@@ -404,12 +433,16 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Reese-Hansen, Taylor
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Robert, Michaela
  - Ross, Allison
  - Routledge, Alanna
  - Rusnell, Jen
@@ -417,6 +450,7 @@ vs:
  - Sagle, Karen
  - Sandwith, Carley
  - Schafer, Kelly
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schmiemann, Danielle
@@ -445,6 +479,8 @@ vs:
  - Sonnenberg, Renee
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Steele, Rachel
+ - Stevens, Taylour
  - Stewart, Chaelynn
  - Stremick, Taylor
  - Strong, Heather
@@ -460,10 +496,12 @@ vs:
  - Trombley, Christy
  - Tuor, Kimberly
  - Udle, Teri
+ - Umlah, Alison
  - Vandale, Trysta
  - Vautour, Carrie
  - Vey, Lana
  - Walker, Laura
+ - Wallingham, Patty
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

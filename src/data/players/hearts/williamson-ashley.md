@@ -61,7 +61,6 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - MacPhee, Robyn
- - McCarville, Krista
  - McEwen, Dawn
  - Murphy, Sarah
  - Nicholls, Brenda
@@ -78,6 +77,7 @@ vs:
  - Richard, Marie
  - Ryan, Kristen
  - Sagle, Karen
+ - Scharf, Krista
  - Sippala, Ashley
  - Thompson, Karla
  - Udle, Teri

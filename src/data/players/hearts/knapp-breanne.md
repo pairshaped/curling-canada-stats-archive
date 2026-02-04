@@ -121,7 +121,6 @@ vs:
  - Crandall, Jaclyn
  - Curtis, Stacie
  - Davies, Lisa
- - Doerksen, Katherine
  - Eddy, Lori
  - Einarson, Kerri
  - Fisher, Samantha
@@ -156,6 +155,7 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Remillard, Katherine
  - Riley, Emily
  - Ross, Allison
  - Shea, Michelle

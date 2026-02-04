@@ -146,66 +146,6 @@ vs:
       year: 2013
       draw: Round Robin(12)
       score: NED 5 - JON 6
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 89
-        wins: 2
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
-        losses: 2
-   games:
-    - player1:
-        team: 'Jone'
-        position: Third
-        percent: 90
-        win: 0
-        loss: 1
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 87
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2017
-      draw: Round Robin(16)
-      score: Jone 3 - McCa 7
-    - player1:
-        team: 'Jone'
-        position: Third
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 88
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(1)
-      score: McCa 5 - Jone 8
-    - player1:
-        team: 'Jone'
-        position: Third
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Semi-Final(12)
-      score: McCa 3 - Jone 8
  - name: McDonald, Taylor
    totals:
     - event: Trials (Women)
@@ -950,34 +890,66 @@ vs:
       year: 2013
       draw: Final(18)
       score: JON 8 - MID 4
- - name: Rocque, Kelsey
+ - name: Scharf, Krista
    totals:
     - event: Trials (Women)
       player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
+        percent: 89
+        wins: 2
         losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 2
    games:
     - player1:
         team: 'Jone'
         position: Third
-        percent: 83
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2017
+      draw: Round Robin(16)
+      score: Jone 3 - McCa 7
+    - player1:
+        team: 'Jone'
+        position: Third
+        percent: 94
         win: 1
         loss: 0
       player2:
-        team: 'Rocq'
+        team: 'McCa'
         position: Fourth
-        percent: 75
+        percent: 88
         win: 0
         loss: 1
       event: Trials (Women)
       year: 2021
-      draw: Round Robin(6)
-      score: Rocq 5 - Jone 8
+      draw: Round Robin(1)
+      score: McCa 5 - Jone 8
+    - player1:
+        team: 'Jone'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Semi-Final(12)
+      score: McCa 3 - Jone 8
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

@@ -476,7 +476,6 @@ vs:
  - Matheson, Sandy
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCrady, Christine
@@ -546,6 +545,7 @@ vs:
  - Sanders, Pat
  - Santos, Deb
  - Scales, Julie
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Donna

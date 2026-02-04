@@ -1326,34 +1326,6 @@ vs:
       year: 2018
       draw: Pool(18)
       score: YT 9 - NU 4
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(14)
-      score: NO 10 - YT 2
  - name: McDonald, Kristy
    totals:
     - event: Hearts
@@ -1966,6 +1938,34 @@ vs:
       year: 2014
       draw: Round Robin(9)
       score: TR 7 - BC 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(14)
+      score: NO 10 - YT 2
  - name: Shea, Michelle
    totals:
     - event: Hearts

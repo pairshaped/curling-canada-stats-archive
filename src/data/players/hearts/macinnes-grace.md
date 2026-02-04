@@ -61,7 +61,6 @@ vs:
  - MacLean, Kari
  - MacPhee, Robyn
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Morris, Cori
@@ -74,6 +73,7 @@ vs:
  - Richards, Brette
  - Robertson, Darcy
  - Sabourin, Joelle
+ - Scharf, Krista
  - Singler, Sherri
  - Sobey, Lianne
  - Spencer, Barb

@@ -642,34 +642,6 @@ vs:
       year: 2017
       draw: Round Robin(4)
       score: MB 9 - NT 4
- - name: Doerksen, Katherine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'AB'
-        position: Third
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(10)
-      score: WC 6 - AB 4
  - name: Doig, Deanna
    totals:
     - event: Hearts
@@ -2182,7 +2154,7 @@ vs:
       year: 2024
       draw: Round Robin(10)
       score: ON 8 - MB 6
- - name: Horte, Bailey
+ - name: Horvey, Bailey
    totals:
     - event: Hearts
       player1:
@@ -3402,66 +3374,6 @@ vs:
       year: 2017
       draw: Round Robin(12)
       score: MB 8 - NS 3
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 1
-        losses: 2
-      player2:
-        percent: 89
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2017
-      draw: Round Robin(7)
-      score: NO 7 - MB 8
-    - player1:
-        team: 'AB'
-        position: Third
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 100
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(12)
-      score: AB 3 - NO 4
-    - player1:
-        team: 'WC'
-        position: Third
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(4)
-      score: WC 6 - NO 9
  - name: McEvoy, Julie
    totals:
     - event: Hearts
@@ -4286,6 +4198,34 @@ vs:
       year: 2023
       draw: Round Robin(10)
       score: WC 6 - NB 7
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(10)
+      score: WC 6 - AB 4
  - name: Richards, Brette
    totals:
     - event: Hearts
@@ -4562,6 +4502,66 @@ vs:
       year: 2018
       draw: Round Robin(13)
       score: CA 5 - ON 7
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 1
+        losses: 2
+      player2:
+        percent: 89
+        wins: 2
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(7)
+      score: NO 7 - MB 8
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 100
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(12)
+      score: AB 3 - NO 4
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(4)
+      score: WC 6 - NO 9
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

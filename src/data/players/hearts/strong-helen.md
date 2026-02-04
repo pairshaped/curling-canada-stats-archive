@@ -60,6 +60,7 @@ vs:
  - Babin, Jillian
  - Barbour, Shona
  - Birt, Suzanne
+ - Calvert, Kelsey
  - Cameron, Kate
  - Christianson, Marie
  - Crandall, Jaclyn
@@ -85,7 +86,6 @@ vs:
  - Moore, Kristie
  - Officer, Jill
  - Peterman, Jocelyn
- - Rocque, Kelsey
  - Russell, Kayla
  - Scheidegger, Casey
  - Sharpe, Kelli

@@ -242,6 +242,7 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -259,7 +260,6 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Doig, Deanna
  - Dubue, Lindsay
  - Duncan, Chelsea
@@ -327,7 +327,6 @@ vs:
  - Martin, Nancy
  - Mattatall, Mary
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEvoy, Julie
  - McEwen, Dawn
@@ -353,17 +352,18 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
  - Russell, Kayla
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schmiemann, Danielle

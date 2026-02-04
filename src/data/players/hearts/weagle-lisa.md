@@ -243,7 +243,6 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
- - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
  - Dufresne, Audree
@@ -288,7 +287,7 @@ vs:
  - Holland, Amber
  - Holtby, Taryn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
@@ -331,7 +330,6 @@ vs:
  - Martin, Heather
  - Martin, Nancy
  - Mattatall, Mary
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -365,6 +363,7 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Reid, Jackie
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
@@ -375,6 +374,7 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim

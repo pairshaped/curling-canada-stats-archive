@@ -1590,34 +1590,6 @@ vs:
       year: 2020
       draw: Round Robin(6)
       score: NS 10 - YT 4
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 45
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Fourth
-        percent: 45
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(14)
-      score: NO 10 - YT 2
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -2150,6 +2122,34 @@ vs:
       year: 2022
       draw: Round Robin(4)
       score: QC 8 - YT 7
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 45
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 45
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(14)
+      score: NO 10 - YT 2
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

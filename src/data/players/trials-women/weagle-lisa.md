@@ -124,7 +124,6 @@ vs:
  - Lilly, Kendra
  - MacDonald, Lawnie
  - Mair, Jessica
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -141,6 +140,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Rizzo, Jo-Ann
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Scotland, Nadine

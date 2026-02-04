@@ -91,7 +91,6 @@ vs:
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - MacDonald, Kaitlin
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -106,6 +105,7 @@ vs:
  - Routledge, Jill
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scotland, Nadine
  - Sharpe, Kelli

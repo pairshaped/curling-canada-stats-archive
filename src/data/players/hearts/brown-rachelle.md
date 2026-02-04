@@ -181,7 +181,6 @@ vs:
  - Davies, Lisa
  - deSolla, Jodie
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -237,7 +236,6 @@ vs:
  - Mann, Lauren
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -261,6 +259,7 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Reid, Jackie
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
@@ -271,6 +270,7 @@ vs:
  - Rusnell, Jen
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Scoffin, Bayly

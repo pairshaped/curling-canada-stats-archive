@@ -866,50 +866,6 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Walk 9 - McCa 5
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 72
-        wins: 1
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'Engl'
-        position: Third
-        percent: 58
-        win: 0
-        loss: 1
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2017
-      draw: Round Robin(2)
-      score: Engl 4 - McCa 9
-    - player1:
-        team: 'Walk'
-        position: Third
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(8)
-      score: Walk 9 - McCa 5
  - name: McEwen, Dawn
    totals:
     - event: Trials (Women)
@@ -1430,34 +1386,50 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: CAMw 6 - SKRw 7
- - name: Rocque, Kelsey
+ - name: Scharf, Krista
    totals:
     - event: Trials (Women)
       player1:
-        percent: 80
+        percent: 72
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 63
-        wins: 0
+        percent: 75
+        wins: 1
         losses: 1
    games:
     - player1:
+        team: 'Engl'
+        position: Third
+        percent: 58
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2017
+      draw: Round Robin(2)
+      score: Engl 4 - McCa 9
+    - player1:
         team: 'Walk'
         position: Third
-        percent: 80
+        percent: 86
         win: 1
         loss: 0
       player2:
-        team: 'Rocq'
+        team: 'McCa'
         position: Fourth
-        percent: 63
+        percent: 69
         win: 0
         loss: 1
       event: Trials (Women)
       year: 2021
-      draw: Round Robin(2)
-      score: Walk 9 - Rocq 3
+      draw: Round Robin(8)
+      score: Walk 9 - McCa 5
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

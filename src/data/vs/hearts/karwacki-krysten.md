@@ -2,6 +2,34 @@
 title: Krysten Karwacki Head-to-head
 name: Karwacki, Krysten
 vs:
+ - name: Kaufman, Nicky
+   totals:
+    - event: Hearts
+      player1:
+        percent: 50
+        wins: 1
+        losses: 0
+      player2:
+        percent: 42
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 42
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(13)
+      score: NT 2 - CA 13
  - name: Kelly, Andrea
    totals:
     - event: Hearts
@@ -30,6 +58,90 @@ vs:
       year: 2024
       draw: Round Robin(3)
       score: CA 7 - NO 4
+ - name: Koehler, Megan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 50
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Third
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(13)
+      score: NT 2 - CA 13
+ - name: Lafrance, Emy
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(7)
+      score: CA 8 - QC 2
+ - name: Lafrance, Megan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(7)
+      score: CA 8 - QC 2
  - name: Lamswood, Sarah
    totals:
     - event: Hearts
@@ -186,34 +298,6 @@ vs:
       year: 2024
       draw: Round Robin(9)
       score: PE 4 - CA 10
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2024
-      draw: Round Robin(3)
-      score: CA 7 - NO 4
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -690,34 +774,6 @@ vs:
       year: 2025
       draw: Round Robin(8)
       score: QC 9 - MB 6
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 95
-        wins: 0
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 95
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Playoff(20)
-      score: MB 9 - CA 4
  - name: Schafer, Kelly
    totals:
     - event: Hearts
@@ -746,6 +802,34 @@ vs:
       year: 2023
       draw: Round Robin(11)
       score: CA 10 - SK 3
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(3)
+      score: CA 7 - NO 4
  - name: Schmiemann, Danielle
    totals:
     - event: Hearts
@@ -974,6 +1058,34 @@ vs:
       year: 2024
       draw: Round Robin(3)
       score: CA 7 - NO 4
+ - name: Skauge, Ella
+   totals:
+    - event: Hearts
+      player1:
+        percent: 50
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(13)
+      score: NT 2 - CA 13
  - name: Skinner, Kaylin
    totals:
     - event: Hearts

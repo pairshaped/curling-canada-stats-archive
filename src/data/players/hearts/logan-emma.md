@@ -67,7 +67,6 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Curtis, Erica
- - Doerksen, Katherine
  - Duncan, Chelsea
  - Einarson, Kerri
  - Flemming, Margot
@@ -95,6 +94,7 @@ vs:
  - Pincott, Erin
  - Plonka, Gabrielle
  - Porter, Erin
+ - Remillard, Katherine
  - Rizzo, Jo-Ann
  - Shea, Michelle
  - Smith, Megan

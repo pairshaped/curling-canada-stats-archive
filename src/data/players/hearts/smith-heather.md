@@ -157,6 +157,7 @@ vs:
  - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
@@ -288,7 +289,6 @@ vs:
  - Reid, Jackie
  - Renouf, Michele
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Ross, Allison
  - Sabourin, Joelle
  - Sanderson, Jessie

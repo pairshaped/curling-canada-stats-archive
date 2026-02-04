@@ -215,7 +215,6 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Kristy
  - McEwen, Dawn
@@ -249,6 +248,7 @@ vs:
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Scott, Kelly
  - Sharpe, Kelli
  - Shea, Michelle

@@ -56,6 +56,7 @@ vs:
  - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
@@ -89,7 +90,6 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Pincott, Erin
- - Rocque, Kelsey
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle

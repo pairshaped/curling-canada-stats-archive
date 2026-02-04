@@ -411,7 +411,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCrady, Christine
@@ -490,6 +489,7 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Santos, Deb
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schneider, Kim
  - Schneider, Tammy

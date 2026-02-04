@@ -182,6 +182,7 @@ vs:
  - Bernard, Krista
  - Berthelot, Janique
  - Betker, Jan
+ - Big Eagle, Rachel
  - Birnie, Hailey
  - Birt, Suzanne
  - Blackburn, Julie
@@ -218,7 +219,6 @@ vs:
  - Dobson, Sue
  - Dolan, Kim
  - Enge, Jenna
- - Erickson, Rachel
  - Farrell, Allison
  - Flaxey, Allison
  - Floyd, Kathy
@@ -291,7 +291,6 @@ vs:
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Mattatall, Mary
- - McCarville, Krista
  - McCusker, Joan
  - McDonald, Tina
  - McEwen, Dawn
@@ -339,6 +338,7 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Scales, Julie
+ - Scharf, Krista
  - Schikowski, Keri-Lynn
  - Scheidegger, Casey
  - Schmirler, Sandra

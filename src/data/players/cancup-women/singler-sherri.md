@@ -216,7 +216,6 @@ vs:
  - MacPhee, Robyn
  - Mair, Jessica
  - Materi, Roberta
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
@@ -246,6 +245,7 @@ vs:
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

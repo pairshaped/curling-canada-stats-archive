@@ -598,34 +598,6 @@ vs:
       year: 2009
       draw: Round Robin(10)
       score: LAWT 11 - ENGL 4
- - name: McCarville, Krista
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 67
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SL'
-        position: Lead
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'KM'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Page 3-4(12)
-      score: KM 2 - SL 9
  - name: McDonald, Kristy
    totals:
     - event: Canada Cup (Women)
@@ -1910,6 +1882,34 @@ vs:
       year: 2011
       draw: Round Robin(4)
       score: JON 6 - LAW 7
+ - name: Scharf, Krista
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SL'
+        position: Lead
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'KM'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Page 3-4(12)
+      score: KM 2 - SL 9
  - name: Schneider, Kim
    totals:
     - event: Canada Cup (Women)

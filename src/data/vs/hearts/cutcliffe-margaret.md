@@ -1422,34 +1422,6 @@ vs:
       year: 1987
       draw: Round Robin(3)
       score: NS 4 - BC 5
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 71
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 71
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(16)
-      score: NS 4 - NO 6
  - name: McCracken, Betty
    totals:
     - event: Hearts
@@ -2054,6 +2026,34 @@ vs:
       year: 1987
       draw: Round Robin(2)
       score: NS 6 - AB 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(16)
+      score: NS 4 - NO 6
  - name: Schmirler, Sandra
    totals:
     - event: Hearts

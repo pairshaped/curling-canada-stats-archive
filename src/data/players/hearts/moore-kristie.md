@@ -204,7 +204,6 @@ vs:
  - MacPhee, Robyn
  - Mair, Jessica
  - Martin, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - McKnight, Patti
  - Merklinger, Anne
@@ -231,6 +230,7 @@ vs:
  - Sabourin, Joelle
  - Sagle, Karen
  - Sandwith, Carley
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie

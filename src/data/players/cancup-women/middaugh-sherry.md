@@ -146,6 +146,7 @@ vs:
  - Brassard, Veronique
  - Breen, Theresa
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
@@ -219,7 +220,6 @@ vs:
  - Ramsay, Geri-Lynn
  - Robertson, Desiree
  - Rocheleau, Patty
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Sabourin, Joelle
  - Schmidt, Stephanie

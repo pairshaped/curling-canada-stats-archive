@@ -60,7 +60,6 @@ vs:
  - Lang, Lorraine
  - MacDiarmid, Kristen
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McInnis, Susan
  - Muise, Morgan
  - Nugent, Pamela
@@ -72,6 +71,7 @@ vs:
  - Ridalls, Kristen
  - Rocque, Raylene
  - Rudulier, Andrea
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

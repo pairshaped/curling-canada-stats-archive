@@ -121,7 +121,6 @@ vs:
  - Courtney, Joanne
  - Crouse, Jennifer
  - Cunningham, Jennifer
- - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -189,6 +188,7 @@ vs:
  - Pilote, Kristen
  - Price, Kara
  - Quillian, Sylvie
+ - Remillard, Katherine
  - Richard, Marie
  - Rizzo, Jo-Ann
  - Rusnell, Jen

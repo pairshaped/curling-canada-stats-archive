@@ -94,7 +94,6 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
- - McCarville, Krista
  - McEvoy, Julie
  - Mercer, Adrienne
  - Miskew, Emma
@@ -111,6 +110,7 @@ vs:
  - Quillian, Sylvie
  - Richards, Brette
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Sharpe, Kelli
  - Shea, Michelle

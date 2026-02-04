@@ -86,34 +86,6 @@ vs:
       year: 2016
       draw: Round Robin(14)
       score: NO 10 - BC 3
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 77
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 77
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(14)
-      score: NO 10 - BC 3
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -562,6 +534,34 @@ vs:
       year: 2016
       draw: Round Robin(8)
       score: ON 6 - BC 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(14)
+      score: NO 10 - BC 3
  - name: Sippala, Ashley
    totals:
     - event: Hearts

@@ -210,7 +210,6 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Doig, Deanna
  - Dubue, Lindsay
  - Duncan, Chelsea
@@ -245,7 +244,7 @@ vs:
  - Hill, Sarah
  - Hill, Trish
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -281,7 +280,6 @@ vs:
  - Martin, Nancy
  - Mattatall, Mary
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -308,6 +306,7 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
@@ -319,6 +318,7 @@ vs:
  - Sandwith, Carley
  - Saulnier, Andrea
  - Schafer, Kelly
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Schneider, Lorraine

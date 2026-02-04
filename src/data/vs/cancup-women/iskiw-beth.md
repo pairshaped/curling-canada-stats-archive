@@ -470,34 +470,6 @@ vs:
       year: 2010
       draw: Round Robin(10)
       score: KM 7 - HN 10
- - name: McCarville, Krista
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 81
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'HN'
-        position: Third
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'KM'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(10)
-      score: KM 7 - HN 10
  - name: McDonald, Kristy
    totals:
     - event: Canada Cup (Women)
@@ -1146,6 +1118,34 @@ vs:
       year: 2011
       draw: Round Robin(2)
       score: NED 6 - JON 9
+ - name: Scharf, Krista
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'HN'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'KM'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(10)
+      score: KM 7 - HN 10
  - name: Schneider, Kim
    totals:
     - event: Canada Cup (Women)

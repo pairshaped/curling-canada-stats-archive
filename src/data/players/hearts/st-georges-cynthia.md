@@ -76,7 +76,6 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Crandall, Jaclyn
- - Doerksen, Katherine
  - Duncan, Hollie
  - Eddy, Lori
  - Einarson, Kerri
@@ -110,6 +109,7 @@ vs:
  - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
+ - Remillard, Katherine
  - Rizzo, Jo-Ann
  - Schraeder, Jeanna
  - Scotland, Nadine

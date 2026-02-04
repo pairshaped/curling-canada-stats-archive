@@ -108,7 +108,7 @@ vs:
  - Hebert, Rebecca
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hynes, Julie
  - Inglis, Danielle
  - Jones, Jennifer
@@ -122,7 +122,6 @@ vs:
  - Lister, Kendra
  - Loken, Sarah
  - MacMillan, Kayla
- - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
  - Moore, Kristie
@@ -136,6 +135,7 @@ vs:
  - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Scoffin, Bayly

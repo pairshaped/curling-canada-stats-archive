@@ -56,6 +56,7 @@ vs:
  - Armstrong, Leigh
  - Birchard, Shannon
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cannon, Theresa
  - Carey, Chelsea
  - Courtney, Joanne
@@ -88,7 +89,6 @@ vs:
  - Peters, Laine
  - Rizzo, Jo-Ann
  - Robertson, Darcy
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Scheidegger, Casey
  - Sweeting, Val

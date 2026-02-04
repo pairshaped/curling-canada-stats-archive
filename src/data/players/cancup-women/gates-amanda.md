@@ -54,6 +54,7 @@ years:
    shots-percent: 76
 vs:
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Courtney, Joanne
@@ -76,7 +77,6 @@ vs:
  - Olson-Johns, Lori
  - Peterman, Jocelyn
  - Peters, Laine
- - Rocque, Kelsey
  - Sweeting, Val
  - Weagle, Lisa
  - Westcott, Raunora

@@ -108,6 +108,7 @@ vs:
  - Armstrong, Leigh
  - Bernard, Cheryl
  - Birchard, Shannon
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cannon, Theresa
  - Carey, Chelsea
@@ -153,7 +154,6 @@ vs:
  - Peters, Laine
  - Rizzo, Jo-Ann
  - Robertson, Darcy
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Scheidegger, Casey
  - Schmidt, Stephanie

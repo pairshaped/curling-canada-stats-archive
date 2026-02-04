@@ -226,34 +226,6 @@ vs:
       year: 2010
       draw: Round Robin(8)
       score: KS 3 - KM 5
- - name: McCarville, Krista
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'KS'
-        position: Lead
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'KM'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(8)
-      score: KS 3 - KM 5
  - name: Miller, Jessica
    totals:
     - event: Canada Cup (Women)
@@ -416,6 +388,34 @@ vs:
         team: 'KM'
         position: Lead
         percent: 85
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(8)
+      score: KS 3 - KM 5
+ - name: Scharf, Krista
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KS'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'KM'
+        position: Fourth
+        percent: 73
         win: 1
         loss: 0
       event: Canada Cup (Women)

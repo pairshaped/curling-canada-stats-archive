@@ -302,7 +302,6 @@ vs:
  - Mann, Lauren
  - McArdle, Cindy
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCurdy, Susan
  - McCusker, Joan
  - McEwen, Dawn
@@ -351,6 +350,7 @@ vs:
  - Santos, Deb
  - Sauer, Cathy
  - Scales, Julie
+ - Scharf, Krista
  - Schikowski, Keri-Lynn
  - Schmirler, Sandra
  - Schneider, Lorraine

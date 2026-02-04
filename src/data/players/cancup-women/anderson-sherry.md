@@ -221,7 +221,6 @@ vs:
  - Marchand, Stephanie
  - Mair, Jessica
  - Mattheis, Shannon
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - Merklinger, Lee
@@ -247,6 +246,7 @@ vs:
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

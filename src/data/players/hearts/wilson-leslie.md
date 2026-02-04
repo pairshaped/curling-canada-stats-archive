@@ -169,7 +169,6 @@ vs:
  - Mann, Lauren
  - Martin, Heather
  - Mattatall, Mary
- - McCarville, Krista
  - McConnery, Nancy
  - McEvoy, Julie
  - McEwen, Dawn
@@ -203,6 +202,7 @@ vs:
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Sagle, Karen
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim

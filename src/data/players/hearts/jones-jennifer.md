@@ -394,6 +394,7 @@ vs:
  - Burlington, Cheryl
  - Burt, Camille
  - Bush, Tracy
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhonda
@@ -430,7 +431,6 @@ vs:
  - Delahunt, Nancy
  - Derick, Catherine
  - deSolla, Jodie
- - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Dubue, Lindsay
@@ -568,7 +568,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -629,6 +628,7 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Ridalls, Kristen
@@ -636,7 +636,6 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robinson, Lori
- - Rocque, Kelsey
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison
@@ -648,6 +647,7 @@ vs:
  - Sagle, Karen
  - Sandwith, Carley
  - Scales, Julie
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie

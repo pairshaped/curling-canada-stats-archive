@@ -390,50 +390,6 @@ vs:
       year: 2023
       draw: Round Robin(4)
       score: WC 6 - NO 9
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 0
-        losses: 2
-      player2:
-        percent: 90
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Pool(17)
-      score: NO 7 - WC 5
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(4)
-      score: WC 6 - NO 9
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -746,6 +702,50 @@ vs:
       year: 2019
       draw: Pool(18)
       score: WC 11 - BC 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 2
+      player2:
+        percent: 90
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Pool(17)
+      score: NO 7 - WC 5
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(4)
+      score: WC 6 - NO 9
  - name: Sharpe, Kelli
    totals:
     - event: Hearts

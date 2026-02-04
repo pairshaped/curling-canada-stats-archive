@@ -183,7 +183,6 @@ vs:
  - Mattatall, Mary
  - McArdle, Cindy
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
@@ -211,6 +210,7 @@ vs:
  - Sabourin, Joelle
  - Sauer, Cathy
  - Scales, Julie
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly

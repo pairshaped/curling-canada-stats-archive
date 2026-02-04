@@ -287,7 +287,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Kristy
  - McDonald, Tina
@@ -337,6 +336,7 @@ vs:
  - Sanderson, Jessie
  - Sandison, Janice
  - Sandwith, Carley
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

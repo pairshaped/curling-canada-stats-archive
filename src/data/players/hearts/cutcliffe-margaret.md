@@ -153,7 +153,6 @@ vs:
  - Mann, Lauren
  - Marchuk, Lindy
  - Massullo, Deb
- - McCarville, Krista
  - McCracken, Betty
  - McCrae, Elizabeth
  - McCrae, Louise
@@ -175,6 +174,7 @@ vs:
  - Rowan, Sheila
  - Sanders, Pat
  - Savill, Jarron
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schneider, Lorraine
  - Schneider, Sheila

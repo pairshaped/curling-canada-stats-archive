@@ -60,7 +60,6 @@ vs:
  - King, Cathy
  - Loder, Cherie-Ann
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McInnis, Susan
  - Nugent, Pamela
  - Officer, Jill
@@ -70,6 +69,7 @@ vs:
  - Ridalls, Kristen
  - Rocque, Raylene
  - Rudulier, Andrea
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

@@ -322,7 +322,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCusker, Joan
@@ -372,6 +371,7 @@ vs:
  - Rusnell, Jen
  - Sabourin, Joelle
  - Sandison, Janice
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schmirler, Sandra
  - Schneider, Kim

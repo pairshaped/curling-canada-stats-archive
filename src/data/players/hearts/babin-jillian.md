@@ -143,6 +143,7 @@ vs:
  - Bradley, Shelley
  - Brassard, Veronique
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -219,7 +220,6 @@ vs:
  - Makichuk, Lindsay
  - Martin, Heather
  - Materi, Roberta
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -252,10 +252,10 @@ vs:
  - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Robison, Michala
- - Rocque, Kelsey
  - Rogers, Rhonda
  - Routledge, Alanna
  - Routledge, Jill
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim

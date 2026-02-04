@@ -56,6 +56,7 @@ vs:
  - Bernard, Cheryl
  - Birchard, Shannon
  - Brown, Rachel
+ - Calvert, Kelsey
  - Carey, Chelsea
  - Courtney, Joanne
  - Crocker, Laura
@@ -82,7 +83,6 @@ vs:
  - Olson-Johns, Lori
  - Peterman, Jocelyn
  - Peters, Laine
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Silvernagle, Robyn
  - Sweeting, Val

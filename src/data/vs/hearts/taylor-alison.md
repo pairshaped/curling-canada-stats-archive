@@ -86,6 +86,34 @@ vs:
       year: 2023
       draw: Round Robin(15)
       score: NU 4 - WC 10
+ - name: Watson, Rebecca
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(14)
+      score: NU 5 - NB 10
  - name: Wilkes, Sarah
    totals:
     - event: Hearts
@@ -130,4 +158,32 @@ vs:
       year: 2025
       draw: Round Robin(15)
       score: NU 3 - CA 9
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(6)
+      score: NL 8 - NU 2
 ---

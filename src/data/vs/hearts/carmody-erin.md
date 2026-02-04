@@ -270,34 +270,6 @@ vs:
       year: 2024
       draw: Round Robin(6)
       score: NS 6 - ON 11
- - name: Doerksen, Katherine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 0
-      player2:
-        percent: 71
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(7)
-      score: NS 8 - WC 5
  - name: Dubue, Lindsay
    totals:
     - event: Hearts
@@ -1690,66 +1662,6 @@ vs:
       year: 2010
       draw: Round Robin(3)
       score: PE 2 - AB 13
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 1
-        losses: 2
-      player2:
-        percent: 81
-        wins: 2
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(11)
-      score: ON 9 - PE 3
-    - player1:
-        team: 'PE'
-        position: Fourth
-        percent: 93
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Semi-Final(21)
-      score: ON 6 - PE 10
-    - player1:
-        team: 'NS'
-        position: Third
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(11)
-      score: NS 5 - NO 9
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -2382,6 +2294,34 @@ vs:
       year: 2010
       draw: Round Robin(13)
       score: PE 7 - QC 3
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(7)
+      score: NS 8 - WC 5
  - name: Rizzo, Jo-Ann
    totals:
     - event: Hearts
@@ -2426,34 +2366,6 @@ vs:
       year: 2024
       draw: Round Robin(14)
       score: NT 5 - NS 7
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 88
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Third
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(16)
-      score: MB 5 - NS 4
  - name: Rogers, Leslie
    totals:
     - event: Hearts
@@ -2566,6 +2478,66 @@ vs:
       year: 2019
       draw: Round Robin(1)
       score: BC 7 - NS 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 1
+        losses: 2
+      player2:
+        percent: 81
+        wins: 2
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2010
+      draw: Round Robin(11)
+      score: ON 9 - PE 3
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2010
+      draw: Semi-Final(21)
+      score: ON 6 - PE 10
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(11)
+      score: NS 5 - NO 9
  - name: Schneider, Kim
    totals:
     - event: Hearts

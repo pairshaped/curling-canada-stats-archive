@@ -313,7 +313,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McGregor, Rona
@@ -356,6 +355,7 @@ vs:
  - Sabourin, Joelle
  - Sagle, Karen
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Lorraine
  - Schneider, Tammy

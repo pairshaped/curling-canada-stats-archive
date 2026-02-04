@@ -978,50 +978,6 @@ vs:
       year: 2013
       draw: Round Robin(7)
       score: NED 6 - SWE 5
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 89
-        wins: 1
-        losses: 1
-      player2:
-        percent: 86
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'Swee'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 82
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2017
-      draw: Round Robin(19)
-      score: McCa 6 - Swee 7
-    - player1:
-        team: 'Rocq'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(7)
-      score: McCa 8 - Rocq 7
  - name: McDonald, Kristy
    totals:
     - event: Trials (Women)
@@ -1674,6 +1630,50 @@ vs:
       year: 2013
       draw: Round Robin(9)
       score: MID 7 - SWE 6
+ - name: Scharf, Krista
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 89
+        wins: 1
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'Swee'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2017
+      draw: Round Robin(19)
+      score: McCa 6 - Swee 7
+    - player1:
+        team: 'Rocq'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(7)
+      score: McCa 8 - Rocq 7
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

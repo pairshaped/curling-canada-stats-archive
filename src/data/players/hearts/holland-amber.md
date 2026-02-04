@@ -135,7 +135,6 @@ vs:
  - Cunningham, Jennifer
  - Curtis, Stacie
  - deSolla, Jodie
- - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Einarson, Megan
@@ -176,7 +175,6 @@ vs:
  - Makichuk, Lindsay
  - Martin, Heather
  - Materi, Roberta
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Middaugh, Sherry
@@ -200,8 +198,10 @@ vs:
  - Phillips, Kristen
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Robison, Michala
  - Rogers, Rhonda
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sippala, Ashley

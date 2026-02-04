@@ -143,7 +143,6 @@ vs:
  - Marchand, Karine
  - Marchuk, Lindy
  - Martin, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
  - McEwen, Dawn
@@ -161,6 +160,7 @@ vs:
  - Ramsay, Geri-Lynn
  - Rogers, Rhonda
  - Santos, Deb
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

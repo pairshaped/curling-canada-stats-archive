@@ -4,18 +4,18 @@ name: Shannon Birchard
 name-sort: Birchard, Shannon
 totals:
  - event: Hearts
-   games: 74
-   wins: 63
-   losses: 11
-   inturn-total: 670
+   games: 86
+   wins: 73
+   losses: 13
+   inturn-total: 798
    inturn-percent: 84
-   outturn-total: 679
+   outturn-total: 769
    outturn-percent: 85
-   draw-total: 514
+   draw-total: 603
    draw-percent: 82
-   takeout-total: 835
+   takeout-total: 964
    takeout-percent: 86
-   shots-total: 1349
+   shots-total: 1567
    shots-percent: 85
 years:
  - year: 2018
@@ -126,6 +126,24 @@ years:
    takeout-percent: 87
    shots-total: 188
    shots-percent: 88
+ - year: 2026
+   event: Hearts
+   team: "CA"
+   position: Second
+   alternate: false
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 128
+   inturn-percent: 86
+   outturn-total: 90
+   outturn-percent: 83
+   draw-total: 89
+   draw-percent: 81
+   takeout-total: 129
+   takeout-percent: 87
+   shots-total: 218
+   shots-percent: 85
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -140,10 +158,12 @@ vs:
  - Barker, Shelley
  - Baxter, Jennifer
  - Best, Emily
+ - Big Eagle, Rachel
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
+ - Bonneau, Kim
  - Brine, Jenn
  - Brothers, Jillian
  - Brown, Corryn
@@ -152,18 +172,21 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
+ - Chorostkowski, Brynn
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crouse, Jennifer
  - Curtis, Erica
  - Curtis, Stacie
+ - Demmans, Dayna
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Dolan, Sinead
  - Dubue, Lindsay
  - Duncan, Chelsea
@@ -179,23 +202,31 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flemming, Margot
  - Fleury, Tracy
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Forward, Katie
  - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
+ - Galusha, Sydney
  - Gates, Amanda
  - Gates, Jennifer
  - Gibson, Amy
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
  - Griffin, Alison
  - Gustafson, Leigh
  - Guy, Sara
  - Harris, Briane
  - Hawes, Dezaray
+ - Helston, Raelyn
  - Homan, Rachel
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
@@ -203,6 +234,7 @@ vs:
  - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
+ - Kaufman, Nicky
  - Kelly, Andrea
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -210,23 +242,27 @@ vs:
  - Koltun, Sarah
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lawes, Kaitlyn
  - Lawton, Stefanie
  - LeDrew, Stephanie
  - Lenentine, Lauren
  - Lilly, Kendra
  - Lister, Kendra
+ - Lloyd, Grace
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
  - MacDonald, Kaitlin
+ - Mackenzie, Julianna
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
+ - McGillivray, Megan
  - McTaggart, Cary-Anne
  - Middaugh, Kelly
  - Miskew, Emma
@@ -241,25 +277,30 @@ vs:
  - Price, Kara
  - Quillian, Sylvie
  - Ramsay, Geri-Lynn
+ - Reese-Hansen, Taylor
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
+ - Robert, Michaela
  - Routledge, Alanna
  - Routledge, Jill
  - Rumberg, Crystal
  - Sagle, Karen
  - Schafer, Kelly
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
  - Schmiemann, Danielle
  - Schraeder, Jeanna
+ - Scoffin, Bayly
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn
  - Simons, Renee
  - Sinclair, Jamie
  - Sippala, Ashley
+ - Skauge, Ella
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
@@ -268,6 +309,8 @@ vs:
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Steele, Rachel
+ - Stevens, Taylour
  - Stewart, Chaelynn
  - Stremick, Taylor
  - Strybosch, Rachelle
@@ -277,11 +320,13 @@ vs:
  - Thevenot, Kara
  - Tran, Brittany
  - Tuor, Kimberly
+ - Umlah, Alison
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Verreault, Noemie
  - Walker, Laura
+ - Wallingham, Patty
  - Walter, Meghan
  - Weagle, Lisa
  - Westcott, Raunora

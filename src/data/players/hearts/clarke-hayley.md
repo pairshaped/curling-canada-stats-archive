@@ -63,7 +63,6 @@ vs:
  - Lang, Lorraine
  - Law, Kelley
  - MacPhee, Robyn
- - McCarville, Krista
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
@@ -76,6 +75,7 @@ vs:
  - Overton-Clapham, Cathy
  - Power, Marie-Anne
  - Provencal, Darah
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

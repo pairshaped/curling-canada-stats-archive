@@ -950,66 +950,6 @@ vs:
       year: 2021
       draw: Pool(20)
       score: SK 6 - CA 10
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 3
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 3
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(6)
-      score: NO 7 - MB 8
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 69
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Final(25)
-      score: NO 6 - CA 9
-    - player1:
-        team: 'CA'
-        position: Lead
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Semi-Final(24)
-      score: NO 5 - CA 7
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -1642,6 +1582,34 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: CA 9 - AB 8
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 60
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 60
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(5)
+      score: CA 6 - WC 4
  - name: Riley, Emily
    totals:
     - event: Hearts
@@ -1862,6 +1830,66 @@ vs:
       year: 2023
       draw: Round Robin(11)
       score: CA 10 - SK 3
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 3
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 3
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(6)
+      score: NO 7 - MB 8
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Final(25)
+      score: NO 6 - CA 9
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Semi-Final(24)
+      score: NO 5 - CA 7
  - name: Schmidt, Stephanie
    totals:
     - event: Hearts

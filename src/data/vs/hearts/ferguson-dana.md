@@ -1610,50 +1610,6 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: QC 6 - AB 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Round Robin(5)
-      score: NO 6 - AB 7
-    - player1:
-        team: 'CA'
-        position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(1)
-      score: NO 8 - CA 3
  - name: McDonald, Kristy
    totals:
     - event: Hearts
@@ -2782,6 +2738,50 @@ vs:
       year: 2019
       draw: Round Robin(7)
       score: BC 8 - AB 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(5)
+      score: NO 6 - AB 7
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(1)
+      score: NO 8 - CA 3
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

@@ -58,34 +58,6 @@ vs:
       year: 2010
       draw: Round Robin(12)
       score: NL 11 - AB 4
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 82
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 82
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(10)
-      score: ON 8 - NL 5
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -422,6 +394,34 @@ vs:
       year: 2010
       draw: Round Robin(15)
       score: NL 5 - PE 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2010
+      draw: Round Robin(10)
+      score: ON 8 - NL 5
  - name: Schneider, Kim
    totals:
     - event: Hearts

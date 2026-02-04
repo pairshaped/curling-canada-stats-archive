@@ -74,6 +74,7 @@ vs:
  - Bernard, Cheryl
  - Birchard, Shannon
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Courtney, Joanne
@@ -105,7 +106,6 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Silvernagle, Robyn
  - Sweeting, Val
  - Thevenot, Kara

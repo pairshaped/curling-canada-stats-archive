@@ -136,7 +136,6 @@ vs:
  - MacPhee, Robyn
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCusker, Joan
  - McEwen, Dawn
  - McKnight, Patti
@@ -160,6 +159,7 @@ vs:
  - Roberts, Angela
  - Rocque, Raylene
  - Ross, Allison
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly

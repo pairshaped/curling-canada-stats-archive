@@ -136,7 +136,6 @@ vs:
  - Makichuk, Lindsay
  - Martin, Heather
  - Materi, Roberta
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Miller, Wendy
@@ -159,6 +158,7 @@ vs:
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Rogers, Rhonda
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Sippala, Ashley

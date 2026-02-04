@@ -3866,34 +3866,6 @@ vs:
       year: 2005
       draw: Round Robin(4)
       score: TR 8 - PE 7
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 1
-        losses: 0
-      player2:
-        percent: 39
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 59
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 39
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(16)
-      score: ON 2 - PE 8
  - name: McCloy, Elaine
    totals:
     - event: Hearts
@@ -5634,6 +5606,34 @@ vs:
       year: 2001
       draw: Round Robin(13)
       score: PE 7 - MB 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 59
+        wins: 1
+        losses: 0
+      player2:
+        percent: 39
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 59
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 39
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(16)
+      score: ON 2 - PE 8
  - name: Schmidt, Stephanie
    totals:
     - event: Hearts

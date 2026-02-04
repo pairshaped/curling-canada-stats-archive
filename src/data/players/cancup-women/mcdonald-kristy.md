@@ -91,6 +91,7 @@ vs:
  - Armstrong, Leigh
  - Bell, Chelsey
  - Brown, Rachel
+ - Calvert, Kelsey
  - Carmody, Erin
  - Courtney, Joanne
  - Crocker, Laura
@@ -131,7 +132,6 @@ vs:
  - Preston, Samantha
  - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Sabourin, Joelle

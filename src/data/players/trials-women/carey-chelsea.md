@@ -80,7 +80,6 @@ vs:
  - Lilly, Kendra
  - MacDonald, Lawnie
  - Mair, Jessica
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Merklinger, Lee
@@ -94,6 +93,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Rizzo, Jo-Ann
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Singler, Sherri

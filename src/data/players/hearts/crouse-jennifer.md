@@ -174,7 +174,6 @@ vs:
  - Makichuk, Lindsay
  - Mallett, Marla
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Moore, Kristie
@@ -201,6 +200,7 @@ vs:
  - Rumberg, Crystal
  - Sabourin, Joelle
  - Sagle, Karen
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim

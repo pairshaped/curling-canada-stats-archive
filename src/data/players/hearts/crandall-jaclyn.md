@@ -81,6 +81,7 @@ vs:
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
@@ -121,7 +122,6 @@ vs:
  - MacMillan, Kayla
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - Mercer, Adrienne
  - Miskew, Emma
  - Njegovan, Selena
@@ -132,7 +132,7 @@ vs:
  - Potts, Sarah
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Scoffin, Bayly
  - Shea, Michelle

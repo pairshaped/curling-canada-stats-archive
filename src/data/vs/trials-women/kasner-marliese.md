@@ -490,50 +490,6 @@ vs:
       year: 2009
       draw: Round Robin(2)
       score: LAWT 8 - WEBS 7
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 73
-        wins: 0
-        losses: 2
-      player2:
-        percent: 81
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'LAWT'
-        position: Third
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'MCCA'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2009
-      draw: Round Robin(3)
-      score: MCCA 6 - LAWT 5
-    - player1:
-        team: 'LAWT'
-        position: Third
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'MCCA'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2009
-      draw: Tie-Breaker(8)
-      score: MCCA 7 - LAWT 4
  - name: McCusker, Joan
    totals:
     - event: Trials (Women)
@@ -1238,6 +1194,50 @@ vs:
       year: 2009
       draw: Round Robin(2)
       score: LAWT 8 - WEBS 7
+ - name: Scharf, Krista
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 73
+        wins: 0
+        losses: 2
+      player2:
+        percent: 81
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'LAWT'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCCA'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2009
+      draw: Round Robin(3)
+      score: MCCA 6 - LAWT 5
+    - player1:
+        team: 'LAWT'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCCA'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2009
+      draw: Tie-Breaker(8)
+      score: MCCA 7 - LAWT 4
  - name: Schneider, Kim
    totals:
     - event: Trials (Women)

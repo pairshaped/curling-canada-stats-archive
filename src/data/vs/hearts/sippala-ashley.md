@@ -35,12 +35,12 @@ vs:
     - event: Hearts
       player1:
         percent: 81
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 70
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -58,17 +58,33 @@ vs:
       year: 2025
       draw: Round Robin(9)
       score: NO 10 - AB 4
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 7 - AB 4
  - name: Skrlik, Kayla
    totals:
     - event: Hearts
       player1:
         percent: 81
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 67
+        percent: 64
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -86,7 +102,23 @@ vs:
       year: 2025
       draw: Round Robin(9)
       score: NO 10 - AB 4
- - name: Smith, Sabrina
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 7 - AB 4
+ - name: Smith, Carly
    totals:
     - event: Hearts
       player1:
@@ -94,9 +126,37 @@ vs:
         wins: 1
         losses: 0
       player2:
-        percent: 66
+        percent: 65
         wins: 0
         losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(18)
+      score: NB 4 - NO 9
+ - name: Smith, Sabrina
+   totals:
+    - event: Hearts
+      player1:
+        percent: 87
+        wins: 2
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -114,6 +174,22 @@ vs:
       year: 2025
       draw: Round Robin(13)
       score: PE 2 - NO 15
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(16)
+      score: NO 6 - PE 4
  - name: Sobey, Lianne
    totals:
     - event: Hearts
@@ -202,12 +278,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 89
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 69
-        wins: 1
+        percent: 72
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -226,6 +302,22 @@ vs:
       year: 2024
       draw: Round Robin(13)
       score: AB 10 - NO 9
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(6)
+      score: AB 15 - NO 5
  - name: Sweeting, Val
    totals:
     - event: Hearts
@@ -322,13 +414,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 80
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
       player2:
-        percent: 66
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -346,6 +438,22 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: NU 6 - NO 7
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(12)
+      score: NO 8 - NU 4
  - name: Thevenot, Ashley
    totals:
     - event: Hearts
@@ -726,6 +834,62 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: NO 8 - WC 6
+ - name: Watson, Rebecca
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(18)
+      score: NB 4 - NO 9
+ - name: Weagle, Julia
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 51
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 51
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(12)
+      score: NO 8 - NU 4
  - name: Weagle, Lisa
    totals:
     - event: Hearts
@@ -1046,13 +1210,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 86
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
       player2:
-        percent: 74
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -1070,6 +1234,22 @@ vs:
       year: 2024
       draw: Round Robin(9)
       score: NO 8 - NL 3
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(4)
+      score: NO 12 - NL 5
  - name: Zacharias, Mackenzie
    totals:
     - event: Hearts

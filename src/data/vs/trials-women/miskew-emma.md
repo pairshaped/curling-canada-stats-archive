@@ -646,34 +646,50 @@ vs:
       year: 2013
       draw: Semi-Final(16)
       score: MID 10 - HOM 4
- - name: Rocque, Kelsey
+ - name: Scharf, Krista
    totals:
     - event: Trials (Women)
       player1:
-        percent: 78
+        percent: 87
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 64
-        wins: 0
+        percent: 79
+        wins: 1
         losses: 1
    games:
     - player1:
         team: 'Homa'
         position: Third
-        percent: 78
+        percent: 85
         win: 1
         loss: 0
       player2:
-        team: 'Rocq'
+        team: 'McCa'
         position: Fourth
-        percent: 64
+        percent: 84
         win: 0
         loss: 1
       event: Trials (Women)
+      year: 2017
+      draw: Round Robin(6)
+      score: McCa 2 - Homa 4
+    - player1:
+        team: 'Homa'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Trials (Women)
       year: 2021
-      draw: Round Robin(4)
-      score: Rocq 6 - Homa 9
+      draw: Round Robin(2)
+      score: Homa 5 - McCa 9
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

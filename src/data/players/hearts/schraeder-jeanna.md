@@ -260,7 +260,6 @@ vs:
  - Martin, Heather
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -310,6 +309,7 @@ vs:
  - Ross, Allison
  - Rudulier, Andrea
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Scotland, Nadine

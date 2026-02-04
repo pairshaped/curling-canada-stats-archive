@@ -57,13 +57,13 @@ vs:
  - Kelly, Andrea
  - Koltun, Sarah
  - Lilly, Kendra
- - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
  - Moore, Kristie
  - Potts, Sarah
  - Quillian, Sylvie
  - Rizzo, Jo-Ann
+ - Scharf, Krista
  - Scheidegger, Casey
  - Sippala, Ashley
  - Tuor, Kimberly

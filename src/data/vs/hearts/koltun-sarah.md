@@ -618,50 +618,6 @@ vs:
       year: 2025
       draw: Round Robin(17)
       score: BC 9 - PE 2
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 1
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NT'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(12)
-      score: NT 4 - NO 5
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 57
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2025
-      draw: Round Robin(7)
-      score: NO 3 - BC 9
  - name: McDonald, Kristy
    totals:
     - event: Hearts
@@ -1550,34 +1506,6 @@ vs:
       year: 2014
       draw: Round Robin(3)
       score: PE 3 - TR 10
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(12)
-      score: MB 9 - NT 5
  - name: Ross, Allison
    totals:
     - event: Hearts
@@ -1718,6 +1646,50 @@ vs:
       year: 2014
       draw: Round Robin(9)
       score: TR 7 - BC 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(12)
+      score: NT 4 - NO 5
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(7)
+      score: NO 3 - BC 9
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

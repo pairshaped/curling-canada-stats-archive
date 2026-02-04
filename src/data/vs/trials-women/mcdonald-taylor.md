@@ -302,34 +302,34 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: CAMw 6 - SKRw 7
- - name: Rocque, Kelsey
+ - name: Scharf, Krista
    totals:
     - event: Trials (Women)
       player1:
-        percent: 73
+        percent: 94
         wins: 1
         losses: 0
       player2:
-        percent: 63
+        percent: 69
         wins: 0
         losses: 1
    games:
     - player1:
         team: 'Walk'
         position: Second
-        percent: 73
+        percent: 94
         win: 1
         loss: 0
       player2:
-        team: 'Rocq'
+        team: 'McCa'
         position: Fourth
-        percent: 63
+        percent: 69
         win: 0
         loss: 1
       event: Trials (Women)
       year: 2021
-      draw: Round Robin(2)
-      score: Walk 9 - Rocq 3
+      draw: Round Robin(8)
+      score: Walk 9 - McCa 5
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

@@ -58,6 +58,7 @@ vs:
  - Brothers, Jillian
  - Brunton, Kira
  - Burgess, Karlee
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carmody, Erin
  - Christianson, Marie
@@ -84,7 +85,6 @@ vs:
  - Miskew, Emma
  - Papley, Paige
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Schmiemann, Danielle
  - Scoffin, Bayly
  - Smith, Heather

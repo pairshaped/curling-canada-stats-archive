@@ -494,50 +494,6 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: NU 3 - SK 9
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 1
-        losses: 1
-      player2:
-        percent: 72
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NU'
-        position: Third
-        percent: 55
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(7)
-      score: NO 9 - NU 3
-    - player1:
-        team: 'NU'
-        position: Second
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(9)
-      score: NO 5 - NU 6
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -878,34 +834,6 @@ vs:
       year: 2021
       draw: Round Robin(11)
       score: QC 7 - NU 5
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(2)
-      score: NU 3 - AB 8
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -1018,6 +946,50 @@ vs:
       year: 2019
       draw: Round Robin(5)
       score: NU 1 - BC 10
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 1
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 55
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(7)
+      score: NO 9 - NU 3
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(9)
+      score: NO 5 - NU 6
  - name: Scotland, Nadine
    totals:
     - event: Hearts

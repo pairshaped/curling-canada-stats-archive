@@ -4,18 +4,18 @@ name: Kendra Lilly
 name-sort: Lilly, Kendra
 totals:
  - event: Hearts
-   games: 85
-   wins: 55
-   losses: 30
-   inturn-total: 899
+   games: 93
+   wins: 60
+   losses: 33
+   inturn-total: 975
    inturn-percent: 79
-   outturn-total: 757
+   outturn-total: 827
    outturn-percent: 80
-   draw-total: 742
+   draw-total: 810
    draw-percent: 76
-   takeout-total: 914
+   takeout-total: 992
    takeout-percent: 82
-   shots-total: 1656
+   shots-total: 1802
    shots-percent: 79
 years:
  - year: 2016
@@ -162,9 +162,28 @@ years:
    takeout-percent: 84
    shots-total: 93
    shots-percent: 80
+ - year: 2026
+   event: Hearts
+   team: "NO"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 76
+   inturn-percent: 84
+   outturn-total: 70
+   outturn-percent: 77
+   draw-total: 68
+   draw-percent: 79
+   takeout-total: 78
+   takeout-percent: 82
+   shots-total: 146
+   shots-percent: 80
 vs:
  - Ackerman, Skylar
  - Ackland, Abby
+ - Adams, Kristina
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
  - Armstrong, Jennifer
@@ -174,6 +193,7 @@ vs:
  - Barker, Shelley
  - Baxter, Jennifer
  - Belisle, Eve
+ - Best, Emily
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
@@ -188,7 +208,9 @@ vs:
  - Brown, Rachelle
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
@@ -217,6 +239,7 @@ vs:
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Forward, Katie
  - Foster, Kerry
  - Fullerton, Sarah
@@ -224,6 +247,7 @@ vs:
  - Galusha, Kerry
  - Gamble, Christie
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Griffin, Alison
  - Gustafson, Leigh
  - Hamilton, Beth
@@ -270,6 +294,7 @@ vs:
  - Mercer, Adrienne
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
@@ -284,12 +309,17 @@ vs:
  - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
+ - Power, Amanda
+ - Powers, Marlee
  - Quillian, Sylvie
  - Rainville, Julie
+ - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
@@ -312,6 +342,9 @@ vs:
  - Silvernagle, Robyn
  - Sinclair, Jamie
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Sabrina
  - St-Georges, Laurie
  - Stewart, Chaelynn
@@ -331,11 +364,13 @@ vs:
  - Walker, Laura
  - Walter, Meghan
  - Wark, Sarah
+ - Watson, Rebecca
  - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah
  - Williamson, Ashley
  - Wilson, Leslie
+ - Wiseman, Jessica
  - Zacharias, Mackenzie
 ---

@@ -75,6 +75,7 @@ vs:
  - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
@@ -103,7 +104,6 @@ vs:
  - Lilly, Kendra
  - MacDonald, Lawnie
  - Mair, Jessica
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -123,7 +123,7 @@ vs:
  - Pincott, Erin
  - Potts, Sarah
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle

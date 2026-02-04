@@ -62,6 +62,7 @@ vs:
  - Arsenault-Bishop, Nicole
  - Babin, Jillian
  - Barker, Penny
+ - Big Eagle, Rachel
  - Birt, Suzanne
  - Brown, Corryn
  - Campbell, Jolene
@@ -71,7 +72,6 @@ vs:
  - Crandall, Jaclyn
  - Eddy, Lori
  - Enge, Jenna
- - Erickson, Rachel
  - Fisher, Samantha
  - Flaxey, Allison
  - Forward, Katie
@@ -91,7 +91,6 @@ vs:
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - Martin, Nancy
- - McCarville, Krista
  - Miskew, Emma
  - Njegovan, Robyn
  - Njegovan, Selena
@@ -101,6 +100,7 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Riley, Emily
+ - Scharf, Krista
  - Shea, Michelle
  - Sicinski, Danielle
  - Sippala, Ashley

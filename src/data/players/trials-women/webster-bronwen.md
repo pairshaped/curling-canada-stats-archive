@@ -94,7 +94,6 @@ vs:
  - MacLean, Kari
  - Malekoff, Stephanie
  - Materi, Roberta
- - McCarville, Krista
  - McEwen, Dawn
  - Middaugh, Sherry
  - Montgomery, Kay
@@ -107,6 +106,7 @@ vs:
  - Preston, Sam
  - Purdy, Karen
  - Rumberg, Crystal
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

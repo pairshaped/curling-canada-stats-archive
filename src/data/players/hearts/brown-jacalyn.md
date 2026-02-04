@@ -103,7 +103,6 @@ vs:
  - MacPhee, Robyn
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Tina
  - McEwen, Dawn
@@ -123,6 +122,7 @@ vs:
  - Robertson, Darcy
  - Sabourin, Joelle
  - Sandison, Janice
+ - Scharf, Krista
  - Singler, Sherri
  - Skinner, Julie
  - Sobey, Lianne

@@ -147,7 +147,6 @@ vs:
  - Martin, Heather
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCusker, Joan
  - McHugh, Cindy
  - McInnis, Susan
@@ -179,6 +178,7 @@ vs:
  - Rudulier, Andrea
  - Sabourin, Joelle
  - Santos, Deb
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Donna

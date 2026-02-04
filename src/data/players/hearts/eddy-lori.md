@@ -72,6 +72,11 @@ years:
    takeout-percent: 68
    shots-total: 145
    shots-percent: 67
+ - year: 2026
+   event: Hearts
+   team: "ON"
+   position: Alternate
+   alternate: true
 vs:
  - Adams, Melissa
  - Anderson, Sherry
@@ -90,6 +95,7 @@ vs:
  - Boivin, Florence
  - Brown, Corryn
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Campbell, June
  - Carey, Chelsea
@@ -145,7 +151,6 @@ vs:
  - Mallett, Marla
  - Martin, Heather
  - Martin, Nancy
- - McCarville, Krista
  - McCusker, Joan
  - McDonald, Taylor
  - Mercer, Adrienne
@@ -159,10 +164,10 @@ vs:
  - Pincott, Erin
  - Radford, Helen
  - Riley, Emily
- - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schmirler, Sandra
  - Scotland, Nadine
  - Shea, Michelle

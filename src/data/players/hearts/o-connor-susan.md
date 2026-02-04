@@ -188,7 +188,6 @@ vs:
  - MacPhee, Robyn
  - Mallett, Marla
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Morgan, Cheryl
@@ -209,6 +208,7 @@ vs:
  - Robertson, Darcy
  - Ryan, Kristen
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Shackleton, Amie

@@ -1398,98 +1398,6 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: SK 8 - WC 7
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 2
-        losses: 3
-      player2:
-        percent: 78
-        wins: 3
-        losses: 2
-   games:
-    - player1:
-        team: 'MB'
-        position: Second
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(13)
-      score: MB 9 - NO 6
-    - player1:
-        team: 'MB'
-        position: Second
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Page 3-4(19)
-      score: NO 7 - MB 5
-    - player1:
-        team: 'MB'
-        position: Second
-        percent: 90
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(13)
-      score: MB 5 - NO 7
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(17)
-      score: WC 8 - NO 6
-    - player1:
-        team: 'WC'
-        position: Second
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 93
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Playoff(21)
-      score: NO 8 - WC 3
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -2454,6 +2362,34 @@ vs:
       year: 2016
       draw: Round Robin(8)
       score: MB 5 - QC 6
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(22)
+      score: WC 6 - WC 5
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -2698,6 +2634,98 @@ vs:
       year: 2019
       draw: Tie-Breaker(15)
       score: BC 8 - MB 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 2
+        losses: 3
+      player2:
+        percent: 78
+        wins: 3
+        losses: 2
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(13)
+      score: MB 9 - NO 6
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Page 3-4(19)
+      score: NO 7 - MB 5
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(13)
+      score: MB 5 - NO 7
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(17)
+      score: WC 8 - NO 6
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Playoff(21)
+      score: NO 8 - WC 3
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

@@ -97,7 +97,6 @@ vs:
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - MacPhail, Brigitte
- - McCarville, Krista
  - McDonald, Kristy
  - Mercer, Adrienne
  - Miskew, Emma
@@ -113,6 +112,7 @@ vs:
  - Ross, Allison
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Sharpe, Kelli
  - Shea, Michelle

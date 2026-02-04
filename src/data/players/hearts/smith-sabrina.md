@@ -4,18 +4,18 @@ name: Sabrina Smith
 name-sort: Smith, Sabrina
 totals:
  - event: Hearts
-   games: 16
-   wins: 1
-   losses: 15
-   inturn-total: 132
-   inturn-percent: 70
-   outturn-total: 160
+   games: 24
+   wins: 3
+   losses: 21
+   inturn-total: 172
+   inturn-percent: 71
+   outturn-total: 276
    outturn-percent: 73
-   draw-total: 144
-   draw-percent: 70
-   takeout-total: 148
+   draw-total: 283
+   draw-percent: 71
+   takeout-total: 165
    takeout-percent: 74
-   shots-total: 292
+   shots-total: 448
    shots-percent: 72
 years:
  - year: 2024
@@ -88,23 +88,49 @@ years:
    takeout-percent: 70
    shots-total: 150
    shots-percent: 69
+ - year: 2026
+   event: Hearts
+   team: "PE"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 40
+   inturn-percent: 72
+   outturn-total: 116
+   outturn-percent: 73
+   draw-total: 139
+   draw-percent: 73
+   takeout-total: 17
+   takeout-percent: 74
+   shots-total: 156
+   shots-percent: 73
 vs:
  - Ackerman, Skylar
+ - Adams, Kristina
  - Adams, Melissa
  - Armstrong, Jennifer
  - Birchard, Shannon
+ - Black, Christina
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Rachelle
  - Burt, Camille
+ - Calvert, Kelsey
+ - Campbell, Jenna
  - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Doig, Deanna
  - Einarson, Kerri
+ - Everist, Karlee
  - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Gustafson, Leigh
  - Hawes, Dezaray
  - Homan, Rachel
@@ -117,23 +143,28 @@ vs:
  - Lister, Kendra
  - Lott, Kadriana
  - Martin, Nancy
- - McCarville, Krista
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Njegovan, Selena
  - Papley, Paige
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Powers, Marlee
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Riley, Emily
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Sinclair, Jamie
  - Sippala, Ashley
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Carly
  - St-Georges, Laurie
  - Stewart, Chaelynn
  - Stremick, Taylor
@@ -142,6 +173,8 @@ vs:
  - Taylor, Alison
  - Thevenot, Ashley
  - Ward, Molli
+ - Watson, Rebecca
  - Weagle, Julia
  - Wilkes, Sarah
+ - Wiseman, Jessica
 ---

@@ -185,7 +185,6 @@ vs:
  - Martin, Heather
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McDonald, Tina
  - McNamee, Karen
  - Middaugh, Sherry
@@ -212,6 +211,7 @@ vs:
  - Sabourin, Joelle
  - Sandison, Janice
  - Scales, Julie
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

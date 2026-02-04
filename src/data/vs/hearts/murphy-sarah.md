@@ -566,6 +566,50 @@ vs:
       year: 2019
       draw: Round Robin(1)
       score: BC 7 - NS 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 2
+      player2:
+        percent: 74
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Third
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 60
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(4)
+      score: NS 7 - NO 9
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(11)
+      score: NS 5 - NO 9
  - name: Sippala, Ashley
    totals:
     - event: Hearts

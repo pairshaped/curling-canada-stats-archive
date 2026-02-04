@@ -4,18 +4,18 @@ name: Erin Pincott
 name-sort: Pincott, Erin
 totals:
  - event: Hearts
-   games: 37
-   wins: 20
+   games: 39
+   wins: 22
    losses: 17
-   inturn-total: 341
+   inturn-total: 344
    inturn-percent: 81
-   outturn-total: 356
+   outturn-total: 357
    outturn-percent: 78
    draw-total: 307
    draw-percent: 79
-   takeout-total: 390
+   takeout-total: 394
    takeout-percent: 80
-   shots-total: 697
+   shots-total: 701
    shots-percent: 79
 years:
  - year: 2020
@@ -90,6 +90,22 @@ years:
    takeout-percent: 83
    shots-total: 168
    shots-percent: 82
+ - year: 2026
+   event: Hearts
+   team: "MB"
+   position: Second
+   alternate: true
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 75
+   outturn-total: 1
+   outturn-percent: 100
+   takeout-total: 4
+   takeout-percent: 81
+   shots-total: 4
+   shots-percent: 81
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -120,8 +136,12 @@ vs:
  - Einarson, Kerri
  - Everist, Karlee
  - Ferguson, Dana
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flemming, Margot
  - Fleury, Tracy
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jennifer
@@ -142,6 +162,8 @@ vs:
  - Kelly, Andrea
  - Knapp, Breanne
  - Koltun, Sarah
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Larouche, Marie-France
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -152,7 +174,6 @@ vs:
  - MacDonald, Kaitlin
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McEwen, Dawn
  - Mercer, Adrienne
  - Middaugh, Kelly
@@ -169,6 +190,7 @@ vs:
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Russell, Kayla
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Shea, Michelle
  - Silvernagle, Robyn
@@ -179,6 +201,7 @@ vs:
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stevens, Taylour
  - Stewart, Chaelynn
  - Stremick, Taylor
  - Sturmay, Selena
@@ -187,6 +210,7 @@ vs:
  - Thevenot, Ashley
  - Thevenot, Kara
  - Tuor, Kimberly
+ - Umlah, Alison
  - Weagle, Julia
  - Weagle, Lisa
  - White, Jenny

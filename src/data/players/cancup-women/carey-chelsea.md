@@ -127,6 +127,7 @@ vs:
  - Bernard, Cheryl
  - Birchard, Shannon
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cannon, Theresa
  - Carmody, Erin
@@ -184,7 +185,6 @@ vs:
  - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Robertson, Darcy
- - Rocque, Kelsey
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Sabourin, Joelle

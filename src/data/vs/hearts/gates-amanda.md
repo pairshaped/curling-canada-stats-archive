@@ -1678,6 +1678,34 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: NO 5 - NB 8
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(14)
+      score: WC 9 - NO 5
  - name: Richard, Marie
    totals:
     - event: Hearts

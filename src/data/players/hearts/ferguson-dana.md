@@ -239,7 +239,6 @@ vs:
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
  - Mann, Lauren
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -270,6 +269,7 @@ vs:
  - Rusnell, Jen
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Scotland, Nadine

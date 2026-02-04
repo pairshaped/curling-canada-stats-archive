@@ -3366,34 +3366,6 @@ vs:
       year: 1986
       draw: Round Robin(3)
       score: BC 4 - NS 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 59
-        wins: 1
-        losses: 0
-      player2:
-        percent: 64
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Fourth
-        percent: 59
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(5)
-      score: ON 7 - NS 8
  - name: McCarville, Susan
    totals:
     - event: Hearts
@@ -7738,6 +7710,34 @@ vs:
       year: 2002
       draw: Round Robin(3)
       score: PE 4 - CA 10
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 59
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 59
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(5)
+      score: ON 7 - NS 8
  - name: Schmirler, Sandra
    totals:
     - event: Hearts

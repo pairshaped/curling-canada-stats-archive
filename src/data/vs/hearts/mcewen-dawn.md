@@ -2826,6 +2826,114 @@ vs:
       year: 2019
       draw: Pool(19)
       score: CA 5 - BC 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 2
+        losses: 4
+      player2:
+        percent: 82
+        wins: 4
+        losses: 2
+   games:
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(8)
+      score: CA 6 - ON 5
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2010
+      draw: Round Robin(17)
+      score: CA 6 - ON 5
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(5)
+      score: NO 8 - CA 7
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Semi-Final(20)
+      score: CA 5 - NO 7
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Pool(18)
+      score: CA 6 - NO 8
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Pool(19)
+      score: NO 11 - WC 6
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

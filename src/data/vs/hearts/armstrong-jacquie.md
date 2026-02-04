@@ -2014,50 +2014,6 @@ vs:
       year: 2012
       draw: Round Robin(4)
       score: BC 10 - SK 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 0
-        losses: 2
-      player2:
-        percent: 81
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 91
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 74
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(8)
-      score: BC 6 - ON 7
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Page 3-4(20)
-      score: BC 4 - ON 6
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -2882,6 +2838,50 @@ vs:
       year: 2010
       draw: Round Robin(17)
       score: NL 2 - BC 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 2
+      player2:
+        percent: 81
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2010
+      draw: Round Robin(8)
+      score: BC 6 - ON 7
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2010
+      draw: Page 3-4(20)
+      score: BC 4 - ON 6
  - name: Schneider, Kim
    totals:
     - event: Hearts

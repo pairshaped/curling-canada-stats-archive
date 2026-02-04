@@ -570,50 +570,6 @@ vs:
       year: 2025
       draw: Round Robin(3)
       score: PE 6 - SK 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 2
-      player2:
-        percent: 90
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 96
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(7)
-      score: PE 5 - NO 9
-    - player1:
-        team: 'PE'
-        position: Third
-        percent: 77
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 84
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2025
-      draw: Round Robin(13)
-      score: PE 2 - NO 15
  - name: Middaugh, Kelly
    totals:
     - event: Hearts
@@ -926,6 +882,50 @@ vs:
       year: 2024
       draw: Round Robin(17)
       score: PE 6 - QC 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 72
+        wins: 0
+        losses: 2
+      player2:
+        percent: 90
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 96
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(7)
+      score: PE 5 - NO 9
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(13)
+      score: PE 2 - NO 15
  - name: Schmiemann, Danielle
    totals:
     - event: Hearts

@@ -141,7 +141,6 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - McPherson, Cheryl
@@ -163,6 +162,7 @@ vs:
  - Ross, Allison
  - Rudulier, Andrea
  - Rusnell, Jen
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scott, Kelly

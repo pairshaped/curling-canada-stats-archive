@@ -93,6 +93,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
@@ -143,7 +144,6 @@ vs:
  - Peters, Laine
  - Preston, Samantha
  - Ramsay, Geri-Lynn
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Ruus, Karen
  - Schmidt, Stephanie

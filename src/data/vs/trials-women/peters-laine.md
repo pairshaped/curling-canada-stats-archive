@@ -58,6 +58,34 @@ vs:
       year: 2013
       draw: Round Robin(5)
       score: NED 6 - MID 3
+ - name: Scharf, Krista
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Care'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2017
+      draw: Round Robin(18)
+      score: McCa 2 - Care 5
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

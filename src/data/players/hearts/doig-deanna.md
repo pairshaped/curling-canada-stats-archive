@@ -93,7 +93,6 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - Mayne, Veronica
- - McCarville, Krista
  - McEvoy, Julie
  - Miskew, Emma
  - Nedohin, Heather
@@ -109,6 +108,7 @@ vs:
  - Richards, Brette
  - Russell, Kayla
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Shea, Michelle
  - Sippala, Ashley

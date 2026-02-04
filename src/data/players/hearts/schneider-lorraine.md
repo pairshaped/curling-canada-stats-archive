@@ -62,7 +62,6 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
- - McCarville, Krista
  - McEvoy, Julie
  - Miskew, Emma
  - Nedohin, Heather
@@ -74,6 +73,7 @@ vs:
  - Potts, Sarah
  - Richards, Brette
  - Saulnier, Andrea
+ - Scharf, Krista
  - Shea, Michelle
  - Sippala, Ashley
  - Thiessen, Alison

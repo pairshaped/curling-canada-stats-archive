@@ -96,7 +96,6 @@ vs:
  - Courtney, Joanne
  - Curtis, Erica
  - Curtis, Stacie
- - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -121,15 +120,16 @@ vs:
  - Logan, Emma
  - Loken, Sarah
  - MacMillan, Kayla
- - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
  - Oliver, Sara
  - Peterson, Beth
  - Potts, Sarah
  - Quillian, Sylvie
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scotland, Nadine

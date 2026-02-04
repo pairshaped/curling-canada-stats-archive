@@ -97,7 +97,6 @@ vs:
  - MacPhee, Robyn
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - Middaugh, Sherry
  - Moore, Kim
@@ -120,6 +119,7 @@ vs:
  - Richard, Marie
  - Sabourin, Joelle
  - Sagle, Karen
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simmons, Cindy

@@ -146,7 +146,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - Middaugh, Sherry
  - Moore, Kim
@@ -169,6 +168,7 @@ vs:
  - Quillian, Sylvie
  - Richard, Marie
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simmons, Cindy

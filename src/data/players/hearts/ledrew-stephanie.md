@@ -178,7 +178,6 @@ vs:
  - MacPhee, Robyn
  - Makichuk, Lindsay
  - Martin, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -198,6 +197,7 @@ vs:
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Rumberg, Crystal
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim

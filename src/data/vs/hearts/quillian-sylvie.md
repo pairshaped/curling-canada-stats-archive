@@ -214,6 +214,82 @@ vs:
       year: 2016
       draw: Round Robin(13)
       score: ON 6 - NB 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 0
+        losses: 4
+      player2:
+        percent: 78
+        wins: 4
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(2)
+      score: NO 6 - NB 3
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(13)
+      score: NO 8 - NB 7
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 64
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Page 1-2(23)
+      score: NO 9 - NB 8
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NO 8 - NB 6
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

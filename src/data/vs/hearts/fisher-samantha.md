@@ -846,50 +846,6 @@ vs:
       year: 2025
       draw: Round Robin(17)
       score: BC 9 - PE 2
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 90
-        wins: 1
-        losses: 1
-      player2:
-        percent: 66
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(1)
-      score: NO 9 - BC 5
-    - player1:
-        team: 'BC'
-        position: Lead
-        percent: 97
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 57
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2025
-      draw: Round Robin(7)
-      score: NO 3 - BC 9
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -1306,6 +1262,50 @@ vs:
       year: 2025
       draw: Round Robin(15)
       score: NB 5 - BC 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 1
+      player2:
+        percent: 66
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(1)
+      score: NO 9 - BC 5
+    - player1:
+        team: 'BC'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(7)
+      score: NO 3 - BC 9
  - name: Schmiemann, Danielle
    totals:
     - event: Hearts

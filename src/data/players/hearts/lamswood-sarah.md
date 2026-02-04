@@ -53,7 +53,7 @@ vs:
  - Galusha, Kerry
  - Gordon, Kristin
  - Helston, Raelyn
- - Horte, Bailey
+ - Horvey, Bailey
  - Inglis, Danielle
  - Karwacki, Krysten
  - Koehler, Megan

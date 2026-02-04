@@ -50,13 +50,13 @@ vs:
  - Lang, Lorraine
  - Lawton, Stefanie
  - MacLean, Kari
- - McCarville, Krista
  - McEwen, Dawn
  - Morris, Cori
  - Nixon, Amy
  - O'Connor, Susan
  - Officer, Jill
  - Overton-Clapham, Cathy
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

@@ -282,6 +282,34 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: WC 9 - NO 5
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 51
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Second
+        percent: 51
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(14)
+      score: WC 9 - NO 5
  - name: Rizzo, Jo-Ann
    totals:
     - event: Hearts

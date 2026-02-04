@@ -258,7 +258,6 @@ vs:
  - Martin, Heather
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Tina
  - McEwen, Dawn
@@ -302,6 +301,7 @@ vs:
  - Ruus, Karen
  - Sabourin, Joelle
  - Sandison, Janice
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

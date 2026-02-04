@@ -390,6 +390,34 @@ vs:
       year: 2023
       draw: Round Robin(10)
       score: WC 6 - NB 7
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 71
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(10)
+      score: WC 6 - AB 4
  - name: Riley, Emily
    totals:
     - event: Hearts
@@ -566,6 +594,50 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: QC 3 - AB 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 0
+        losses: 2
+      player2:
+        percent: 94
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 100
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(12)
+      score: AB 3 - NO 4
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(4)
+      score: WC 6 - NO 9
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts

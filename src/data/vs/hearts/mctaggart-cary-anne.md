@@ -338,6 +338,34 @@ vs:
       year: 2019
       draw: Pool(18)
       score: WC 11 - BC 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Pool(17)
+      score: NO 7 - WC 5
  - name: Shackleton, Amie
    totals:
     - event: Hearts

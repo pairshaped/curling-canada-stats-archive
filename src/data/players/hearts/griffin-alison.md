@@ -122,6 +122,7 @@ vs:
  - Brothers, Jillian
  - Brown, Corryn
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
@@ -156,7 +157,6 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Martin, Nancy
- - McCarville, Krista
  - McDonald, Taylor
  - Mercer, Adrienne
  - Miskew, Emma
@@ -168,11 +168,11 @@ vs:
  - Pincott, Erin
  - Potts, Sarah
  - Riley, Emily
- - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scharf, Krista
  - Scotland, Nadine
  - Shea, Michelle
  - Silvernagle, Robyn

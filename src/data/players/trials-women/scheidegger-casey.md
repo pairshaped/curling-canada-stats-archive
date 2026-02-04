@@ -56,6 +56,7 @@ vs:
  - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
@@ -77,7 +78,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - Miskew, Emma
@@ -88,7 +88,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
- - Rocque, Kelsey
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Scotland, Nadine
  - Sippala, Ashley

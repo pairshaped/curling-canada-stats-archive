@@ -173,7 +173,6 @@ vs:
  - MacPhee, Robyn
  - Martin, Heather
  - Mattatall, Mary
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - Middaugh, Sherry
@@ -203,6 +202,7 @@ vs:
  - Ross, Allison
  - Rudulier, Andrea
  - Scales, Julie
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee

@@ -228,7 +228,6 @@ vs:
  - Martin, Heather
  - Mattatall, Mary
  - McArdle, Cindy
- - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCusker, Joan
@@ -267,6 +266,7 @@ vs:
  - Santos, Deb
  - Sauer, Cathy
  - Scales, Julie
+ - Scharf, Krista
  - Schmirler, Sandra
  - Sherrington, Barb
  - Shigehiro, Sally

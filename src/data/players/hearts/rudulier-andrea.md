@@ -63,7 +63,6 @@ vs:
  - Loder, Cherie-Ann
  - MacDiarmid, Kristen
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McInnis, Susan
  - Muise, Morgan
  - Nugent, Pamela
@@ -72,6 +71,7 @@ vs:
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
  - Rocque, Raylene
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

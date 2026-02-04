@@ -406,7 +406,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
  - McDonald, Kristy
@@ -470,6 +469,7 @@ vs:
  - Sandison, Janice
  - Sandwith, Carley
  - Scales, Julie
+ - Scharf, Krista
  - Schikowski, Keri-Lynn
  - Schmidt, Stephanie
  - Schmirler, Sandra

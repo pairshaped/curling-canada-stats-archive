@@ -1390,34 +1390,6 @@ vs:
       year: 2005
       draw: Round Robin(5)
       score: NB 7 - TR 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 0
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2007
-      draw: Round Robin(2)
-      score: NB 5 - ON 6
  - name: McCusker, Joan
    totals:
     - event: Hearts
@@ -2142,6 +2114,34 @@ vs:
       year: 2005
       draw: Round Robin(11)
       score: QC 5 - NB 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2007
+      draw: Round Robin(2)
+      score: NB 5 - ON 6
  - name: Schmirler, Sandra
    totals:
     - event: Hearts

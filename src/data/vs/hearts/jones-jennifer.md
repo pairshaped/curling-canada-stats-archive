@@ -3022,178 +3022,6 @@ vs:
       year: 2009
       draw: Round Robin(11)
       score: TR 10 - CA 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 76
-        wins: 5
-        losses: 5
-      player2:
-        percent: 74
-        wins: 5
-        losses: 5
-   games:
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(13)
-      score: CA 8 - ON 5
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2007
-      draw: Round Robin(12)
-      score: MB 8 - ON 5
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(8)
-      score: CA 6 - ON 5
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 80
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(17)
-      score: CA 6 - ON 5
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 90
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(5)
-      score: NO 8 - CA 7
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Semi-Final(20)
-      score: CA 5 - NO 7
-    - player1:
-        team: 'CA'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Pool(18)
-      score: CA 6 - NO 8
-    - player1:
-        team: 'WC'
-        position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Pool(19)
-      score: NO 11 - WC 6
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(2)
-      score: NO 11 - MB 8
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 72
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Page 1-2(23)
-      score: NO 5 - MB 8
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -6314,6 +6142,34 @@ vs:
       year: 2010
       draw: Final(22)
       score: CA 8 - PE 7
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 64
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 64
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(20)
+      score: MB 12 - WC 8
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -6574,50 +6430,6 @@ vs:
       year: 2002
       draw: Round Robin(1)
       score: PE 4 - MB 8
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 2
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 86
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2024
-      draw: Round Robin(14)
-      score: MB 5 - MB 10
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 65
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2024
-      draw: Semi-Final(23)
-      score: MB 7 - MB 12
  - name: Rocque, Raylene
    totals:
     - event: Hearts
@@ -7038,6 +6850,178 @@ vs:
       year: 2002
       draw: Round Robin(1)
       score: PE 4 - MB 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 5
+        losses: 5
+      player2:
+        percent: 74
+        wins: 5
+        losses: 5
+   games:
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(13)
+      score: CA 8 - ON 5
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 56
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2007
+      draw: Round Robin(12)
+      score: MB 8 - ON 5
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(8)
+      score: CA 6 - ON 5
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2010
+      draw: Round Robin(17)
+      score: CA 6 - ON 5
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(5)
+      score: NO 8 - CA 7
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Semi-Final(20)
+      score: CA 5 - NO 7
+    - player1:
+        team: 'CA'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Pool(18)
+      score: CA 6 - NO 8
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Pool(19)
+      score: NO 11 - WC 6
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: NO 11 - MB 8
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Page 1-2(23)
+      score: NO 5 - MB 8
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

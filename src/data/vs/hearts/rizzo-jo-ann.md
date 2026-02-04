@@ -2,34 +2,34 @@
 title: Jo-Ann Rizzo Head-to-head
 name: Rizzo, Jo-Ann
 vs:
- - name: Rocque, Kelsey
+ - name: Scharf, Krista
    totals:
     - event: Hearts
       player1:
-        percent: 82
+        percent: 81
         wins: 0
         losses: 1
       player2:
-        percent: 76
+        percent: 88
         wins: 1
         losses: 0
    games:
     - player1:
         team: 'NT'
         position: Fourth
-        percent: 82
+        percent: 81
         win: 0
         loss: 1
       player2:
-        team: 'MB'
-        position: Second
-        percent: 76
+        team: 'NO'
+        position: Fourth
+        percent: 88
         win: 1
         loss: 0
       event: Hearts
-      year: 2024
+      year: 2023
       draw: Round Robin(12)
-      score: MB 9 - NT 5
+      score: NT 4 - NO 5
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

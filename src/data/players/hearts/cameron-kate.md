@@ -207,7 +207,6 @@ vs:
  - deGroot, Cassandra
  - deJager, Blaine
  - Derry, Danielle
- - Doerksen, Katherine
  - Doig, Deanna
  - Dubue, Lindsay
  - Duncan, Hollie
@@ -242,7 +241,7 @@ vs:
  - Helston, Raelyn
  - Hill, Trish
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hutchings, Denise
@@ -273,7 +272,6 @@ vs:
  - Mann, Lauren
  - Martin, Nancy
  - Mattatall, Mary
- - McCarville, Krista
  - McEvoy, Julie
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -296,6 +294,7 @@ vs:
  - Potts, Sarah
  - Powers, Marlee
  - Quillian, Sylvie
+ - Remillard, Katherine
  - Richards, Brette
  - Riley, Emily
  - Rizzo, Jo-Ann
@@ -303,6 +302,7 @@ vs:
  - Routledge, Jill
  - Rumberg, Crystal
  - Sagle, Karen
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle

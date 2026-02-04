@@ -268,7 +268,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCrady, Christine
@@ -319,6 +318,7 @@ vs:
  - Sandison, Janice
  - Santos, Deb
  - Scales, Julie
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Donna

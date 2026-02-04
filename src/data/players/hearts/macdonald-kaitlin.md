@@ -101,12 +101,14 @@ vs:
  - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Boivin, Florence
  - Brown, Corryn
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -117,7 +119,6 @@ vs:
  - Dubue, Lindsay
  - Einarson, Kerri
  - Enge, Jenna
- - Erickson, Rachel
  - Everist, Karlee
  - Ferguson, Dana
  - Fisher, Samantha
@@ -146,7 +147,6 @@ vs:
  - Loken, Sarah
  - MacMillan, Kayla
  - Martin, Nancy
- - McCarville, Krista
  - McDonald, Taylor
  - Mercer, Adrienne
  - Middaugh, Kelly
@@ -159,10 +159,10 @@ vs:
  - Quillian, Sylvie
  - Ramsay, Geri-Lynn
  - Riley, Emily
- - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Scotland, Nadine
  - Sharpe, Kelli

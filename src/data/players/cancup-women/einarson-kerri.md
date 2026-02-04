@@ -72,6 +72,7 @@ years:
 vs:
  - Bernard, Cheryl
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cannon, Theresa
  - Carey, Chelsea
@@ -107,7 +108,6 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Robertson, Darcy
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Scheidegger, Casey
  - Silvernagle, Robyn

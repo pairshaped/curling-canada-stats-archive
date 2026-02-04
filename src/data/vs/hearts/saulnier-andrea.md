@@ -2,6 +2,34 @@
 title: Andrea Saulnier Head-to-head
 name: Saulnier, Andrea
 vs:
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(16)
+      score: NS 4 - NO 6
  - name: Schneider, Lorraine
    totals:
     - event: Hearts

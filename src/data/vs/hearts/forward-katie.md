@@ -962,82 +962,6 @@ vs:
       year: 2022
       draw: Round Robin(5)
       score: NB 6 - NU 3
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 85
-        wins: 0
-        losses: 4
-      player2:
-        percent: 75
-        wins: 4
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 72
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(4)
-      score: NB 3 - NO 9
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(13)
-      score: NO 8 - NB 7
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 64
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Page 1-2(23)
-      score: NO 9 - NB 8
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(7)
-      score: NO 8 - NB 6
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -1498,34 +1422,6 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: NT 6 - NB 4
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 0
-        losses: 1
-      player2:
-        percent: 94
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 89
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 94
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(5)
-      score: AB 8 - NB 3
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -1582,6 +1478,82 @@ vs:
       year: 2020
       draw: Round Robin(11)
       score: NB 11 - QC 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 0
+        losses: 4
+      player2:
+        percent: 75
+        wins: 4
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 72
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(4)
+      score: NB 3 - NO 9
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(13)
+      score: NO 8 - NB 7
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 64
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Page 1-2(23)
+      score: NO 9 - NB 8
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NO 8 - NB 6
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

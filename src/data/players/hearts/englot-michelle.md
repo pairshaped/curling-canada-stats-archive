@@ -358,7 +358,6 @@ vs:
  - Mattatall, Mary
  - McArdle, Cindy
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McDermott, Karen
  - McDonald, Tina
  - McEvoy, Julie
@@ -430,6 +429,7 @@ vs:
  - Santos, Deb
  - Sauer, Cathy
  - Scales, Julie
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim

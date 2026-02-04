@@ -1270,34 +1270,6 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: NU 3 - SK 9
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 70
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NU'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(9)
-      score: NO 5 - NU 6
  - name: McCusker, Joan
    totals:
     - event: Hearts
@@ -1710,34 +1682,6 @@ vs:
       year: 2021
       draw: Round Robin(11)
       score: QC 7 - NU 5
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(2)
-      score: NU 3 - AB 8
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -1822,6 +1766,34 @@ vs:
       year: 1997
       draw: Round Robin(5)
       score: ON 6 - QC 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NU'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(9)
+      score: NO 5 - NU 6
  - name: Schmirler, Sandra
    totals:
     - event: Hearts

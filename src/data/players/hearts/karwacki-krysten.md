@@ -4,18 +4,18 @@ name: Krysten Karwacki
 name-sort: Karwacki, Krysten
 totals:
  - event: Hearts
-   games: 27
-   wins: 21
+   games: 29
+   wins: 23
    losses: 6
-   inturn-total: 222
+   inturn-total: 225
    inturn-percent: 89
-   outturn-total: 197
-   outturn-percent: 90
-   draw-total: 358
+   outturn-total: 200
+   outturn-percent: 89
+   draw-total: 363
    draw-percent: 90
-   takeout-total: 61
-   takeout-percent: 84
-   shots-total: 419
+   takeout-total: 62
+   takeout-percent: 82
+   shots-total: 425
    shots-percent: 89
 years:
  - year: 2017
@@ -144,6 +144,24 @@ years:
    takeout-percent: 82
    shots-total: 214
    shots-percent: 90
+ - year: 2026
+   event: Hearts
+   team: "CA"
+   position: Lead
+   alternate: true
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 100
+   outturn-total: 3
+   outturn-percent: 33
+   draw-total: 5
+   draw-percent: 80
+   takeout-total: 1
+   takeout-percent: 0
+   shots-total: 6
+   shots-percent: 67
 vs:
  - Ackerman, Skylar
  - Alcoe-Holland, Jill
@@ -156,7 +174,9 @@ vs:
  - Brunton, Kira
  - Burns, Krysta
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Chorostkowski, Brynn
  - Christianson, Marie
  - Cullen, Brianna
  - Curtis, Erica
@@ -172,8 +192,11 @@ vs:
  - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Foster, Kerry
  - Fullerton, Sarah
+ - Galusha, Sydney
  - Gates, Amanda
  - Godsland, Brooke
  - Gordon, Kristin
@@ -181,19 +204,22 @@ vs:
  - Hawes, Dezaray
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hynes, Julie
  - Inglis, Danielle
  - Jenkins, Whitney
  - Just, Sherry
+ - Kaufman, Nicky
  - Kelly, Andrea
+ - Koehler, Megan
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lamswood, Sarah
  - Lawes, Kaitlyn
  - MacPhee, Robyn
  - Mattatall, Mary
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEvoy, Julie
  - Middaugh, Kelly
@@ -207,8 +233,8 @@ vs:
  - Powers, Marlee
  - Ramsay, Geri-Lynn
  - Riley, Emily
- - Rocque, Kelsey
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Scoffin, Bayly
  - Scotland, Nadine
@@ -216,6 +242,7 @@ vs:
  - Silvernagle, Robyn
  - Sinclair, Jamie
  - Sippala, Ashley
+ - Skauge, Ella
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla

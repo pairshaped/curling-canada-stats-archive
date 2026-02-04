@@ -114,34 +114,6 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: McCa 6 - Harr 4
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 88
-        wins: 0
-        losses: 1
-      player2:
-        percent: 87
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Harr'
-        position: Lead
-        percent: 88
-        win: 0
-        loss: 1
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 87
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(5)
-      score: McCa 6 - Harr 4
  - name: McDonald, Taylor
    totals:
     - event: Trials (Women)
@@ -366,34 +338,34 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: McCa 6 - Harr 4
- - name: Rocque, Kelsey
+ - name: Scharf, Krista
    totals:
     - event: Trials (Women)
       player1:
-        percent: 93
+        percent: 88
         wins: 0
         losses: 1
       player2:
-        percent: 88
+        percent: 87
         wins: 1
         losses: 0
    games:
     - player1:
         team: 'Harr'
         position: Lead
-        percent: 93
+        percent: 88
         win: 0
         loss: 1
       player2:
-        team: 'Rocq'
+        team: 'McCa'
         position: Fourth
-        percent: 88
+        percent: 87
         win: 1
         loss: 0
       event: Trials (Women)
       year: 2021
-      draw: Round Robin(8)
-      score: Rocq 8 - Harr 5
+      draw: Round Robin(5)
+      score: McCa 6 - Harr 4
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

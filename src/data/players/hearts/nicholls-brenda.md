@@ -222,7 +222,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
@@ -263,6 +262,7 @@ vs:
  - Ruus, Karen
  - Ryan, Kristen
  - Sagle, Karen
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

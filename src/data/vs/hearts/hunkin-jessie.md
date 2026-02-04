@@ -306,50 +306,6 @@ vs:
       year: 2020
       draw: Round Robin(5)
       score: NU 8 - SK 11
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 1
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2019
-      draw: Pool(16)
-      score: SK 11 - NO 5
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 82
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(14)
-      score: NO 4 - SK 3
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -806,6 +762,50 @@ vs:
       year: 2019
       draw: Pool(17)
       score: SK 8 - BC 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 1
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Pool(16)
+      score: SK 11 - NO 5
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(14)
+      score: NO 4 - SK 3
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

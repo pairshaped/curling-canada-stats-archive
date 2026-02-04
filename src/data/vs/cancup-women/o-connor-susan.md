@@ -550,6 +550,34 @@ vs:
       year: 2007
       draw: Round Robin(1)
       score: Ber 7 - San 8
+ - name: Scharf, Krista
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'CB'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'KM'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(3)
+      score: KM 8 - CB 7
  - name: Schneider, Kim
    totals:
     - event: Canada Cup (Women)

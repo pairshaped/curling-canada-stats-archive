@@ -103,7 +103,6 @@ vs:
  - Homan, Rachel
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
  - Njegovan, Selena
@@ -112,6 +111,7 @@ vs:
  - Potts, Sarah
  - Powers, Marlee
  - Ramsay, Geri-Lynn
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Sippala, Ashley
  - Skrlik, Ashton

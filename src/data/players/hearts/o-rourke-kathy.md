@@ -260,7 +260,6 @@ vs:
  - Marchand, Stephanie
  - Martin, Heather
  - Mattatall, Mary
- - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
  - McDonald, Tina
@@ -307,6 +306,7 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Santos, Deb
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schneider, Kim
  - Schneider, Tammy

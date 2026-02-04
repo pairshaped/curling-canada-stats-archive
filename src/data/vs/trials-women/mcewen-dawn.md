@@ -730,34 +730,6 @@ vs:
       year: 2013
       draw: Final(18)
       score: JON 8 - MID 4
- - name: Rocque, Kelsey
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 91
-        wins: 1
-        losses: 0
-      player2:
-        percent: 75
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Jone'
-        position: Lead
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'Rocq'
-        position: Fourth
-        percent: 75
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(6)
-      score: Rocq 5 - Jone 8
  - name: Rumberg, Crystal
    totals:
     - event: Trials (Women)
@@ -786,6 +758,82 @@ vs:
       year: 2009
       draw: Round Robin(4)
       score: WEBS 7 - JONE 8
+ - name: Scharf, Krista
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 91
+        wins: 2
+        losses: 2
+      player2:
+        percent: 79
+        wins: 2
+        losses: 2
+   games:
+    - player1:
+        team: 'JONE'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCCA'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2009
+      draw: Round Robin(2)
+      score: MCCA 9 - JONE 3
+    - player1:
+        team: 'Jone'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 87
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2017
+      draw: Round Robin(16)
+      score: Jone 3 - McCa 7
+    - player1:
+        team: 'Jone'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(1)
+      score: McCa 5 - Jone 8
+    - player1:
+        team: 'Jone'
+        position: Lead
+        percent: 99
+        win: 1
+        loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2021
+      draw: Semi-Final(12)
+      score: McCa 3 - Jone 8
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

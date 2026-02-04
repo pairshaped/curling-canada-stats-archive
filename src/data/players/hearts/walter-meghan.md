@@ -91,7 +91,6 @@ vs:
  - Lister, Kendra
  - Loken, Sarah
  - MacMillan, Kayla
- - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
  - Moore, Kristie
@@ -99,6 +98,7 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rizzo, Jo-Ann
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Scoffin, Bayly

@@ -48,7 +48,6 @@ vs:
  - Jones, Jennifer
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Miskew, Emma
@@ -59,6 +58,7 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Potts, Sarah
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Sippala, Ashley

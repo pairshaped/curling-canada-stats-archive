@@ -4,19 +4,19 @@ name: Geri-Lynn Ramsay
 name-sort: Ramsay, Geri-Lynn
 totals:
  - event: Hearts
-   games: 32
-   wins: 19
-   losses: 13
-   inturn-total: 292
-   inturn-percent: 80
-   outturn-total: 321
-   outturn-percent: 78
-   draw-total: 330
-   draw-percent: 78
-   takeout-total: 283
+   games: 40
+   wins: 24
+   losses: 16
+   inturn-total: 394
+   inturn-percent: 82
+   outturn-total: 367
+   outturn-percent: 79
+   draw-total: 454
+   draw-percent: 80
+   takeout-total: 307
    takeout-percent: 81
-   shots-total: 613
-   shots-percent: 79
+   shots-total: 761
+   shots-percent: 81
 years:
  - year: 2010
    event: Hearts
@@ -72,12 +72,32 @@ years:
    takeout-percent: 91
    shots-total: 192
    shots-percent: 84
+ - year: 2026
+   event: Hearts
+   team: "AB"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 102
+   inturn-percent: 86
+   outturn-total: 46
+   outturn-percent: 88
+   draw-total: 124
+   draw-percent: 87
+   takeout-total: 24
+   takeout-percent: 83
+   shots-total: 148
+   shots-percent: 87
 vs:
+ - Adams, Kristina
  - Armstrong, Jacquie
  - Babin, Jillian
  - Barker, Shelley
  - Baxter, Jennifer
  - Belisle, Eve
+ - Best, Emily
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -85,11 +105,14 @@ vs:
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
+ - Calvert, Kelsey
+ - Campbell, Jenna
  - Carter, Sasha
  - Christianson, Marie
  - Comeau, Martine
  - Cormier, Sharon
  - Crouse, Jennifer
+ - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
  - Desjardins, Emilie
@@ -102,9 +125,11 @@ vs:
  - Everist, Karlee
  - Fisher, Samantha
  - Fleury, Tracy
+ - Forsythe, Melodie
  - George, Tara
  - Gilman, Sheena
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
  - Gustafson, Leigh
  - Hardy, Shelley
@@ -126,6 +151,7 @@ vs:
  - Lawes, Kaitlyn
  - LeDrew, Stephanie
  - Lemon, Colette
+ - Lilly, Kendra
  - Loken, Sarah
  - Lott, Kadriana
  - MacDonald, Kaitlin
@@ -136,11 +162,11 @@ vs:
  - Makichuk, Lindsay
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - More, Whitney
  - Naugler, Tara
  - Nicholls, Brenda
@@ -149,17 +175,21 @@ vs:
  - Overton-Clapham, Cathy
  - Papley, Paige
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Phillips, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Power, Amanda
  - Powers, Marlee
  - Rainville, Julie
+ - Remillard, Katherine
  - Riley, Emily
  - Rogers, Leslie
  - Rogers, Rhonda
  - Routledge, Alanna
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Schneider, Kim
  - Schneider, Tammy
@@ -168,6 +198,7 @@ vs:
  - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley
+ - Smith, Carly
  - Smith, Sabrina
  - Sobey, Lianne
  - St-Georges, Laurie
@@ -179,8 +210,10 @@ vs:
  - Thomas, Jill
  - Thurston, Jill
  - Walker, Laura
+ - Watson, Rebecca
  - Weagle, Julia
  - Westcott, Raunora
  - Wilkes, Sarah
  - Wilson, Leslie
+ - Wiseman, Jessica
 ---

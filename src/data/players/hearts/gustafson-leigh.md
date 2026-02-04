@@ -4,19 +4,19 @@ name: Leigh Gustafson
 name-sort: Gustafson, Leigh
 totals:
  - event: Hearts
-   games: 10
-   wins: 0
-   losses: 10
-   inturn-total: 117
-   inturn-percent: 76
-   outturn-total: 59
-   outturn-percent: 69
-   draw-total: 87
+   games: 18
+   wins: 1
+   losses: 17
+   inturn-total: 192
+   inturn-percent: 74
+   outturn-total: 126
+   outturn-percent: 68
+   draw-total: 168
    draw-percent: 70
-   takeout-total: 89
-   takeout-percent: 76
-   shots-total: 176
-   shots-percent: 73
+   takeout-total: 150
+   takeout-percent: 74
+   shots-total: 318
+   shots-percent: 72
 years:
  - year: 2023
    event: Hearts
@@ -88,19 +88,47 @@ years:
    takeout-percent: 76
    shots-total: 160
    shots-percent: 73
+ - year: 2026
+   event: Hearts
+   team: "NU"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 75
+   inturn-percent: 71
+   outturn-total: 67
+   outturn-percent: 68
+   draw-total: 81
+   draw-percent: 69
+   takeout-total: 61
+   takeout-percent: 71
+   shots-total: 142
+   shots-percent: 70
 vs:
  - Ackerman, Colleen
+ - Adams, Kristina
  - Adams, Melissa
+ - Best, Emily
  - Birchard, Shannon
+ - Black, Christina
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Rachelle
+ - Calvert, Kelsey
+ - Campbell, Jenna
  - Crandall, Jaclyn
+ - Curtis, Stacie
  - DiCarlo, Jane
  - Einarson, Kerri
+ - Everist, Karlee
  - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Harris, Briane
  - Hawes, Dezaray
  - Homan, Rachel
@@ -113,22 +141,32 @@ vs:
  - Lott, Kadriana
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
+ - McCarville, Bella
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Papley, Paige
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pincott, Erin
  - Potts, Sarah
+ - Power, Amanda
+ - Powers, Marlee
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Russell, Kayla
  - Ryan, Kristen
+ - Scharf, Krista
  - Schmiemann, Danielle
+ - Sippala, Ashley
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Sabrina
  - Stewart, Chaelynn
  - Sturmay, Selena
  - Sweeting, Val
  - Walker, Laura
+ - Watson, Rebecca
  - Wilkes, Sarah
+ - Wiseman, Jessica
 ---

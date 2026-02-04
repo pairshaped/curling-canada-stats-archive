@@ -131,7 +131,6 @@ vs:
  - Makichuk, Lindsay
  - Martin, Heather
  - Materi, Roberta
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Middaugh, Sherry
@@ -156,6 +155,7 @@ vs:
  - Ramsay, Geri-Lynn
  - Robison, Michala
  - Rogers, Rhonda
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sippala, Ashley

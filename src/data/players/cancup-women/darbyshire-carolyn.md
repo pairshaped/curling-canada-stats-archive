@@ -177,7 +177,6 @@ vs:
  - Marchand, Stephanie
  - Mair, Jessica
  - Materi, Roberta
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - Miller, Jessica
@@ -200,6 +199,7 @@ vs:
  - Rumberg, Crystal
  - Sabourin, Joelle
  - Santos, Deb
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

@@ -63,7 +63,6 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - Mattatall, Mary
- - McCarville, Krista
  - McEvoy, Julie
  - Miskew, Emma
  - Nixon, Amy
@@ -74,6 +73,7 @@ vs:
  - Potts, Sarah
  - Richards, Brette
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schneider, Lorraine
  - Shea, Michelle
  - Sicinski, Danielle

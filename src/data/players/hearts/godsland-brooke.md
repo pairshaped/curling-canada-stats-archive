@@ -74,7 +74,7 @@ vs:
  - Gordon, Kristin
  - Grandy, Clancy
  - Helston, Raelyn
- - Horte, Bailey
+ - Horvey, Bailey
  - Inglis, Danielle
  - Karwacki, Krysten
  - Koehler, Megan

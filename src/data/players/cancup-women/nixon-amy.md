@@ -200,6 +200,7 @@ vs:
  - Bryden, Renelle
  - Burgess, Allyson
  - Burgess, Carey
+ - Calvert, Kelsey
  - Carey, Chelsea
  - Carter, Sasha
  - Clarke, Hayley
@@ -292,7 +293,6 @@ vs:
  - Reddick, Audrey
  - Rizzo, Jo-Ann
  - Robertson, Desiree
- - Rocque, Kelsey
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Sabourin, Joelle

@@ -302,34 +302,6 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: NS 7 - QC 4
- - name: Doerksen, Katherine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 68
-        wins: 1
-        losses: 0
-      player2:
-        percent: 71
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 68
-        win: 1
-        loss: 0
-      player2:
-        team: 'WC'
-        position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2021
-      draw: Round Robin(7)
-      score: NS 8 - WC 5
  - name: Einarson, Kerri
    totals:
     - event: Hearts
@@ -1122,34 +1094,6 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: NS 7 - PE 5
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 0
-        losses: 1
-      player2:
-        percent: 92
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Lead
-        percent: 86
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 92
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(11)
-      score: NS 5 - NO 9
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -1602,6 +1546,34 @@ vs:
       year: 2019
       draw: Round Robin(11)
       score: NS 5 - NO 9
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(7)
+      score: NS 8 - WC 5
  - name: Rizzo, Jo-Ann
    totals:
     - event: Hearts
@@ -1714,6 +1686,34 @@ vs:
       year: 2019
       draw: Round Robin(1)
       score: BC 7 - NS 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(11)
+      score: NS 5 - NO 9
  - name: Smith, Megan
    totals:
     - event: Hearts

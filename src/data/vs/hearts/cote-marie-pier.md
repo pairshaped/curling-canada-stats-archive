@@ -338,34 +338,6 @@ vs:
       year: 2020
       draw: Round Robin(14)
       score: NU 7 - QC 6
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 0
-        losses: 1
-      player2:
-        percent: 71
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 71
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(7)
-      score: QC 7 - NO 9
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -422,6 +394,34 @@ vs:
       year: 2020
       draw: Round Robin(14)
       score: NU 7 - QC 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(7)
+      score: QC 7 - NO 9
  - name: Scotland, Nadine
    totals:
     - event: Hearts

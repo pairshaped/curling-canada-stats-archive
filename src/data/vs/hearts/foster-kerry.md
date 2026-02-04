@@ -718,34 +718,6 @@ vs:
       year: 2024
       draw: Round Robin(12)
       score: YT 4 - BC 13
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 70
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Second
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(14)
-      score: NO 10 - YT 2
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -1162,34 +1134,6 @@ vs:
       year: 2024
       draw: Round Robin(16)
       score: YT 3 - NT 12
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'YT'
-        position: Third
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(6)
-      score: MB 6 - YT 5
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -1246,6 +1190,34 @@ vs:
       year: 2024
       draw: Round Robin(18)
       score: YT 11 - NB 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(14)
+      score: NO 10 - YT 2
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

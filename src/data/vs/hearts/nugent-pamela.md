@@ -386,6 +386,34 @@ vs:
       year: 2014
       draw: Round Robin(11)
       score: QC 5 - BC 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 59
+        wins: 1
+        losses: 0
+      player2:
+        percent: 57
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 59
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(8)
+      score: QC 7 - ON 5
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts

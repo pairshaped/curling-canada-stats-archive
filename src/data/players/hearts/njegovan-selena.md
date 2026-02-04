@@ -4,19 +4,19 @@ name: Selena Njegovan
 name-sort: Njegovan, Selena
 totals:
  - event: Hearts
-   games: 74
-   wins: 42
-   losses: 32
-   inturn-total: 689
-   inturn-percent: 81
-   outturn-total: 709
+   games: 85
+   wins: 52
+   losses: 33
+   inturn-total: 785
+   inturn-percent: 82
+   outturn-total: 809
    outturn-percent: 82
-   draw-total: 522
-   draw-percent: 78
-   takeout-total: 876
-   takeout-percent: 83
-   shots-total: 1398
-   shots-percent: 81
+   draw-total: 571
+   draw-percent: 79
+   takeout-total: 1023
+   takeout-percent: 84
+   shots-total: 1594
+   shots-percent: 82
 years:
  - year: 2016
    event: Hearts
@@ -183,6 +183,24 @@ years:
    takeout-percent: 84
    shots-total: 146
    shots-percent: 83
+ - year: 2026
+   event: Hearts
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 96
+   inturn-percent: 91
+   outturn-total: 100
+   outturn-percent: 85
+   draw-total: 49
+   draw-percent: 88
+   takeout-total: 147
+   takeout-percent: 88
+   shots-total: 196
+   shots-percent: 88
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -197,11 +215,13 @@ vs:
  - Barker, Penny
  - Barron, Lauren
  - Baxter, Jennifer
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blaney, Jennifer
  - Bodner, Jenine
+ - Bonneau, Kim
  - Boudreault, Patricia
  - Boyle, Jane
  - Brine, Jenn
@@ -224,8 +244,8 @@ vs:
  - Daigle, Julie
  - Daly, Calissa
  - deGroot, Cassandra
+ - Demmans, Dayna
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -239,8 +259,12 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flaxey, Allison
  - Fleury, Tracy
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Forward, Katie
  - Foster, Kerry
  - Galusha, Kerry
@@ -260,7 +284,7 @@ vs:
  - Helston, Raelyn
  - Hill, Sarah
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hynes, Julie
@@ -268,12 +292,15 @@ vs:
  - Jenkins, Whitney
  - Jones, Jennifer
  - Karwacki, Krysten
+ - Kaufman, Nicky
  - Kelly, Andrea
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lamswood, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -284,15 +311,17 @@ vs:
  - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
+ - Lloyd, Grace
  - Loder, Jenna
  - MacDonald, Kaitlin
+ - Mackenzie, Julianna
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
+ - McGillivray, Megan
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
  - Middaugh, Kelly
@@ -314,16 +343,21 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Price, Kara
  - Quillian, Sylvie
  - Rainville, Julie
+ - Reese-Hansen, Taylor
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
+ - Robert, Michaela
  - Rumberg, Crystal
  - Rusnell, Jen
  - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
@@ -332,6 +366,7 @@ vs:
  - Sharpe, Kelli
  - Shea, Michelle
  - Sicinski, Danielle
+ - Silvernagle, Robyn
  - Sinclair, Jamie
  - Sippala, Ashley
  - Skauge, Ella
@@ -340,6 +375,8 @@ vs:
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Steele, Rachel
+ - Stevens, Taylour
  - Stewart, Chaelynn
  - Stremick, Taylor
  - Sturmay, Selena
@@ -349,12 +386,14 @@ vs:
  - Thompson, Karla
  - Tran, Brittany
  - Udle, Teri
+ - Umlah, Alison
  - Vandale, Trysta
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
  - Walker, Laura
+ - Wallingham, Patty
  - Wark, Sarah
  - Weagle, Lisa
  - Westcott, Raunora

@@ -80,7 +80,6 @@ vs:
  - Koltun, Sarah
  - Loder, Cherie-Ann
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McInnis, Susan
  - Nugent, Pamela
  - Officer, Jill
@@ -91,6 +90,7 @@ vs:
  - Rizzo, Jo-Ann
  - Rocque, Raylene
  - Rudulier, Andrea
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

@@ -1130,34 +1130,6 @@ vs:
       year: 2006
       draw: Round Robin(5)
       score: TR 4 - AB 7
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 96
-        wins: 1
-        losses: 0
-      player2:
-        percent: 55
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Lead
-        percent: 96
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 55
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(3)
-      score: AB 10 - ON 2
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -1614,6 +1586,34 @@ vs:
       year: 2006
       draw: Round Robin(14)
       score: AB 11 - SK 2
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 96
+        wins: 1
+        losses: 0
+      player2:
+        percent: 55
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 55
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(3)
+      score: AB 10 - ON 2
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts

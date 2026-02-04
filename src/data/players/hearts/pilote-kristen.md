@@ -101,7 +101,6 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - Mann, Lauren
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - McPherson, Cheryl
@@ -119,6 +118,7 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Richard, Marie
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Shea, Michelle

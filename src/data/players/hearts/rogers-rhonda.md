@@ -58,7 +58,6 @@ vs:
  - Koehler, Megan
  - MacLean, Kari
  - Makichuk, Lindsay
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - More, Whitney
@@ -71,6 +70,7 @@ vs:
  - Phillips, Kristen
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

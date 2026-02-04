@@ -102,7 +102,6 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - MacDonald, Rebecca Jean
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -118,6 +117,7 @@ vs:
  - Potts, Sarah
  - Robison, Michala
  - Ross, Allison
+ - Scharf, Krista
  - Scheidegger, Casey
  - Shea, Michelle
  - Silvernagle, Robyn

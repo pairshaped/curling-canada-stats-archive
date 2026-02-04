@@ -62,6 +62,34 @@ vs:
       year: 2025
       draw: Round Robin(5)
       score: CA 9 - AB 7
+ - name: Forsythe, Melodie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(6)
+      score: AB 9 - NB 3
  - name: Forward, Katie
    totals:
     - event: Hearts
@@ -194,6 +222,34 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: NO 8 - NT 7
+ - name: Gordon-Kurz, Melissa
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(14)
+      score: AB 4 - MB 8
  - name: Grandy, Clancy
    totals:
     - event: Hearts
@@ -226,13 +282,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 93
-        wins: 1
+        percent: 96
+        wins: 2
         losses: 0
       player2:
-        percent: 87
+        percent: 88
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -250,6 +306,22 @@ vs:
       year: 2025
       draw: Round Robin(17)
       score: NU 4 - AB 7
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(8)
+      score: NU 2 - AB 9
  - name: Guy, Sara
    totals:
     - event: Hearts
@@ -354,12 +426,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 82
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 85
-        wins: 0
+        percent: 89
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -378,6 +450,22 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: AB 5 - AB 6
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(12)
+      score: AB 5 - AB 9
  - name: Helston, Raelyn
    totals:
     - event: Hearts
@@ -824,10 +912,10 @@ vs:
       player1:
         percent: 74
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 75
-        wins: 1
+        percent: 76
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -846,6 +934,22 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: NT 4 - NO 5
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 7 - AB 4
  - name: Lister, Kendra
    totals:
     - event: Hearts
@@ -1062,13 +1166,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 80
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
       player2:
-        percent: 62
+        percent: 60
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -1086,50 +1190,22 @@ vs:
       year: 2025
       draw: Round Robin(15)
       score: AB 7 - PE 5
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 2
-      player2:
-        percent: 86
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Third
-        percent: 74
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(12)
-      score: NT 4 - NO 5
     - player1:
         team: 'AB'
         position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 84
+        percent: 78
         win: 1
         loss: 0
+      player2:
+        team: 'PE'
+        position: Third
+        percent: 58
+        win: 0
+        loss: 1
       event: Hearts
-      year: 2025
-      draw: Round Robin(9)
-      score: NO 10 - AB 4
+      year: 2026
+      draw: Round Robin(10)
+      score: PE 4 - AB 10
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -1266,6 +1342,34 @@ vs:
       year: 2025
       draw: Round Robin(5)
       score: CA 9 - AB 7
+ - name: Mitchell, Mackenzie
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 77
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(16)
+      score: AB 10 - NL 4
  - name: Muise, Morgan
    totals:
     - event: Hearts
@@ -1326,12 +1430,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 82
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 91
-        wins: 0
+        percent: 89
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1350,16 +1454,32 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: AB 5 - AB 6
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(12)
+      score: AB 5 - AB 9
  - name: Peterson, Beth
    totals:
     - event: Hearts
       player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
         percent: 76
-        wins: 1
+        wins: 0
+        losses: 2
+      player2:
+        percent: 80
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1378,6 +1498,22 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: NT 8 - WC 9
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(14)
+      score: AB 4 - MB 8
  - name: Pincott, Erin
    totals:
     - event: Hearts
@@ -1410,13 +1546,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 93
-        wins: 1
+        percent: 96
+        wins: 2
         losses: 0
       player2:
-        percent: 81
+        percent: 82
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -1434,16 +1570,32 @@ vs:
       year: 2025
       draw: Round Robin(17)
       score: NU 4 - AB 7
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(8)
+      score: NU 2 - AB 9
  - name: Potts, Sarah
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 77
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 82
-        wins: 2
+        percent: 83
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1478,6 +1630,50 @@ vs:
       year: 2025
       draw: Round Robin(9)
       score: NO 10 - AB 4
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 7 - AB 4
+ - name: Power, Amanda
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 1
+        losses: 0
+      player2:
+        percent: 53
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 53
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(10)
+      score: PE 4 - AB 10
  - name: Powers, Marlee
    totals:
     - event: Hearts
@@ -1550,6 +1746,50 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: NT 6 - NB 4
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 76
+        wins: 0
+        losses: 2
+      player2:
+        percent: 83
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(18)
+      score: NT 8 - WC 9
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(14)
+      score: AB 4 - MB 8
  - name: Riley, Emily
    totals:
     - event: Hearts
@@ -1578,34 +1818,6 @@ vs:
       year: 2022
       draw: Round Robin(12)
       score: NT 7 - QC 6
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 76
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Third
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(12)
-      score: MB 9 - NT 5
  - name: Russell, Kayla
    totals:
     - event: Hearts
@@ -1634,6 +1846,66 @@ vs:
       year: 2025
       draw: Round Robin(1)
       score: AB 8 - NB 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 77
+        wins: 0
+        losses: 3
+      player2:
+        percent: 79
+        wins: 3
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(12)
+      score: NT 4 - NO 5
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(9)
+      score: NO 10 - AB 4
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 65
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 7 - AB 4
  - name: Scheidegger, Casey
    totals:
     - event: Hearts
@@ -1666,12 +1938,12 @@ vs:
    totals:
     - event: Hearts
       player1:
+        percent: 82
+        wins: 1
+        losses: 1
+      player2:
         percent: 78
         wins: 1
-        losses: 0
-      player2:
-        percent: 73
-        wins: 0
         losses: 1
    games:
     - player1:
@@ -1690,6 +1962,22 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: AB 5 - AB 6
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(12)
+      score: AB 5 - AB 9
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts
@@ -1778,12 +2066,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 77
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 84
-        wins: 2
+        percent: 83
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1818,6 +2106,50 @@ vs:
       year: 2025
       draw: Round Robin(9)
       score: NO 10 - AB 4
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 7 - AB 4
+ - name: Smith, Carly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(6)
+      score: AB 9 - NB 3
  - name: Smith, Heather
    totals:
     - event: Hearts
@@ -1878,13 +2210,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 80
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -1902,6 +2234,22 @@ vs:
       year: 2025
       draw: Round Robin(15)
       score: AB 7 - PE 5
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(10)
+      score: PE 4 - AB 10
  - name: St-Georges, Cynthia
    totals:
     - event: Hearts
@@ -2018,12 +2366,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 78
+        percent: 82
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 75
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -2042,6 +2390,22 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: AB 5 - AB 6
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(12)
+      score: AB 5 - AB 9
  - name: Sweeting, Val
    totals:
     - event: Hearts
@@ -2102,6 +2466,34 @@ vs:
       year: 2025
       draw: Playoff(19)
       score: AB 4 - MB 7
+ - name: Taylor, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 100
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(8)
+      score: NU 2 - AB 9
  - name: Tran, Brittany
    totals:
     - event: Hearts
@@ -2334,17 +2726,45 @@ vs:
       year: 2024
       draw: Round Robin(6)
       score: NT 5 - NB 7
+ - name: Watson, Rebecca
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 72
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(6)
+      score: AB 9 - NB 3
  - name: Weagle, Julia
    totals:
     - event: Hearts
       player1:
-        percent: 93
-        wins: 1
+        percent: 96
+        wins: 2
         losses: 0
       player2:
-        percent: 67
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -2362,6 +2782,22 @@ vs:
       year: 2025
       draw: Round Robin(17)
       score: NU 4 - AB 7
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 100
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(8)
+      score: NU 2 - AB 9
  - name: Wilkes, Sarah
    totals:
     - event: Hearts
@@ -2438,6 +2874,34 @@ vs:
       year: 2025
       draw: Round Robin(5)
       score: CA 9 - AB 7
+ - name: Wiseman, Jessica
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(16)
+      score: AB 10 - NL 4
  - name: Zacharias, Emily
    totals:
     - event: Hearts

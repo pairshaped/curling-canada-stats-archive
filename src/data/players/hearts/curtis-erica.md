@@ -181,7 +181,6 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -206,6 +205,7 @@ vs:
  - Rizzo, Jo-Ann
  - Sagle, Karen
  - Saulnier, Andrea
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Lorraine

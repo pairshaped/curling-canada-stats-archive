@@ -146,7 +146,6 @@ vs:
  - MacDonald, Lawnie
  - Marchand, Stephanie
  - Martin, Heather
- - McCarville, Krista
  - McInnis, Susan
  - Middaugh, Sherry
  - Morris, Cori
@@ -166,6 +165,7 @@ vs:
  - Reed, Shellan
  - Robinson, Lori
  - Scales, Julie
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

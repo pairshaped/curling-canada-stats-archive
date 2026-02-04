@@ -103,7 +103,6 @@ vs:
  - MacLean, Kari
  - Makichuk, Lindsay
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
@@ -127,6 +126,7 @@ vs:
  - Rogers, Leslie
  - Rogers, Rhonda
  - Rudulier, Andrea
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

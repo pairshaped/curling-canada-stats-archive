@@ -167,7 +167,6 @@ vs:
  - Mallett, Marla
  - Martin, Heather
  - Mattatall, Mary
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - Miller, Wendy
@@ -190,6 +189,7 @@ vs:
  - Robison, Michala
  - Rusnell, Jen
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schneider, Lorraine
  - Schraeder, Jeanna

@@ -450,34 +450,6 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Walk 9 - McCa 5
- - name: Rocque, Kelsey
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 86
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'McCa'
-        position: Third
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'Rocq'
-        position: Fourth
-        percent: 86
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(7)
-      score: McCa 8 - Rocq 7
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

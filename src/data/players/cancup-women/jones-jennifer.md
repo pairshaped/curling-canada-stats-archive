@@ -218,6 +218,7 @@ vs:
  - Brown, Rachel
  - Bruce, Twyla
  - Bush, Tracy
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cannon, Theresa
  - Carey, Chelsea
@@ -284,7 +285,6 @@ vs:
  - MacLean, Kari
  - Mair, Jessica
  - Martin, Heather
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McDonald, Tina
@@ -310,11 +310,11 @@ vs:
  - Rankin, Heather
  - Rizzo, Jo-Ann
  - Robertson, Darcy
- - Rocque, Kelsey
  - Rocque, Raylene
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Santos, Deb
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim

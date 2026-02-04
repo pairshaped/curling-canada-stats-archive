@@ -120,7 +120,6 @@ vs:
  - MacPhee, Robyn
  - Mair, Jessica
  - Martin, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Middaugh, Sherry
@@ -143,6 +142,7 @@ vs:
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Rogers, Rhonda
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sippala, Ashley

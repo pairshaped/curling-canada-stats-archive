@@ -165,6 +165,7 @@ vs:
  - Birchard, Shannon
  - Breen, Theresa
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cannon, Theresa
  - Carey, Chelsea
@@ -216,7 +217,6 @@ vs:
  - Loder, Jenna
  - MacLean, Kari
  - Materi, Roberta
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -241,9 +241,9 @@ vs:
  - Reddick, Audrey
  - Rizzo, Jo-Ann
  - Robertson, Darcy
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Sabourin, Joelle
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schneider, Kim

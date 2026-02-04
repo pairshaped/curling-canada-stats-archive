@@ -60,6 +60,7 @@ vs:
  - Brown, Corryn
  - Brown, Rachelle
  - Burgess, Karlee
+ - Calvert, Kelsey
  - Cameron, Kate
  - Courtney, Joanne
  - Einarson, Kerri
@@ -81,7 +82,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -94,7 +94,7 @@ vs:
  - Potts, Sarah
  - Powers, Marlee
  - Ramsay, Geri-Lynn
- - Rocque, Kelsey
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Scotland, Nadine

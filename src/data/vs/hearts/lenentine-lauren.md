@@ -158,50 +158,6 @@ vs:
       year: 2023
       draw: Playoff(20)
       score: MB 9 - BC 4
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 92
-        wins: 1
-        losses: 1
-      player2:
-        percent: 65
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 96
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(2)
-      score: NO 11 - MB 8
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Page 1-2(23)
-      score: NO 5 - MB 8
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -362,6 +318,34 @@ vs:
       year: 2023
       draw: Page 1-2(23)
       score: NO 5 - MB 8
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 91
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(12)
+      score: WC 5 - WC 4
  - name: Riley, Emily
    totals:
     - event: Hearts
@@ -466,6 +450,50 @@ vs:
       year: 2023
       draw: Round Robin(10)
       score: MB 10 - NT 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 1
+        losses: 1
+      player2:
+        percent: 65
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(2)
+      score: NO 11 - MB 8
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Page 1-2(23)
+      score: NO 5 - MB 8
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

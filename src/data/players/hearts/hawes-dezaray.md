@@ -4,19 +4,19 @@ name: Dezaray Hawes
 name-sort: Hawes, Dezaray
 totals:
  - event: Hearts
-   games: 37
-   wins: 21
-   losses: 16
-   inturn-total: 355
-   inturn-percent: 84
-   outturn-total: 346
-   outturn-percent: 81
-   draw-total: 324
+   games: 48
+   wins: 29
+   losses: 19
+   inturn-total: 452
+   inturn-percent: 83
+   outturn-total: 448
+   outturn-percent: 82
+   draw-total: 425
    draw-percent: 81
-   takeout-total: 377
-   takeout-percent: 83
-   shots-total: 701
-   shots-percent: 82
+   takeout-total: 475
+   takeout-percent: 84
+   shots-total: 900
+   shots-percent: 83
 years:
  - year: 2020
    event: Hearts
@@ -90,8 +90,27 @@ years:
    takeout-percent: 83
    shots-total: 149
    shots-percent: 83
+ - year: 2026
+   event: Hearts
+   team: "AB"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 97
+   inturn-percent: 81
+   outturn-total: 102
+   outturn-percent: 86
+   draw-total: 101
+   draw-percent: 81
+   takeout-total: 98
+   takeout-percent: 86
+   shots-total: 199
+   shots-percent: 84
 vs:
  - Ackerman, Skylar
+ - Adams, Kristina
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -101,15 +120,19 @@ vs:
  - Barbour, Shona
  - Barron, Lauren
  - Baxter, Jennifer
+ - Best, Emily
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Rachelle
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne
@@ -121,14 +144,17 @@ vs:
  - Eddy, Lori
  - Einarson, Kerri
  - Elias, Mackenzie
+ - Everist, Karlee
  - Ferguson, Dana
  - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Fyfe, Liz
  - Galusha, Kerry
  - Gates, Jennifer
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Griffin, Alison
  - Gustafson, Leigh
  - Hamilton, Beth
@@ -153,21 +179,25 @@ vs:
  - MacDonald, Kaitlin
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McEwen, Dawn
  - Mercer, Adrienne
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Njegovan, Selena
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
  - Plonka, Gabrielle
  - Potts, Sarah
+ - Power, Amanda
+ - Powers, Marlee
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
+ - Scharf, Krista
  - Shea, Michelle
  - Silvernagle, Robyn
  - Sinclair, Jamie
@@ -175,6 +205,7 @@ vs:
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
@@ -187,6 +218,7 @@ vs:
  - Tuor, Kimberly
  - Walter, Meghan
  - Ward, Molli
+ - Watson, Rebecca
  - Weagle, Julia
  - Weagle, Lisa
  - White, Jenny

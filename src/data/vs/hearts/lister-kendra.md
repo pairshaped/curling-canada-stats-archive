@@ -186,34 +186,6 @@ vs:
       year: 2025
       draw: Round Robin(9)
       score: PE 7 - NB 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2025
-      draw: Round Robin(17)
-      score: NO 9 - NB 3
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -670,34 +642,6 @@ vs:
       year: 2024
       draw: Round Robin(6)
       score: NT 5 - NB 7
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 81
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Lead
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(2)
-      score: NB 5 - MB 10
  - name: Rumberg, Crystal
    totals:
     - event: Hearts
@@ -726,6 +670,34 @@ vs:
       year: 2018
       draw: Round Robin(4)
       score: NO 5 - NB 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2025
+      draw: Round Robin(17)
+      score: NO 9 - NB 3
  - name: Schmiemann, Danielle
    totals:
     - event: Hearts

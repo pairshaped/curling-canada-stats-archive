@@ -183,6 +183,7 @@ vs:
  - Brown, Rachel
  - Bruce, Twyla
  - Bush, Tracy
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
@@ -243,7 +244,6 @@ vs:
  - MacLean, Kari
  - Mair, Jessica
  - Martin, Heather
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McDonald, Tina
@@ -268,11 +268,11 @@ vs:
  - Ramsay, Geri-Lynn
  - Rankin, Heather
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Rocque, Raylene
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Santos, Deb
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scott, Kelly

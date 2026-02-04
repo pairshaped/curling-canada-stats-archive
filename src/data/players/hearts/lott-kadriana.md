@@ -53,13 +53,13 @@ vs:
  - Lilly, Kendra
  - Lister, Kendra
  - Mayne, Veronica
- - McCarville, Krista
  - Miskew, Emma
  - Papley, Paige
  - Pincott, Erin
  - Pinksen, Sadie
  - Ramsay, Geri-Lynn
  - Russell, Kayla
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Sippala, Ashley
  - Skrlik, Ashton

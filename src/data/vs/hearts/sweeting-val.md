@@ -358,6 +358,34 @@ vs:
       year: 2014
       draw: Round Robin(5)
       score: AB 5 - NS 4
+ - name: Umlah, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(5)
+      score: CA 9 - NS 6
  - name: Van Osch, Kesa
    totals:
     - event: Hearts
@@ -418,13 +446,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 83
-        wins: 5
-        losses: 0
+        percent: 81
+        wins: 6
+        losses: 2
       player2:
-        percent: 72
-        wins: 0
-        losses: 5
+        percent: 78
+        wins: 2
+        losses: 6
    games:
     - player1:
         team: 'MB'
@@ -506,17 +534,65 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: WC 9 - CA 10
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(9)
+      score: CA 4 - MB 9
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 72
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Page 1-2(22)
+      score: CA 2 - MB 10
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 91
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Final(24)
+      score: CA 4 - MB 3
  - name: Wallingham, Patty
    totals:
     - event: Hearts
       player1:
-        percent: 79
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 0
       player2:
-        percent: 70
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -534,6 +610,22 @@ vs:
       year: 2014
       draw: Round Robin(1)
       score: TR 5 - AB 7
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(1)
+      score: YT 4 - CA 13
  - name: Walter, Meghan
    totals:
     - event: Hearts

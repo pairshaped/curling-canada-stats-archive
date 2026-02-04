@@ -730,34 +730,6 @@ vs:
       year: 2001
       draw: Round Robin(7)
       score: RID 8 - FOW 6
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 60
-        wins: 0
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'Engl'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2017
-      draw: Round Robin(2)
-      score: Engl 4 - McCa 9
  - name: McEwen, Dawn
    totals:
     - event: Trials (Women)
@@ -1150,6 +1122,34 @@ vs:
       year: 2001
       draw: Round Robin(4)
       score: RID 6 - HOL 5
+ - name: Scharf, Krista
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 60
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Engl'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2017
+      draw: Round Robin(2)
+      score: Engl 4 - McCa 9
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

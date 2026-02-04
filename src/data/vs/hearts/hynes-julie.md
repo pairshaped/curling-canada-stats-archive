@@ -870,82 +870,6 @@ vs:
       year: 2024
       draw: Round Robin(11)
       score: NL 11 - PE 6
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 0
-        losses: 4
-      player2:
-        percent: 83
-        wins: 4
-        losses: 0
-   games:
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 71
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 95
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(9)
-      score: NL 4 - NO 7
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 90
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(8)
-      score: NL 3 - NO 6
-    - player1:
-        team: 'NL'
-        position: Second
-        percent: 68
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 68
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(15)
-      score: NL 7 - NO 8
-    - player1:
-        team: 'NL'
-        position: Lead
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(9)
-      score: NO 8 - NL 3
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -2158,6 +2082,82 @@ vs:
       year: 2017
       draw: Round Robin(17)
       score: NS 4 - NL 7
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 4
+      player2:
+        percent: 83
+        wins: 4
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(9)
+      score: NL 4 - NO 7
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(8)
+      score: NL 3 - NO 6
+    - player1:
+        team: 'NL'
+        position: Second
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(15)
+      score: NL 7 - NO 8
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(9)
+      score: NO 8 - NL 3
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

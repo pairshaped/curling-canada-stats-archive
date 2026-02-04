@@ -4,19 +4,19 @@ name: Karlee Burgess
 name-sort: Burgess, Karlee
 totals:
  - event: Hearts
-   games: 53
-   wins: 34
-   losses: 19
-   inturn-total: 522
-   inturn-percent: 81
-   outturn-total: 495
-   outturn-percent: 81
-   draw-total: 360
-   draw-percent: 79
-   takeout-total: 657
+   games: 65
+   wins: 44
+   losses: 21
+   inturn-total: 652
+   inturn-percent: 83
+   outturn-total: 577
+   outturn-percent: 82
+   draw-total: 548
+   draw-percent: 83
+   takeout-total: 681
    takeout-percent: 82
-   shots-total: 1017
-   shots-percent: 81
+   shots-total: 1229
+   shots-percent: 82
 years:
  - year: 2021
    event: Hearts
@@ -108,6 +108,24 @@ years:
    takeout-percent: 85
    shots-total: 235
    shots-percent: 84
+ - year: 2026
+   event: Hearts
+   team: "CA"
+   position: Lead
+   alternate: false
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 130
+   inturn-percent: 90
+   outturn-total: 82
+   outturn-percent: 90
+   draw-total: 188
+   draw-percent: 91
+   takeout-total: 24
+   takeout-percent: 82
+   shots-total: 212
+   shots-percent: 90
 vs:
  - Ackland, Abby
  - Adams, Melissa
@@ -117,19 +135,24 @@ vs:
  - Barbour, Shona
  - Barker, Shelley
  - Baxter, Jennifer
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birnie, Hailey
  - Black, Christina
  - Bobbie, Tess
+ - Bonneau, Kim
  - Brine, Jenn
  - Brothers, Jillian
  - Brown, Rachelle
  - Brunton, Kira
  - Burns, Krysta
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jolene
  - Carmody, Erin
  - Carter, Sasha
+ - Chorostkowski, Brynn
  - Christianson, Marie
  - Courtney, Joanne
  - Crandall, Jaclyn
@@ -138,21 +161,26 @@ vs:
  - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
- - Doerksen, Katherine
+ - Demmans, Dayna
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
  - Einarson, Kerri
  - Elias, Mackenzie
  - Everist, Karlee
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flemming, Margot
  - Fleury, Tracy
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Forward, Katie
  - Foster, Kerry
  - Galusha, Kerry
  - Galusha, Sydney
  - Godsland, Brooke
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
  - Guy, Sara
  - Harris, Briane
@@ -160,22 +188,27 @@ vs:
  - Hawes, Dezaray
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hynes, Julie
  - Inglis, Danielle
+ - Kaufman, Nicky
  - Kelly, Andrea
  - Koehler, Megan
  - Koltun, Sarah
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lamswood, Sarah
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - Lister, Kendra
+ - Lloyd, Grace
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
+ - Mackenzie, Julianna
  - MacMillan, Kayla
- - McCarville, Krista
  - McDonald, Taylor
+ - McGillivray, Megan
  - Miskew, Emma
  - Njegovan, Selena
  - Oliver, Sara
@@ -187,14 +220,18 @@ vs:
  - Powers, Marlee
  - Quillian, Sylvie
  - Ramsay, Geri-Lynn
+ - Reese-Hansen, Taylor
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
+ - Robert, Michaela
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scoffin, Bayly
  - Scotland, Nadine
+ - Silvernagle, Robyn
  - Simons, Renee
  - Sinclair, Jamie
  - Sippala, Ashley
@@ -205,11 +242,14 @@ vs:
  - Smith, Megan
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Steele, Rachel
+ - Stevens, Taylour
  - Strybosch, Rachelle
  - Sturmay, Selena
  - Sweeting, Val
  - Tran, Brittany
  - Tuor, Kimberly
+ - Umlah, Alison
  - Walker, Laura
  - Wallingham, Patty
  - Walter, Meghan

@@ -197,7 +197,6 @@ vs:
  - Logan, Emma
  - MacDonald, Rebecca Jean
  - Mackey, Robyn
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - Miskew, Emma
@@ -217,6 +216,7 @@ vs:
  - Rumberg, Crystal
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Shea, Michelle
  - Singler, Sherri
  - Sippala, Ashley

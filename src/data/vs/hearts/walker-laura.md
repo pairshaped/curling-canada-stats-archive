@@ -6,13 +6,13 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 79
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 73
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -30,6 +30,22 @@ vs:
       year: 2022
       draw: Round Robin(10)
       score: AB 11 - YT 5
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(11)
+      score: MB 9 - YT 4
  - name: Weagle, Lisa
    totals:
     - event: Hearts

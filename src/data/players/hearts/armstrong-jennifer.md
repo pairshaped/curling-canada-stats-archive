@@ -101,6 +101,7 @@ vs:
  - Birt, Suzanne
  - Brown, Rachelle
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Christianson, Marie
@@ -143,7 +144,6 @@ vs:
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -159,9 +159,9 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Riley, Emily
- - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Scotland, Nadine

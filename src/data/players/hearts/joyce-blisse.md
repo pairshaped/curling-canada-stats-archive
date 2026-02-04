@@ -196,7 +196,6 @@ vs:
  - Mair, Jessica
  - Martin, Heather
  - Materi, Roberta
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - Miller, Wendy
@@ -224,6 +223,7 @@ vs:
  - Ryan, Kristen
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

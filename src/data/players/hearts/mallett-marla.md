@@ -188,7 +188,6 @@ vs:
  - Martin, Heather
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCrady, Christine
@@ -221,6 +220,7 @@ vs:
  - Robertson, Darcy
  - Sabourin, Joelle
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schneider, Lorraine
  - Shea, Michelle

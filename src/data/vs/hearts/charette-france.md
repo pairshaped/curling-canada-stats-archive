@@ -2558,34 +2558,6 @@ vs:
       year: 1992
       draw: Round Robin(6)
       score: QC 3 - BC 6
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 0
-        wins: 0
-        losses: 1
-      player2:
-        percent: 67
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Lead
-        percent: 0
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 67
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(5)
-      score: ON 12 - QC 6
  - name: McCloy, Elaine
    totals:
     - event: Hearts
@@ -3810,6 +3782,34 @@ vs:
       year: 1992
       draw: Round Robin(1)
       score: PE 4 - QC 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 0
+        wins: 0
+        losses: 1
+      player2:
+        percent: 67
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 0
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 67
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2010
+      draw: Round Robin(5)
+      score: ON 12 - QC 6
  - name: Schmirler, Sandra
    totals:
     - event: Hearts

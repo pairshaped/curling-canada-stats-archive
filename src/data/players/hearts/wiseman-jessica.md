@@ -4,18 +4,18 @@ name: Jessica Wiseman
 name-sort: Wiseman, Jessica
 totals:
  - event: Hearts
-   games: 28
-   wins: 9
-   losses: 19
-   inturn-total: 280
+   games: 36
+   wins: 10
+   losses: 26
+   inturn-total: 349
    inturn-percent: 74
-   outturn-total: 256
+   outturn-total: 331
    outturn-percent: 72
-   draw-total: 252
-   draw-percent: 72
-   takeout-total: 284
+   draw-total: 315
+   draw-percent: 73
+   takeout-total: 365
    takeout-percent: 74
-   shots-total: 536
+   shots-total: 680
    shots-percent: 73
 years:
  - year: 2014
@@ -106,12 +106,31 @@ years:
    takeout-percent: 78
    shots-total: 112
    shots-percent: 77
+ - year: 2026
+   event: Hearts
+   team: "NL"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 69
+   inturn-percent: 74
+   outturn-total: 75
+   outturn-percent: 74
+   draw-total: 63
+   draw-percent: 75
+   takeout-total: 81
+   takeout-percent: 73
+   shots-total: 144
+   shots-percent: 74
 vs:
  - Ackerman, Skylar
  - Anderson, Sherry
  - Arsenault, Mary-Anne
  - Atkinson, Rebecca
  - Baxter, Jennifer
+ - Best, Emily
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -120,7 +139,9 @@ vs:
  - Bradley, Shelley
  - Brothers, Jillian
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Camozzi, Rhonda
+ - Campbell, Jenna
  - Carey, Chelsea
  - Clark-Rouire, Jennifer
  - Collins, Katrina
@@ -133,14 +154,19 @@ vs:
  - Duncan, Chelsea
  - Einarson, Kerri
  - Enge, Jenna
+ - Everist, Karlee
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Foster, Kristen
  - Gannon, Melissa
  - Gates, Amanda
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
+ - Gustafson, Leigh
  - Hastings, Julie
  - Hawes, Dezaray
  - Homan, Rachel
@@ -155,9 +181,10 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie
+ - Lilly, Kendra
  - MacDonald, Rebecca Jean
  - Mann, Lauren
- - McCarville, Krista
+ - Mayne, Veronica
  - McDonald, Kristy
  - McEwen, Dawn
  - McInnis, Susan
@@ -171,9 +198,14 @@ vs:
  - Papley, Paige
  - Parsons, Danielle
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pilote, Kristen
+ - Pinksen, Sadie
  - Potts, Sarah
+ - Power, Amanda
  - Quillian, Sylvie
+ - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
  - Robison, Michala
@@ -181,6 +213,7 @@ vs:
  - Rusnell, Jen
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schmiemann, Danielle
  - Shea, Michelle
@@ -189,19 +222,26 @@ vs:
  - Singler, Sherri
  - Sippala, Ashley
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Heather
+ - Smith, Sabrina
  - Smith, Stacey
  - Snyder, Jane
  - St-Georges, Laurie
  - Stremick, Taylor
  - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Ashley
  - Titheridge, Lindsay
  - Trombley, Christy
  - Udle, Teri
  - Van Osch, Kesa
  - Wallingham, Patty
+ - Watson, Rebecca
+ - Weagle, Julia
  - Weagle, Lisa
  - Wylie, Jennifer
 ---

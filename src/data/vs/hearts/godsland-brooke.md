@@ -102,7 +102,7 @@ vs:
       year: 2025
       draw: Round Robin(18)
       score: YT 6 - NL 11
- - name: Horte, Bailey
+ - name: Horvey, Bailey
    totals:
     - event: Hearts
       player1:

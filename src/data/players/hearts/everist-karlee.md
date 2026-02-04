@@ -4,19 +4,19 @@ name: Karlee Everist
 name-sort: Everist, Karlee
 totals:
  - event: Hearts
-   games: 33
-   wins: 20
-   losses: 13
-   inturn-total: 305
-   inturn-percent: 78
-   outturn-total: 339
-   outturn-percent: 82
-   draw-total: 407
-   draw-percent: 83
-   takeout-total: 237
-   takeout-percent: 76
-   shots-total: 644
-   shots-percent: 80
+   games: 44
+   wins: 27
+   losses: 17
+   inturn-total: 363
+   inturn-percent: 79
+   outturn-total: 489
+   outturn-percent: 84
+   draw-total: 591
+   draw-percent: 84
+   takeout-total: 261
+   takeout-percent: 77
+   shots-total: 852
+   shots-percent: 82
 years:
  - year: 2022
    event: Hearts
@@ -72,11 +72,31 @@ years:
    takeout-percent: 82
    shots-total: 238
    shots-percent: 88
+ - year: 2026
+   event: Hearts
+   team: "NS"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 58
+   inturn-percent: 84
+   outturn-total: 150
+   outturn-percent: 88
+   draw-total: 184
+   draw-percent: 87
+   takeout-total: 24
+   takeout-percent: 86
+   shots-total: 208
+   shots-percent: 87
 vs:
+ - Adams, Kristina
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
  - Balsdon, Megan
  - Barbour, Shona
+ - Best, Emily
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
@@ -85,10 +105,13 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Carter, Sasha
  - Christianson, Marie
  - Cullen, Brianna
+ - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
  - Dubue, Lindsay
@@ -96,18 +119,24 @@ vs:
  - Einarson, Kerri
  - Elias, Mackenzie
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Foster, Kerry
  - Galusha, Kerry
  - Galusha, Sydney
  - Godsland, Brooke
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
+ - Gustafson, Leigh
  - Harris, Briane
+ - Hawes, Dezaray
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Inglis, Danielle
  - Just, Sherry
@@ -122,21 +151,28 @@ vs:
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
- - McCarville, Krista
+ - Mayne, Veronica
  - McDonald, Taylor
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Njegovan, Selena
+ - Papley, Paige
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Power, Amanda
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Schafer, Kelly
+ - Scharf, Krista
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scoffin, Bayly
  - Scotland, Nadine
@@ -147,18 +183,26 @@ vs:
  - Sippala, Ashley
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Carly
+ - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stevens, Taylour
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
  - Thevenot, Kara
  - Tran, Brittany
  - Tuor, Kimberly
+ - Umlah, Alison
  - Walker, Laura
  - Wallingham, Patty
+ - Watson, Rebecca
+ - Weagle, Julia
  - Weagle, Lisa
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

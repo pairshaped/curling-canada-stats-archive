@@ -99,9 +99,9 @@ vs:
  - Koltun, Sarah
  - Lawton, Stefanie
  - MacLean, Kari
- - McCarville, Krista
  - O'Rourke, Kathy
  - Ramsay, Geri-Lynn
+ - Scharf, Krista
  - Shea, Michelle
  - Silvernagle, Robyn
  - Sippala, Ashley

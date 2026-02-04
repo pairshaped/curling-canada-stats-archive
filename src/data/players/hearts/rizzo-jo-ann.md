@@ -130,6 +130,7 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carmody, Erin
  - Carter, Sasha
@@ -140,7 +141,6 @@ vs:
  - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
- - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -174,7 +174,6 @@ vs:
  - Logan, Emma
  - Loken, Sarah
  - MacMillan, Kayla
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - Miskew, Emma
@@ -187,8 +186,9 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Quillian, Sylvie
+ - Remillard, Katherine
  - Riley, Emily
- - Rocque, Kelsey
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schraeder, Jeanna
  - Scoffin, Bayly

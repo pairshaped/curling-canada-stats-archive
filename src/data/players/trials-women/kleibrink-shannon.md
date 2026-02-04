@@ -124,7 +124,6 @@ vs:
  - Malekoff, Stephanie
  - Mallett, Marla
  - Mattatall, Mary
- - McCarville, Krista
  - McCusker, Joan
  - McEwen, Dawn
  - McKnight, Patti
@@ -142,6 +141,7 @@ vs:
  - Preston, Sam
  - Rizzo, Jo-Ann
  - Rumberg, Crystal
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schneider, Kim
  - Schneider, Tammy

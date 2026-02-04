@@ -678,50 +678,6 @@ vs:
       year: 2025
       draw: Round Robin(3)
       score: PE 6 - SK 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 1
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Third
-        percent: 69
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 96
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(5)
-      score: NO 8 - SK 3
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent: 65
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2025
-      draw: Round Robin(1)
-      score: SK 10 - NO 6
  - name: McEvoy, Julie
    totals:
     - event: Hearts
@@ -1158,6 +1114,50 @@ vs:
       year: 2017
       draw: Round Robin(15)
       score: SK 10 - NS 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 1
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 96
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(5)
+      score: NO 8 - SK 3
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: SK 10 - NO 6
  - name: Schmiemann, Danielle
    totals:
     - event: Hearts

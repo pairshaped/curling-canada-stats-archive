@@ -38,6 +38,7 @@ years:
 vs:
  - Armstrong, Leigh
  - Brown, Rachel
+ - Calvert, Kelsey
  - Courtney, Joanne
  - Crocker, Laura
  - Enge, Jenna
@@ -56,7 +57,6 @@ vs:
  - Officer, Jill
  - Olson-Johns, Lori
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Sweeting, Val
  - Weagle, Lisa

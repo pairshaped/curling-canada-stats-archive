@@ -173,6 +173,7 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carmody, Erin
  - Carter, Sasha
@@ -211,7 +212,6 @@ vs:
  - Lilly, Kendra
  - Loken, Sarah
  - MacMillan, Kayla
- - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
  - Moore, Kristie
@@ -224,9 +224,9 @@ vs:
  - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Routledge, Alanna
  - Russell, Kayla
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schraeder, Jeanna
  - Simons, Renee

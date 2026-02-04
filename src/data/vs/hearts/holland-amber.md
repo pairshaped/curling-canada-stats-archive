@@ -854,34 +854,6 @@ vs:
       year: 2012
       draw: Round Robin(17)
       score: CA 5 - SK 11
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 1
-        losses: 0
-      player2:
-        percent: 79
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 79
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2010
-      draw: Round Robin(6)
-      score: SK 7 - ON 6
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -1766,6 +1738,34 @@ vs:
       year: 2010
       draw: Round Robin(1)
       score: PE 10 - SK 3
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(21)
+      score: WC 10 - SK 9
  - name: Robison, Michala
    totals:
     - event: Hearts
@@ -1822,6 +1822,34 @@ vs:
       year: 2010
       draw: Round Robin(5)
       score: NL 5 - SK 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2010
+      draw: Round Robin(6)
+      score: SK 7 - ON 6
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts

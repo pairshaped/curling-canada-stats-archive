@@ -68,11 +68,11 @@ vs:
  - Koltun, Sarah
  - Lott, Kadriana
  - Martin, Nancy
- - McCarville, Krista
  - Miskew, Emma
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Scharf, Krista
  - Scoffin, Bayly
  - Sippala, Ashley
  - Skrlik, Ashton

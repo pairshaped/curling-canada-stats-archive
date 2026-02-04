@@ -45,13 +45,13 @@ vs:
  - Kasner, Marliese
  - Lawton, Stefanie
  - MacLean, Kari
- - McCarville, Krista
  - Miller, Jessica
  - Morris, Cori
  - Nedohin, Heather
  - O'Connor, Susan
  - Peters, Laine
  - Potts, Sarah
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Singler, Sherri

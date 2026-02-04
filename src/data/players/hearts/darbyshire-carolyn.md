@@ -145,7 +145,6 @@ vs:
  - Mainwaring, Bev
  - Mallett, Marla
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McCracken, Betty
  - McCrae, Elizabeth
@@ -168,6 +167,7 @@ vs:
  - Robertson, Darcy
  - Rowan, Sheila
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Seitz, Susan

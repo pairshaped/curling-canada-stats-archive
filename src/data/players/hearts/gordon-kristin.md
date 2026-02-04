@@ -4,19 +4,19 @@ name: Kristin Gordon
 name-sort: Gordon, Kristin
 totals:
  - event: Hearts
-   games: 85
-   wins: 49
-   losses: 36
-   inturn-total: 811
+   games: 96
+   wins: 59
+   losses: 37
+   inturn-total: 846
    inturn-percent: 84
-   outturn-total: 746
-   outturn-percent: 84
-   draw-total: 1276
+   outturn-total: 907
+   outturn-percent: 85
+   draw-total: 1443
    draw-percent: 86
-   takeout-total: 281
-   takeout-percent: 77
-   shots-total: 1557
-   shots-percent: 84
+   takeout-total: 310
+   takeout-percent: 78
+   shots-total: 1753
+   shots-percent: 85
 years:
  - year: 2013
    event: Hearts
@@ -210,6 +210,24 @@ years:
    takeout-percent: 86
    shots-total: 144
    shots-percent: 85
+ - year: 2026
+   event: Hearts
+   team: "MB"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 35
+   inturn-percent: 81
+   outturn-total: 161
+   outturn-percent: 89
+   draw-total: 167
+   draw-percent: 88
+   takeout-total: 29
+   takeout-percent: 84
+   shots-total: 196
+   shots-percent: 88
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -225,11 +243,13 @@ vs:
  - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
  - Blaney, Jennifer
  - Bodner, Jenine
+ - Bonneau, Kim
  - Boudreault, Patricia
  - Boyle, Jane
  - Brine, Jenn
@@ -253,8 +273,8 @@ vs:
  - Daigle, Julie
  - Daly, Calissa
  - deGroot, Cassandra
+ - Demmans, Dayna
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Duncan, Hollie
@@ -269,8 +289,12 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flaxey, Allison
  - Fleury, Tracy
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Forward, Katie
  - Foster, Kerry
  - Galusha, Kerry
@@ -293,7 +317,7 @@ vs:
  - Helston, Raelyn
  - Hill, Sarah
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hynes, Julie
@@ -302,12 +326,15 @@ vs:
  - Jones, Jennifer
  - Just, Sherry
  - Karwacki, Krysten
+ - Kaufman, Nicky
  - Kelly, Andrea
  - Knapp, Breanne
  - Koehler, Megan
  - Koltun, Sarah
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lamswood, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -318,18 +345,20 @@ vs:
  - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
+ - Lloyd, Grace
  - Loder, Jenna
  - Loken, Sarah
  - MacDonald, Kaitlin
+ - Mackenzie, Julianna
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Heather
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
+ - McGillivray, Megan
  - McTaggart, Cary-Anne
  - Mercer, Adrienne
  - Middaugh, Kelly
@@ -351,12 +380,16 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Powers, Marlee
  - Price, Kara
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Reese-Hansen, Taylor
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
+ - Robert, Michaela
  - Routledge, Alanna
  - Rumberg, Crystal
  - Rusnell, Jen
@@ -364,6 +397,7 @@ vs:
  - Sagle, Karen
  - Sandwith, Carley
  - Schafer, Kelly
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
@@ -385,6 +419,8 @@ vs:
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Steele, Rachel
+ - Stevens, Taylour
  - Stewart, Chaelynn
  - Stremick, Taylor
  - Sturmay, Selena
@@ -395,12 +431,14 @@ vs:
  - Thompson, Karla
  - Tran, Brittany
  - Udle, Teri
+ - Umlah, Alison
  - Vandale, Trysta
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Vautour, Carrie
  - Walker, Laura
+ - Wallingham, Patty
  - Wark, Sarah
  - Wasylkiw, Lauren
  - Wazney, Sarah

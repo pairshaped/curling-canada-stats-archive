@@ -80,7 +80,7 @@ vs:
  - Hawes, Dezaray
  - Hebert, Rebecca
  - Helston, Raelyn
- - Horte, Bailey
+ - Horvey, Bailey
  - Inglis, Danielle
  - Jenkins, Whitney
  - Karwacki, Krysten
@@ -90,13 +90,13 @@ vs:
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - Njegovan, Selena
  - Papley, Paige
  - Peterman, Jocelyn
  - Porter, Erin
  - Potts, Sarah
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Skauge, Ella
  - Smith, Sabrina

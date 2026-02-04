@@ -1022,34 +1022,6 @@ vs:
       year: 2006
       draw: Round Robin(5)
       score: TR 4 - AB 7
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 80
-        wins: 1
-        losses: 0
-      player2:
-        percent: 55
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'AB'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 55
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(3)
-      score: AB 10 - ON 2
  - name: McCloy, Elaine
    totals:
     - event: Hearts
@@ -2726,6 +2698,34 @@ vs:
       year: 2002
       draw: Round Robin(14)
       score: PE 2 - AB 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 55
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 55
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(3)
+      score: AB 10 - ON 2
  - name: Schikowski, Keri-Lynn
    totals:
     - event: Hearts

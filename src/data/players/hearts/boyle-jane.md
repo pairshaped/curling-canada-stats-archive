@@ -128,7 +128,6 @@ vs:
  - Lilly, Kendra
  - MacPhee, Robyn
  - Mann, Lauren
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - Miskew, Emma
@@ -149,6 +148,7 @@ vs:
  - Rusnell, Jen
  - Ryan, Kristen
  - Sagle, Karen
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Shea, Michelle
  - Sippala, Ashley

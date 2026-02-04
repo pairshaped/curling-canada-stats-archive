@@ -105,7 +105,6 @@ vs:
  - MacPhee, Robyn
  - Mallett, Marla
  - Mattatall, Mary
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - Miskew, Emma
@@ -123,6 +122,7 @@ vs:
  - Richards, Brette
  - Rusnell, Jen
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schneider, Lorraine
  - Shea, Michelle

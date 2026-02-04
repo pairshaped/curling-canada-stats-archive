@@ -46,7 +46,6 @@ vs:
  - Cameron, Kate
  - Carmody, Erin
  - Courtney, Joanne
- - Doerksen, Katherine
  - Einarson, Kerri
  - Ferguson, Dana
  - Flemming, Margot
@@ -61,6 +60,7 @@ vs:
  - McDonald, Taylor
  - Miskew, Emma
  - Peterson, Beth
+ - Remillard, Katherine
  - Rizzo, Jo-Ann
  - Sweeting, Val
  - Tran, Brittany

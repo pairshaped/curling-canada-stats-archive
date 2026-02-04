@@ -135,7 +135,6 @@ vs:
  - Lilly, Kendra
  - Mackey, Robyn
  - MacPhee, Robyn
- - McCarville, Krista
  - McEwen, Dawn
  - Miskew, Emma
  - Njegovan, Selena
@@ -152,6 +151,7 @@ vs:
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
+ - Scharf, Krista
  - Shackleton, Amie
  - Sharpe, Kelli
  - Shaw, Ladene

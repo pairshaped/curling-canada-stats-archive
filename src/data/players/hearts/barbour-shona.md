@@ -311,7 +311,6 @@ vs:
  - Darbyshire, Carolyn
  - deGroot, Cassandra
  - deSolla, Jodie
- - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Duncan, Chelsea
@@ -351,7 +350,7 @@ vs:
  - Helston, Raelyn
  - Holland, Amber
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
@@ -389,7 +388,6 @@ vs:
  - Mallett, Marla
  - Martin, Heather
  - Materi, Roberta
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -419,11 +417,13 @@ vs:
  - Porter, Erin
  - Price, Kara
  - Quillian, Sylvie
+ - Remillard, Katherine
  - Richards, Brette
  - Robertson, Darcy
  - Robison, Michala
  - Rumberg, Crystal
  - Sabourin, Joelle
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schneider, Kim
  - Schneider, Tammy

@@ -94,7 +94,6 @@ vs:
  - Lawton, Stefanie
  - Lenentine, Lauren
  - Lilly, Kendra
- - McCarville, Krista
  - McEwen, Dawn
  - Miskew, Emma
  - Oliver, Sara
@@ -105,6 +104,7 @@ vs:
  - Rizzo, Jo-Ann
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scharf, Krista
  - Sharpe, Kelli
  - Shaw, Ladene
  - Shea, Michelle

@@ -83,7 +83,6 @@ vs:
  - Lister, Kendra
  - Lott, Kadriana
  - Martin, Nancy
- - McCarville, Krista
  - Middaugh, Kelly
  - Miskew, Emma
  - Njegovan, Selena
@@ -94,6 +93,7 @@ vs:
  - Potts, Sarah
  - Ramsay, Geri-Lynn
  - Riley, Emily
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Sinclair, Jamie
  - Sippala, Ashley

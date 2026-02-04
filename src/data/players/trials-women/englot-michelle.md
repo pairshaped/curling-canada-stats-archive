@@ -96,7 +96,6 @@ vs:
  - Lilly, Kendra
  - MacDonald, Lawnie
  - Martin, Denise
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Middaugh, Sherry
@@ -111,6 +110,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Purdy, Karen
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Sippala, Ashley

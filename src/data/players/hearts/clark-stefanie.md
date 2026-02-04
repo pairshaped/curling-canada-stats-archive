@@ -180,7 +180,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - Middaugh, Sherry
  - Miskew, Emma
@@ -209,6 +208,7 @@ vs:
  - Rocque, Raylene
  - Ross, Allison
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

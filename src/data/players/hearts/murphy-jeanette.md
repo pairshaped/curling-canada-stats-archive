@@ -119,7 +119,6 @@ vs:
  - Lawes, Kaitlyn
  - MacDonald, Rebecca Jean
  - MacPhee, Robyn
- - McCarville, Krista
  - McEwen, Dawn
  - Morgan, Cheryl
  - Morris, Cori
@@ -133,6 +132,7 @@ vs:
  - Pewarchuk, Dailene
  - Provencal, Darah
  - Robison, Michala
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

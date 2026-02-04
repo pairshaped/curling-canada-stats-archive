@@ -38,6 +38,7 @@ years:
 vs:
  - Birchard, Shannon
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Courtney, Joanne
  - Einarson, Kerri
@@ -51,7 +52,6 @@ vs:
  - Jones, Jennifer
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -60,7 +60,7 @@ vs:
  - Njegovan, Selena
  - Peterman, Jocelyn
  - Potts, Sarah
- - Rocque, Kelsey
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Scotland, Nadine

@@ -197,7 +197,6 @@ vs:
  - Martin, Heather
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
  - McEwen, Dawn
@@ -231,6 +230,7 @@ vs:
  - Richard, Marie
  - Roberts, Angela
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schneider, Kim
  - Schneider, Tammy

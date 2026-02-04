@@ -4,19 +4,19 @@ name: Stacie Curtis
 name-sort: Curtis, Stacie
 totals:
  - event: Hearts
-   games: 69
-   wins: 19
-   losses: 50
-   inturn-total: 581
-   inturn-percent: 69
-   outturn-total: 684
-   outturn-percent: 70
-   draw-total: 621
-   draw-percent: 68
-   takeout-total: 644
+   games: 77
+   wins: 20
+   losses: 57
+   inturn-total: 645
+   inturn-percent: 70
+   outturn-total: 764
+   outturn-percent: 71
+   draw-total: 751
+   draw-percent: 71
+   takeout-total: 658
    takeout-percent: 71
-   shots-total: 1265
-   shots-percent: 69
+   shots-total: 1409
+   shots-percent: 71
 years:
  - year: 2011
    event: Hearts
@@ -144,6 +144,24 @@ years:
    takeout-percent: 63
    shots-total: 147
    shots-percent: 70
+ - year: 2026
+   event: Hearts
+   team: "NL"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 64
+   inturn-percent: 84
+   outturn-total: 80
+   outturn-percent: 84
+   draw-total: 130
+   draw-percent: 86
+   takeout-total: 14
+   takeout-percent: 66
+   shots-total: 144
+   shots-percent: 84
 vs:
  - Ackerman, Skylar
  - Ackland, Abby
@@ -164,9 +182,11 @@ vs:
  - Beauchamp, Sasha
  - Belisle, Eve
  - Bell, Chelsey
+ - Best, Emily
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
+ - Black, Christina
  - Boyle, Jane
  - Bradley, Shelley
  - Brassard, Veronique
@@ -175,7 +195,9 @@ vs:
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha
@@ -197,10 +219,12 @@ vs:
  - Einarson, Kerri
  - Elias, Mackenzie
  - Englot, Michelle
+ - Everist, Karlee
  - Eyamie, Lisa
  - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Forward, Katie
  - Foster, Kerry
  - Fullerton, Sarah
@@ -209,7 +233,9 @@ vs:
  - Galusha, Kerry
  - Gibson, Amy
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Gregoire, Veronique
+ - Gustafson, Leigh
  - Hamon, Callan
  - Hanna, Jenn
  - Hanna, Stephanie
@@ -254,7 +280,6 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -282,10 +307,15 @@ vs:
  - Perron, Melina
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Pincott, Erin
+ - Pinksen, Sadie
  - Potts, Sarah
+ - Power, Amanda
  - Quillian, Sylvie
  - Rainville, Julie
+ - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
@@ -294,6 +324,7 @@ vs:
  - Ryan, Kristen
  - Sagle, Karen
  - Saulnier, Andrea
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle
@@ -309,6 +340,9 @@ vs:
  - Sinclair, Jamie
  - Sippala, Ashley
  - Skinner, Kaylin
+ - Skrlik, Ashton
+ - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Heather
  - Smith, Sabrina
  - Sobey, Lianne
@@ -316,6 +350,7 @@ vs:
  - Stremick, Taylor
  - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Thevenot, Ashley
  - Thiessen, Alison
  - Thompson, Karla
@@ -326,7 +361,9 @@ vs:
  - Van Osch, Kesa
  - Van Osch, Marika
  - Walter, Meghan
+ - Watson, Rebecca
  - Wazney, Sarah
+ - Weagle, Julia
  - Weagle, Lisa
  - Webster, Bronwen
  - West, Christianne

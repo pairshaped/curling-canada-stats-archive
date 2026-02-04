@@ -114,6 +114,50 @@ vs:
       year: 2009
       draw: Round Robin(4)
       score: WEBS 7 - JONE 8
+ - name: Scharf, Krista
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 75
+        wins: 1
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'JONE'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCCA'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2009
+      draw: Round Robin(2)
+      score: MCCA 9 - JONE 3
+    - player1:
+        team: 'Care'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2017
+      draw: Round Robin(18)
+      score: McCa 2 - Care 5
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

@@ -474,6 +474,34 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: WC 8 - AB 5
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Pool(20)
+      score: MB 12 - WC 8
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -830,6 +858,146 @@ vs:
       year: 2023
       draw: Round Robin(10)
       score: SK 3 - WC 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 4
+        losses: 4
+      player2:
+        percent: 84
+        wins: 4
+        losses: 4
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(6)
+      score: AB 9 - NO 8
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Final(22)
+      score: NO 6 - AB 7
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 97
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(15)
+      score: CA 4 - NO 8
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Page 3-4(19)
+      score: CA 1 - NO 8
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Bronze(21)
+      score: CA 7 - NO 4
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Pool(18)
+      score: CA 6 - NO 8
+    - player1:
+        team: 'WC'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Pool(19)
+      score: NO 11 - WC 6
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(17)
+      score: NO 5 - MB 6
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

@@ -61,7 +61,6 @@ vs:
  - MacPhee, Robyn
  - Mallett, Marla
  - Mann, Lauren
- - McCarville, Krista
  - Miskew, Emma
  - Nedohin, Heather
  - Nixon, Amy
@@ -71,6 +70,7 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Richards, Brette
+ - Scharf, Krista
  - Shea, Michelle
  - Sippala, Ashley
  - Thiessen, Alison

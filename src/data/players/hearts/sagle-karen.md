@@ -96,7 +96,6 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - MacPhee, Robyn
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Moore, Kristie
@@ -115,6 +114,7 @@ vs:
  - Richard, Marie
  - Rumberg, Crystal
  - Ryan, Kristen
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Shackleton, Amie

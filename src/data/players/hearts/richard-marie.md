@@ -137,7 +137,6 @@ vs:
  - Mann, Lauren
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - Middaugh, Sherry
@@ -163,6 +162,7 @@ vs:
  - Ryan, Kristen
  - Sabourin, Joelle
  - Sagle, Karen
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schraeder, Jeanna
  - Scott, Kelly

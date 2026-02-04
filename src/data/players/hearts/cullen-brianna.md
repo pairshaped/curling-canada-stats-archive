@@ -54,7 +54,7 @@ vs:
  - Gordon, Kristin
  - Hebert, Rebecca
  - Helston, Raelyn
- - Horte, Bailey
+ - Horvey, Bailey
  - Inglis, Danielle
  - Karwacki, Krysten
  - Koehler, Megan

@@ -148,6 +148,7 @@ vs:
  - Blair, Janice
  - Brown, Rachel
  - Bruce, Twyla
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cannon, Theresa
  - Carey, Chelsea
@@ -214,7 +215,6 @@ vs:
  - Rankin, Heather
  - Rizzo, Jo-Ann
  - Robertson, Darcy
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Santos, Deb
  - Scheidegger, Casey

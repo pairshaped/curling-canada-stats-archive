@@ -1478,34 +1478,6 @@ vs:
       year: 2005
       draw: Round Robin(7)
       score: QC 7 - TR 4
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 67
-        wins: 0
-        losses: 1
-      player2:
-        percent: 78
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'QC'
-        position: Second
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 78
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2007
-      draw: Round Robin(5)
-      score: ON 9 - QC 8
  - name: McCloy, Elaine
    totals:
     - event: Hearts
@@ -2230,6 +2202,34 @@ vs:
       year: 2005
       draw: Round Robin(4)
       score: AB 6 - QC 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 67
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2007
+      draw: Round Robin(5)
+      score: ON 9 - QC 8
  - name: Schmirler, Sandra
    totals:
     - event: Hearts

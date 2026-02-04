@@ -122,6 +122,7 @@ vs:
  - Barker, Penny
  - Baxter, Jennifer
  - Bell, Chelsey
+ - Big Eagle, Rachel
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
@@ -140,7 +141,6 @@ vs:
  - Duncan, Chelsea
  - Eddy, Lori
  - Enge, Jenna
- - Erickson, Rachel
  - Farrell, Allison
  - Fisher, Samantha
  - Flaxey, Allison
@@ -183,7 +183,6 @@ vs:
  - Martin, Nancy
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Miskew, Emma
@@ -206,6 +205,7 @@ vs:
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Ross, Allison
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scott, Kelly
  - Sharpe, Kelli

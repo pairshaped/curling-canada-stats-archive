@@ -100,7 +100,6 @@ vs:
  - Makichuk, Lindsay
  - Mallett, Marla
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McEwen, Dawn
  - More, Whitney
  - Morris, Cori
@@ -120,6 +119,7 @@ vs:
  - Robertson, Darcy
  - Rogers, Rhonda
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

@@ -2,50 +2,6 @@
 title: Heather McCagg-Nystrom Head-to-head
 name: McCagg-Nystrom, Heather
 vs:
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 79
-        wins: 1
-        losses: 1
-      player2:
-        percent: 74
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'TR'
-        position: Lead
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(1)
-      score: ON 13 - TR 9
-    - player1:
-        team: 'TR'
-        position: Lead
-        percent: 88
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(16)
-      score: ON 7 - TR 9
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -1250,6 +1206,50 @@ vs:
       year: 2001
       draw: Round Robin(11)
       score: TR 8 - MB 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'TR'
+        position: Lead
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2006
+      draw: Round Robin(1)
+      score: ON 13 - TR 9
+    - player1:
+        team: 'TR'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(16)
+      score: ON 7 - TR 9
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts

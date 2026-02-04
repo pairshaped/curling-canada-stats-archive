@@ -60,7 +60,6 @@ vs:
  - Law, Kelley
  - MacPhee, Robyn
  - Mattatall, Mary
- - McCarville, Krista
  - Morris, Cori
  - Moses, Dawn
  - Murphy, Jeanette
@@ -71,6 +70,7 @@ vs:
  - Overton-Clapham, Cathy
  - Power, Marie-Anne
  - Provencal, Darah
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simons, Renee

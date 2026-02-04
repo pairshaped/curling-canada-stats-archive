@@ -113,6 +113,7 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Courtney, Joanne
@@ -158,7 +159,6 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Singler, Sherri
  - Sweeting, Val
  - Titheridge, Lindsay

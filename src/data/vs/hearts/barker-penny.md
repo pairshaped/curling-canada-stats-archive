@@ -1074,50 +1074,6 @@ vs:
       year: 2017
       draw: Round Robin(15)
       score: SK 10 - NS 4
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 63
-        wins: 0
-        losses: 2
-      player2:
-        percent: 86
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 96
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(5)
-      score: NO 8 - SK 3
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 67
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(15)
-      score: SK 2 - NO 6
  - name: McEvoy, Julie
    totals:
     - event: Hearts
@@ -1598,6 +1554,50 @@ vs:
       year: 2017
       draw: Round Robin(15)
       score: SK 10 - NS 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 63
+        wins: 0
+        losses: 2
+      player2:
+        percent: 86
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 96
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(5)
+      score: NO 8 - SK 3
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(15)
+      score: SK 2 - NO 6
  - name: Schmidt, Stephanie
    totals:
     - event: Hearts

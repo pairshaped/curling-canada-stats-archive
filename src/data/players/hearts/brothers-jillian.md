@@ -4,19 +4,19 @@ name: Jillian Brothers
 name-sort: Brothers, Jillian
 totals:
  - event: Hearts
-   games: 75
-   wins: 32
-   losses: 43
-   inturn-total: 758
-   inturn-percent: 77
-   outturn-total: 666
-   outturn-percent: 74
-   draw-total: 647
+   games: 86
+   wins: 39
+   losses: 47
+   inturn-total: 866
+   inturn-percent: 78
+   outturn-total: 766
+   outturn-percent: 75
+   draw-total: 728
    draw-percent: 73
-   takeout-total: 777
+   takeout-total: 904
    takeout-percent: 79
-   shots-total: 1424
-   shots-percent: 76
+   shots-total: 1632
+   shots-percent: 77
 years:
  - year: 2007
    event: Hearts
@@ -162,8 +162,27 @@ years:
    takeout-percent: 85
    shots-total: 238
    shots-percent: 86
+ - year: 2026
+   event: Hearts
+   team: "NS"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 108
+   inturn-percent: 85
+   outturn-total: 100
+   outturn-percent: 78
+   draw-total: 81
+   draw-percent: 80
+   takeout-total: 127
+   takeout-percent: 83
+   shots-total: 208
+   shots-percent: 82
 vs:
  - Ackland, Abby
+ - Adams, Kristina
  - Adams, Melissa
  - Aleksic, Shannon
  - Anderson, Sherry
@@ -172,6 +191,7 @@ vs:
  - Baier, Stephanie
  - Barbour, Shona
  - Bernard, Cheryl
+ - Best, Emily
  - Betker, Jan
  - Birchard, Shannon
  - Birnie, Hailey
@@ -186,7 +206,9 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Carey, Chelsea
  - Carter, Sasha
  - Christianson, Marie
@@ -207,7 +229,6 @@ vs:
  - deGroot, Cassandra
  - Derick, Catherine
  - deSolla, Jodie
- - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Dubue, Lindsay
@@ -217,9 +238,12 @@ vs:
  - Elias, Mackenzie
  - Ferguson, Dana
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Foster, Kerry
  - Foster, Kristen
  - Fyfe, Liz
@@ -232,18 +256,21 @@ vs:
  - George, Tara
  - Godsland, Brooke
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
  - Griffin, Alison
  - Gudereit, Marcia
+ - Gustafson, Leigh
  - Guy, Sara
  - Hanna, Jenn
  - Hanna, Stephanie
  - Hardy, Shelley
  - Harris, Briane
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hynes, Julie
  - Inglis, Danielle
@@ -274,11 +301,12 @@ vs:
  - MacDonald, Rebecca Jean
  - MacMillan, Kayla
  - MacPhee, Robyn
- - McCarville, Krista
+ - Mayne, Veronica
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Morgan, Cheryl
  - Morris, Cori
  - Moses, Dawn
@@ -297,6 +325,7 @@ vs:
  - O'Rourke, Brittany
  - Osborne, Chantal
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
@@ -306,23 +335,26 @@ vs:
  - Pinksen, Sadie
  - Porter, Erin
  - Potts, Sarah
+ - Power, Amanda
  - Power, Marie-Anne
  - Provencal, Darah
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Reid, Jackie
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Ross, Allison
  - Rusnell, Jen
  - Ryan, Kristen
  - Sagle, Karen
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scoffin, Bayly
  - Scott, Kelly
@@ -334,16 +366,22 @@ vs:
  - Sippala, Ashley
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Megan
+ - Smith, Sabrina
  - St-Georges, Laurie
+ - Stevens, Taylour
  - Strong, Heather
  - Strong, Laura
  - Stubbings, Tiffany
+ - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Thompson, Karla
  - Titheridge, Lindsay
  - Tran, Brittany
  - Tuor, Kimberly
+ - Umlah, Alison
  - Vandale, Trysta
  - Van Osch, Kesa
  - Vautour, Carrie
@@ -353,6 +391,8 @@ vs:
  - Walter, Meghan
  - Ward, Molli
  - Wark, Sarah
+ - Watson, Rebecca
+ - Weagle, Julia
  - Weagle, Lisa
  - Wheatcroft, Georgina
  - Whitaker, Carol

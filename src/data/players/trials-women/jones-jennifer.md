@@ -115,6 +115,7 @@ vs:
  - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha
@@ -167,7 +168,6 @@ vs:
  - MacLean, Kari
  - Mair, Jessica
  - Malekoff, Stephanie
- - McCarville, Krista
  - McCusker, Joan
  - McDonald, Taylor
  - McPherson, Cheryl
@@ -189,8 +189,8 @@ vs:
  - Potts, Sarah
  - Preston, Sam
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Rumberg, Crystal
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle

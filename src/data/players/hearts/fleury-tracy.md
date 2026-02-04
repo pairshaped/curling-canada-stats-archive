@@ -191,6 +191,7 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhonda
@@ -278,7 +279,6 @@ vs:
  - Martin, Nancy
  - Materi, Roberta
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
@@ -310,11 +310,11 @@ vs:
  - Ramsay, Geri-Lynn
  - Richard, Marie
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Rusnell, Jen
  - Russell, Kayla
  - Sagle, Karen
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie

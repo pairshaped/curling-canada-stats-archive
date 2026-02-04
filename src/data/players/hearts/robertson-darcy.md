@@ -156,7 +156,6 @@ vs:
  - Martin, Heather
  - McCagg-Nystrom, Heather
  - McCallan, Berniece
- - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
  - McEdwards, Kathy
@@ -181,6 +180,7 @@ vs:
  - Round, Coralee
  - Sabourin, Joelle
  - Santos, Deb
+ - Scharf, Krista
  - Scott, Donna
  - Simard, Ginette
  - Singler, Sherri

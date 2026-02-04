@@ -55,9 +55,9 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - MacDonald, Kaitlin
- - McCarville, Krista
  - McDonald, Taylor
  - Pinksen, Sadie
+ - Scharf, Krista
  - Scotland, Nadine
  - Silvernagle, Robyn
  - Sippala, Ashley

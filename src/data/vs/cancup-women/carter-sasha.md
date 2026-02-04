@@ -1682,34 +1682,6 @@ vs:
       year: 2004
       draw: Round Robin(5)
       score: BRY 7 - SCO 6
- - name: McCarville, Krista
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 63
-        wins: 0
-        losses: 1
-      player2:
-        percent: 73
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'KS'
-        position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'KM'
-        position: Fourth
-        percent: 73
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(8)
-      score: KS 3 - KM 5
  - name: McCusker, Joan
    totals:
     - event: Canada Cup (Women)
@@ -2826,6 +2798,34 @@ vs:
       year: 2005
       draw: Round Robin(7)
       score: Sco 8 - Ber 4
+ - name: Scharf, Krista
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 63
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KS'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'KM'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(8)
+      score: KS 3 - KM 5
  - name: Schneider, Kim
    totals:
     - event: Canada Cup (Women)

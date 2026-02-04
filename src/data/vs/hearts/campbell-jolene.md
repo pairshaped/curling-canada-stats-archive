@@ -262,12 +262,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 92
+        percent: 78
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 85
-        wins: 0
+        percent: 87
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -286,6 +286,22 @@ vs:
       year: 2016
       draw: Round Robin(7)
       score: MB 4 - SK 8
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(11)
+      score: SK 4 - CA 10
  - name: Einarson, Megan
    totals:
     - event: Hearts
@@ -414,6 +430,62 @@ vs:
       year: 2012
       draw: Round Robin(17)
       score: CA 5 - SK 11
+ - name: Fitzgerald, Cate
+   totals:
+    - event: Hearts
+      player1:
+        percent: 47
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 47
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(3)
+      score: NS 11 - SK 3
+ - name: Fitzgerald, Maria
+   totals:
+    - event: Hearts
+      player1:
+        percent: 47
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 47
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 71
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(3)
+      score: NS 11 - SK 3
  - name: Flaxey, Allison
    totals:
     - event: Hearts
@@ -470,6 +542,62 @@ vs:
       year: 2012
       draw: Round Robin(10)
       score: ON 4 - CA 9
+ - name: Fortin, Jolianne
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(9)
+      score: QC 7 - SK 2
+ - name: Fortin, Megane
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(9)
+      score: QC 7 - SK 2
  - name: Forward, Katie
    totals:
     - event: Hearts
@@ -586,6 +714,34 @@ vs:
       year: 2012
       draw: Round Robin(15)
       score: CA 5 - TR 7
+ - name: Galusha, Sydney
+   totals:
+    - event: Hearts
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(7)
+      score: SK 6 - NT 5
  - name: Gamble, Christie
    totals:
     - event: Hearts
@@ -646,12 +802,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
+        percent: 81
         wins: 1
-        losses: 1
+        losses: 2
       player2:
         percent: 88
-        wins: 1
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -686,6 +842,22 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: WC 4 - WC 9
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(17)
+      score: SK 4 - MB 9
  - name: Hamilton, Beth
    totals:
     - event: Hearts
@@ -770,6 +942,34 @@ vs:
       year: 2016
       draw: Round Robin(3)
       score: SK 5 - ON 6
+ - name: Helston, Raelyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(13)
+      score: YT 4 - SK 10
  - name: Hill, Sarah
    totals:
     - event: Hearts
@@ -798,6 +998,34 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: WC 5 - NL 4
+ - name: Horvey, Bailey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(13)
+      score: YT 4 - SK 10
  - name: Hughes, Meaghan
    totals:
     - event: Hearts
@@ -958,6 +1186,34 @@ vs:
       year: 2016
       draw: Round Robin(1)
       score: SK 11 - NS 7
+ - name: Kaufman, Nicky
+   totals:
+    - event: Hearts
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(7)
+      score: SK 6 - NT 5
  - name: Kelly, Andrea
    totals:
     - event: Hearts
@@ -991,12 +1247,12 @@ vs:
     - event: Hearts
       player1:
         percent: 93
-        wins: 0
+        wins: 1
         losses: 1
       player2:
-        percent: 79
+        percent: 76
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'CA'
@@ -1014,6 +1270,78 @@ vs:
       year: 2012
       draw: Round Robin(15)
       score: CA 5 - TR 7
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(7)
+      score: SK 6 - NT 5
+ - name: Lafrance, Emy
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(9)
+      score: QC 7 - SK 2
+ - name: Lafrance, Megan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 0
+        losses: 1
+      player2:
+        percent: 97
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 97
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(9)
+      score: QC 7 - SK 2
  - name: Larouche, Marie-France
    totals:
     - event: Hearts
@@ -1074,12 +1402,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 72
+        percent: 73
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -1114,6 +1442,22 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: CA 11 - SK 5
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(17)
+      score: SK 4 - MB 9
  - name: Lemay, Annie
    totals:
     - event: Hearts
@@ -1186,6 +1530,34 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: NO 7 - WC 3
+ - name: Lloyd, Grace
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(15)
+      score: SK 4 - ON 8
  - name: MacDonald, Kaitlin
    totals:
     - event: Hearts
@@ -1242,6 +1614,34 @@ vs:
       year: 2012
       draw: Round Robin(13)
       score: CA 10 - PE 4
+ - name: Mackenzie, Julianna
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(5)
+      score: BC 5 - SK 8
  - name: MacPhail, Brigitte
    totals:
     - event: Hearts
@@ -1354,50 +1754,6 @@ vs:
       year: 2012
       draw: Round Robin(17)
       score: CA 5 - SK 11
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 1
-        losses: 1
-      player2:
-        percent: 79
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2016
-      draw: Round Robin(11)
-      score: SK 6 - NO 5
-    - player1:
-        team: 'WC'
-        position: Third
-        percent: 79
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(1)
-      score: NO 7 - WC 3
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -1442,6 +1798,34 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: CA 11 - SK 5
+ - name: McGillivray, Megan
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(5)
+      score: BC 5 - SK 8
  - name: Mercer, Adrienne
    totals:
     - event: Hearts
@@ -1758,12 +2142,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 85
+        percent: 81
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 90
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -1798,6 +2182,22 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: WC 4 - WC 9
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(17)
+      score: SK 4 - MB 9
  - name: Officer, Jill
    totals:
     - event: Hearts
@@ -2126,6 +2526,34 @@ vs:
       year: 2016
       draw: Round Robin(4)
       score: QC 10 - SK 4
+ - name: Reese-Hansen, Taylor
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 68
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(5)
+      score: BC 5 - SK 8
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -2154,6 +2582,34 @@ vs:
       year: 2016
       draw: Round Robin(6)
       score: SK 7 - NB 3
+ - name: Robert, Michaela
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(15)
+      score: SK 4 - ON 8
  - name: Robison, Michala
    totals:
     - event: Hearts
@@ -2238,6 +2694,50 @@ vs:
       year: 2016
       draw: Round Robin(3)
       score: SK 5 - ON 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 1
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(11)
+      score: SK 6 - NO 5
+    - player1:
+        team: 'WC'
+        position: Third
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: NO 7 - WC 3
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts
@@ -2266,6 +2766,34 @@ vs:
       year: 2011
       draw: Round Robin(17)
       score: SK 5 - BC 8
+ - name: Scoffin, Bayly
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 61
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(13)
+      score: YT 4 - SK 10
  - name: Scott, Kelly
    totals:
     - event: Hearts
@@ -2422,6 +2950,34 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: NO 7 - WC 3
+ - name: Skauge, Ella
+   totals:
+    - event: Hearts
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(7)
+      score: SK 6 - NT 5
  - name: Slywka, Sarah
    totals:
     - event: Hearts
@@ -2478,16 +3034,72 @@ vs:
       year: 2012
       draw: Round Robin(12)
       score: CA 6 - NS 7
+ - name: Steele, Rachel
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(15)
+      score: SK 4 - ON 8
+ - name: Stevens, Taylour
+   totals:
+    - event: Hearts
+      player1:
+        percent: 47
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 47
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(3)
+      score: NS 11 - SK 3
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
-        percent: 85
+        percent: 75
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 85
-        wins: 0
+        percent: 88
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -2506,6 +3118,22 @@ vs:
       year: 2010
       draw: Round Robin(17)
       score: SK 7 - AB 6
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(11)
+      score: SK 4 - CA 10
  - name: Taylor, Alison
    totals:
     - event: Hearts
@@ -2606,6 +3234,34 @@ vs:
       year: 2016
       draw: Round Robin(1)
       score: SK 11 - NS 7
+ - name: Umlah, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 47
+        wins: 0
+        losses: 1
+      player2:
+        percent: 66
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 47
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 66
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(3)
+      score: NS 11 - SK 3
  - name: Vandale, Trysta
    totals:
     - event: Hearts
@@ -2690,6 +3346,62 @@ vs:
       year: 2012
       draw: Round Robin(17)
       score: CA 5 - SK 11
+ - name: Walker, Laura
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(17)
+      score: SK 4 - MB 9
+ - name: Wallingham, Patty
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(13)
+      score: YT 4 - SK 10
  - name: Wilkes, Sarah
    totals:
     - event: Hearts

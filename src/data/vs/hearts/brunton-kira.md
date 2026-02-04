@@ -106,6 +106,34 @@ vs:
       year: 2025
       draw: Round Robin(4)
       score: NL 7 - ON 8
+ - name: Calvert, Kelsey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2024
+      draw: Round Robin(8)
+      score: ON 11 - MB 4
  - name: Cameron, Kate
    totals:
     - event: Hearts
@@ -334,34 +362,6 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: ON 12 - NL 3
- - name: Doerksen, Katherine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 38
-        wins: 0
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NO'
-        position: Third
-        percent: 38
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(14)
-      score: WC 9 - NO 5
  - name: Dubue, Lindsay
    totals:
     - event: Hearts
@@ -934,7 +934,7 @@ vs:
       year: 2024
       draw: Round Robin(4)
       score: ON 11 - ON 4
- - name: Horte, Bailey
+ - name: Horvey, Bailey
    totals:
     - event: Hearts
       player1:
@@ -1526,6 +1526,34 @@ vs:
       year: 2025
       draw: Playoff(20)
       score: AB 9 - ON 8
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 38
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 38
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(14)
+      score: WC 9 - NO 5
  - name: Riley, Emily
    totals:
     - event: Hearts
@@ -1582,34 +1610,6 @@ vs:
       year: 2024
       draw: Round Robin(10)
       score: ON 9 - NT 10
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 92
-        wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 92
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 88
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2024
-      draw: Round Robin(8)
-      score: ON 11 - MB 4
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

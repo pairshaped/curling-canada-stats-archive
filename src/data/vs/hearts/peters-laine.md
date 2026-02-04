@@ -610,6 +610,98 @@ vs:
       year: 2017
       draw: Round Robin(3)
       score: CA 6 - NS 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 85
+        wins: 3
+        losses: 2
+      player2:
+        percent: 86
+        wins: 2
+        losses: 3
+   games:
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Round Robin(6)
+      score: AB 9 - NO 8
+    - player1:
+        team: 'AB'
+        position: Lead
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2016
+      draw: Final(22)
+      score: NO 6 - AB 7
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 97
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(15)
+      score: CA 4 - NO 8
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Page 3-4(19)
+      score: CA 1 - NO 8
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Bronze(21)
+      score: CA 7 - NO 4
  - name: Schneider, Kim
    totals:
     - event: Hearts

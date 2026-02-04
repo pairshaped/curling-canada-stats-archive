@@ -152,7 +152,6 @@ vs:
  - MacDonald, Kaitlin
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McEwen, Dawn
  - Mercer, Adrienne
  - Middaugh, Kelly
@@ -169,6 +168,7 @@ vs:
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Russell, Kayla
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Shea, Michelle
  - Silvernagle, Robyn

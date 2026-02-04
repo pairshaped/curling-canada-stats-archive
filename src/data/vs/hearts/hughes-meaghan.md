@@ -1226,98 +1226,6 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: NS 4 - PE 9
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 72
-        wins: 0
-        losses: 5
-      player2:
-        percent: 78
-        wins: 5
-        losses: 0
-   games:
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(8)
-      score: NO 10 - PE 8
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(13)
-      score: PE 6 - NO 7
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Pool(19)
-      score: NO 7 - PE 6
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 76
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Pool(18)
-      score: PE 5 - NO 6
-    - player1:
-        team: 'PE'
-        position: Second
-        percent: 60
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 74
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(3)
-      score: NO 8 - PE 5
  - name: McEvoy, Julie
    totals:
     - event: Hearts
@@ -2874,6 +2782,98 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: PE 7 - SK 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 72
+        wins: 0
+        losses: 5
+      player2:
+        percent: 78
+        wins: 5
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(8)
+      score: NO 10 - PE 8
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(13)
+      score: PE 6 - NO 7
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Pool(19)
+      score: NO 7 - PE 6
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Pool(18)
+      score: PE 5 - NO 6
+    - player1:
+        team: 'PE'
+        position: Second
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(3)
+      score: NO 8 - PE 5
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2026-02-04
+
+ * Added 2026 Hearts data.
+
 ### 2025-12-16
 
  * Added 2025 Trials (Women) data.

@@ -58,6 +58,7 @@ vs:
  - Brothers, Jillian
  - Brown, Corryn
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Courtney, Joanne
  - Elias, Mackenzie
@@ -80,7 +81,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -93,7 +93,7 @@ vs:
  - Potts, Sarah
  - Powers, Marlee
  - Ramsay, Geri-Lynn
- - Rocque, Kelsey
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Scotland, Nadine

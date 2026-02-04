@@ -60,6 +60,7 @@ vs:
  - Brown, Corryn
  - Brown, Rachelle
  - Burgess, Karlee
+ - Calvert, Kelsey
  - Courtney, Joanne
  - Einarson, Kerri
  - Everist, Karlee
@@ -81,7 +82,6 @@ vs:
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
- - McCarville, Krista
  - McTaggart, Cary-Anne
  - Miskew, Emma
  - Moore, Kristie
@@ -91,7 +91,7 @@ vs:
  - Pincott, Erin
  - Potts, Sarah
  - Ramsay, Geri-Lynn
- - Rocque, Kelsey
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Sippala, Ashley

@@ -116,7 +116,6 @@ vs:
  - Malekoff, Stephanie
  - Martin, Denise
  - Materi, Roberta
- - McCarville, Krista
  - McEwen, Dawn
  - Middaugh, Sherry
  - Morris, Cori
@@ -128,6 +127,7 @@ vs:
  - Overton-Clapham, Cathy
  - Preston, Sam
  - Rumberg, Crystal
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Singler, Sherri

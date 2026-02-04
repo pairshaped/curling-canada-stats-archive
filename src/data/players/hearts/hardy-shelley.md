@@ -145,7 +145,6 @@ vs:
  - MacPhee, Robyn
  - Makichuk, Lindsay
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
@@ -173,6 +172,7 @@ vs:
  - Ridalls, Kristen
  - Rocque, Raylene
  - Rudulier, Andrea
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

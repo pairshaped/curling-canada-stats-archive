@@ -201,7 +201,6 @@ vs:
  - Mallett, Marla
  - Martin, Heather
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
  - McEwen, Dawn
@@ -238,6 +237,7 @@ vs:
  - Robertson, Darcy
  - Rogers, Rhonda
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schneider, Kim
  - Schneider, Tammy

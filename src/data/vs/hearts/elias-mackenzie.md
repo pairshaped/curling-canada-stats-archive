@@ -550,7 +550,7 @@ vs:
       year: 2024
       draw: Round Robin(10)
       score: ON 8 - MB 6
- - name: Horte, Bailey
+ - name: Horvey, Bailey
    totals:
     - event: Hearts
       player1:
@@ -1022,34 +1022,6 @@ vs:
       year: 2024
       draw: Round Robin(18)
       score: BC 4 - MB 7
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 81
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'WC'
-        position: Lead
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 81
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(9)
-      score: NO 8 - WC 6
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -1446,6 +1418,34 @@ vs:
       year: 2024
       draw: Round Robin(12)
       score: MB 9 - NT 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(9)
+      score: NO 8 - WC 6
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

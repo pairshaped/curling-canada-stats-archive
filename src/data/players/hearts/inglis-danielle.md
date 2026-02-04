@@ -97,6 +97,7 @@ vs:
  - Brothers, Jillian
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carmody, Erin
  - Chislett, Geneva
@@ -117,7 +118,7 @@ vs:
  - Grandy, Clancy
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hutchings, Denise
  - Jones, Jennifer
  - Karwacki, Krysten
@@ -138,7 +139,6 @@ vs:
  - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Scoffin, Bayly
  - Shackleton, Amie
  - Sinclair, Jamie

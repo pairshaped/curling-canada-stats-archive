@@ -1174,34 +1174,6 @@ vs:
       year: 2009
       draw: Round Robin(4)
       score: TR 7 - NB 8
- - name: Doerksen, Katherine
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 0
-        losses: 1
-      player2:
-        percent: 80
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NT'
-        position: Lead
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'WC'
-        position: Second
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2021
-      draw: Round Robin(18)
-      score: NT 8 - WC 9
  - name: Dolan, Kim
    totals:
     - event: Hearts
@@ -2454,7 +2426,7 @@ vs:
       year: 2021
       draw: Round Robin(14)
       score: ON 5 - NT 7
- - name: Horte, Bailey
+ - name: Horvey, Bailey
    totals:
     - event: Hearts
       player1:
@@ -3838,34 +3810,6 @@ vs:
       year: 2012
       draw: Round Robin(16)
       score: SK 4 - TR 7
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 1
-        losses: 0
-      player2:
-        percent: 78
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'TR'
-        position: Second
-        percent: 73
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 78
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(16)
-      score: ON 7 - TR 9
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -4918,6 +4862,34 @@ vs:
       year: 2018
       draw: Round Robin(6)
       score: NB 8 - NT 7
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NT'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Round Robin(18)
+      score: NT 8 - WC 9
  - name: Richards, Brette
    totals:
     - event: Hearts
@@ -5058,6 +5030,34 @@ vs:
       year: 2009
       draw: Round Robin(2)
       score: QC 9 - TR 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'TR'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(16)
+      score: ON 7 - TR 9
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

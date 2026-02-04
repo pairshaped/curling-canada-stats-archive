@@ -188,7 +188,6 @@ vs:
  - MacLean, Kari
  - Mair, Jessica
  - Materi, Roberta
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - Merklinger, Lee
@@ -216,6 +215,7 @@ vs:
  - Rogers, Rhonda
  - Rumberg, Crystal
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

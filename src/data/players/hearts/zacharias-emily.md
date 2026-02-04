@@ -108,6 +108,7 @@ vs:
  - Brown, Rachelle
  - Brunton, Kira
  - Burns, Krysta
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carmody, Erin
  - Carter, Sasha
@@ -116,7 +117,6 @@ vs:
  - Crandall, Jaclyn
  - Daly, Calissa
  - deGroot, Cassandra
- - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Hollie
  - Einarson, Kerri
@@ -147,9 +147,9 @@ vs:
  - Papley, Paige
  - Peterson, Beth
  - Quillian, Sylvie
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scoffin, Bayly

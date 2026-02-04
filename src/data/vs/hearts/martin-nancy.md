@@ -30,34 +30,6 @@ vs:
       year: 2025
       draw: Round Robin(3)
       score: PE 6 - SK 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 1
-        losses: 0
-      player2:
-        percent: 66
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Fourth
-        percent: 74
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 66
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2025
-      draw: Round Robin(1)
-      score: SK 10 - NO 6
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -386,6 +358,34 @@ vs:
       year: 2025
       draw: Round Robin(11)
       score: AB 10 - SK 5
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 70
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(21)
+      score: WC 10 - SK 9
  - name: Riley, Emily
    totals:
     - event: Hearts
@@ -442,6 +442,34 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: SK 7 - NB 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 74
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(1)
+      score: SK 10 - NO 6
  - name: Schmiemann, Danielle
    totals:
     - event: Hearts

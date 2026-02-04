@@ -57,7 +57,6 @@ vs:
  - Lawes, Kaitlyn
  - Lemay, Annie
  - Lilly, Kendra
- - McCarville, Krista
  - McEwen, Dawn
  - Murphy, Sarah
  - Nicholls, Brenda
@@ -74,6 +73,7 @@ vs:
  - Rainville, Julie
  - Richard, Marie
  - Sagle, Karen
+ - Scharf, Krista
  - Sippala, Ashley
  - Udle, Teri
  - Vautour, Carrie

@@ -60,7 +60,6 @@ vs:
  - LeDrew, Stephanie
  - Lemon, Colette
  - MacLean, Kari
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Naugler, Tara
@@ -73,6 +72,7 @@ vs:
  - Rainville, Julie
  - Ramsay, Geri-Lynn
  - Rogers, Rhonda
+ - Scharf, Krista
  - Schneider, Kim
  - Schraeder, Jeanna
  - Scott, Kelly

@@ -112,7 +112,6 @@ vs:
  - Loder, Jenna
  - Maclachlan, Kyla
  - MacLean, Kari
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - Merklinger, Lee
@@ -131,6 +130,7 @@ vs:
  - Rizzo, Jo-Ann
  - Rumberg, Crystal
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

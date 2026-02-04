@@ -178,7 +178,6 @@ vs:
  - Marchand, Stephanie
  - Martin, Heather
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCusker, Joan
@@ -203,6 +202,7 @@ vs:
  - Richards, Brette
  - Robertson, Darcy
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schmirler, Sandra
  - Shields, Deanne
  - Singler, Sherri

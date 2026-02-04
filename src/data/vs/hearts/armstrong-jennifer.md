@@ -286,6 +286,34 @@ vs:
       year: 2024
       draw: Round Robin(3)
       score: BC 12 - NL 4
+ - name: Calvert, Kelsey
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(5)
+      score: AB 8 - NB 3
  - name: Cameron, Kate
    totals:
     - event: Hearts
@@ -1686,66 +1714,6 @@ vs:
       year: 2024
       draw: Round Robin(5)
       score: PE 5 - BC 9
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 75
-        wins: 0
-        losses: 3
-      player2:
-        percent: 76
-        wins: 3
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 58
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 72
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(4)
-      score: NB 3 - NO 9
-    - player1:
-        team: 'WC'
-        position: Lead
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(1)
-      score: NO 7 - WC 3
-    - player1:
-        team: 'BC'
-        position: Second
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2024
-      draw: Round Robin(1)
-      score: NO 9 - BC 5
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -2230,34 +2198,6 @@ vs:
       year: 2024
       draw: Round Robin(13)
       score: QC 3 - BC 8
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 94
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Third
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 94
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(5)
-      score: AB 8 - NB 3
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -2314,6 +2254,66 @@ vs:
       year: 2020
       draw: Round Robin(11)
       score: NB 11 - QC 6
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 75
+        wins: 0
+        losses: 3
+      player2:
+        percent: 76
+        wins: 3
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Third
+        percent: 58
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 72
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(4)
+      score: NB 3 - NO 9
+    - player1:
+        team: 'WC'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(1)
+      score: NO 7 - WC 3
+    - player1:
+        team: 'BC'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2024
+      draw: Round Robin(1)
+      score: NO 9 - BC 5
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

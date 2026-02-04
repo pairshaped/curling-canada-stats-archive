@@ -2330,34 +2330,6 @@ vs:
       year: 1998
       draw: Round Robin(10)
       score: CA 7 - NS 6
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 94
-        wins: 1
-        losses: 0
-      player2:
-        percent: 40
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Lead
-        percent: 94
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 40
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2007
-      draw: Round Robin(7)
-      score: SK 10 - ON 1
  - name: McCloy, Elaine
    totals:
     - event: Hearts
@@ -4302,6 +4274,34 @@ vs:
       year: 1998
       draw: Round Robin(15)
       score: CA 6 - PE 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 40
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 40
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2007
+      draw: Round Robin(7)
+      score: SK 10 - ON 1
  - name: Schikowski, Keri-Lynn
    totals:
     - event: Hearts

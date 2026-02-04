@@ -6262,34 +6262,6 @@ vs:
       year: 1992
       draw: Playoff(18)
       score: MB 7 - BC 6
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 56
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MB'
-        position: Lead
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2007
-      draw: Round Robin(12)
-      score: MB 8 - ON 5
  - name: McCarville, Susan
    totals:
     - event: Hearts
@@ -8658,6 +8630,34 @@ vs:
       year: 1992
       draw: Round Robin(4)
       score: PE 3 - MB 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 56
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 56
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2007
+      draw: Round Robin(12)
+      score: MB 8 - ON 5
  - name: Schmirler, Sandra
    totals:
     - event: Hearts

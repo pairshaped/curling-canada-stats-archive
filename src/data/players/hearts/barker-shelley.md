@@ -87,7 +87,6 @@ vs:
  - MacDonald, Kaitlin
  - MacMillan, Kayla
  - MacPhail, Brigitte
- - McCarville, Krista
  - McDonald, Taylor
  - Middaugh, Kelly
  - Miskew, Emma
@@ -99,6 +98,7 @@ vs:
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Schafer, Kelly
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Shea, Michelle

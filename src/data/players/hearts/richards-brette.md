@@ -106,7 +106,6 @@ vs:
  - Mann, Lauren
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Miskew, Emma
@@ -126,6 +125,7 @@ vs:
  - Potts, Sarah
  - Sabourin, Joelle
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schneider, Lorraine
  - Shea, Michelle
  - Sicinski, Danielle

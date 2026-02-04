@@ -4,19 +4,19 @@ name: Christina Black
 name-sort: Black, Christina
 totals:
  - event: Hearts
-   games: 65
-   wins: 39
-   losses: 26
-   inturn-total: 656
-   inturn-percent: 77
-   outturn-total: 599
-   outturn-percent: 77
-   draw-total: 539
+   games: 76
+   wins: 46
+   losses: 30
+   inturn-total: 759
+   inturn-percent: 78
+   outturn-total: 699
+   outturn-percent: 78
+   draw-total: 642
    draw-percent: 75
-   takeout-total: 716
-   takeout-percent: 79
-   shots-total: 1255
-   shots-percent: 77
+   takeout-total: 816
+   takeout-percent: 80
+   shots-total: 1458
+   shots-percent: 78
 years:
  - year: 2015
    event: Hearts
@@ -126,7 +126,26 @@ years:
    takeout-percent: 81
    shots-total: 237
    shots-percent: 78
+ - year: 2026
+   event: Hearts
+   team: "NS"
+   position: Fourth
+   alternate: false
+   games: 11
+   wins: 7
+   losses: 4
+   inturn-total: 103
+   inturn-percent: 79
+   outturn-total: 100
+   outturn-percent: 83
+   draw-total: 103
+   draw-percent: 80
+   takeout-total: 100
+   takeout-percent: 81
+   shots-total: 203
+   shots-percent: 81
 vs:
+ - Adams, Kristina
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -135,6 +154,7 @@ vs:
  - Atkinson, Rebecca
  - Balsdon, Megan
  - Barbour, Shona
+ - Best, Emily
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
@@ -147,8 +167,10 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Camozzi, Rhonda
+ - Campbell, Jenna
  - Carter, Sasha
  - Chenier, Courtney
  - Christianson, Marie
@@ -157,6 +179,7 @@ vs:
  - Courtney, Joanne
  - Cullen, Brianna
  - Curtis, Erica
+ - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
  - Dubue, Lindsay
@@ -172,8 +195,11 @@ vs:
  - Fesser, Krista
  - Filteau, Anne-Marie
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Foster, Kerry
  - Fyfe, Liz
  - Galusha, Kerry
@@ -182,14 +208,16 @@ vs:
  - Gibson, Amy
  - Godsland, Brooke
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
+ - Gustafson, Leigh
  - Hamilton, Beth
  - Harris, Briane
  - Hastings, Julie
  - Hawes, Dezaray
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hynes, Julie
  - Inglis, Danielle
@@ -217,19 +245,22 @@ vs:
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - Mann, Lauren
- - McCarville, Krista
+ - Mayne, Veronica
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
  - McTaggart, Cary-Anne
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Moore, Kristie
  - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
+ - Papley, Paige
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pewarchuk, Dailene
  - Pilote, Kristen
  - Pincott, Erin
@@ -237,9 +268,11 @@ vs:
  - Plonka, Gabrielle
  - Porter, Erin
  - Potts, Sarah
+ - Power, Amanda
  - Price, Kara
  - Quillian, Sylvie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
@@ -248,9 +281,11 @@ vs:
  - Rusnell, Jen
  - Sagle, Karen
  - Schafer, Kelly
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scoffin, Bayly
  - Scotland, Nadine
@@ -262,22 +297,29 @@ vs:
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smallwood, Jody
+ - Smith, Carly
+ - Smith, Sabrina
  - Smith, Stacey
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stevens, Taylour
  - Strong, Heather
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
  - Thevenot, Kara
  - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly
+ - Umlah, Alison
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Walker, Laura
  - Wallingham, Patty
+ - Watson, Rebecca
+ - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora
  - Wilkes, Sarah

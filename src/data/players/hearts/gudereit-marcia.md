@@ -303,7 +303,6 @@ vs:
  - Marchuk, Lindy
  - Martin, Heather
  - Mattatall, Mary
- - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCrady, Christine
@@ -354,6 +353,7 @@ vs:
  - Sabourin, Joelle
  - Santos, Deb
  - Scales, Julie
+ - Scharf, Krista
  - Schikowski, Keri-Lynn
  - Schraeder, Jeanna
  - Scott, Kelly

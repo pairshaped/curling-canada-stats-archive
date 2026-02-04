@@ -88,7 +88,6 @@ vs:
  - Christianson, Marie
  - Courtney, Joanne
  - Daigle, Julie
- - Doerksen, Katherine
  - Einarson, Kerri
  - Ferguson, Dana
  - Flemming, Margot
@@ -115,7 +114,6 @@ vs:
  - Lilly, Kendra
  - Loder, Jenna
  - MacPhee, Robyn
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - Miskew, Emma
@@ -131,10 +129,12 @@ vs:
  - Pilote, Kristen
  - Pinksen, Sadie
  - Potts, Sarah
+ - Remillard, Katherine
  - Rizzo, Jo-Ann
  - Rusnell, Jen
  - Sagle, Karen
  - Sandwith, Carley
+ - Scharf, Krista
  - Smith, Megan
  - Sweeting, Val
  - Tran, Brittany

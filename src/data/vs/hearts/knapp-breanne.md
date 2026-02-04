@@ -478,6 +478,34 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: NU 3 - SK 9
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 73
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2021
+      draw: Pool(21)
+      score: WC 10 - SK 9
  - name: Riley, Emily
    totals:
     - event: Hearts

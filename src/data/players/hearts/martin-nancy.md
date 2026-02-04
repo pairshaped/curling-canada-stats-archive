@@ -69,7 +69,6 @@ vs:
  - Courtney, Joanne
  - Crandall, Jaclyn
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Eddy, Lori
  - Einarson, Kerri
  - Fisher, Samantha
@@ -95,7 +94,6 @@ vs:
  - Loder, Jenna
  - MacDonald, Kaitlin
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - Mercer, Adrienne
  - Miskew, Emma
@@ -106,8 +104,10 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Riley, Emily
  - Russell, Kayla
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Shea, Michelle
  - Sippala, Ashley

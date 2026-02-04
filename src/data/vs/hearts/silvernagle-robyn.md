@@ -30,6 +30,34 @@ vs:
       year: 2020
       draw: Round Robin(14)
       score: NO 4 - SK 3
+ - name: Skauge, Ella
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(7)
+      score: SK 6 - NT 5
  - name: Skrlik, Ashton
    totals:
     - event: Hearts
@@ -114,6 +142,62 @@ vs:
       year: 2023
       draw: Round Robin(8)
       score: SK 5 - QC 9
+ - name: Steele, Rachel
+   totals:
+    - event: Hearts
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(15)
+      score: SK 4 - ON 8
+ - name: Stevens, Taylour
+   totals:
+    - event: Hearts
+      player1:
+        percent: 56
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(3)
+      score: NS 11 - SK 3
  - name: Strong, Helen
    totals:
     - event: Hearts
@@ -146,12 +230,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 70
+        percent: 74
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 93
-        wins: 2
+        percent: 92
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -186,6 +270,22 @@ vs:
       year: 2023
       draw: Round Robin(11)
       score: CA 10 - SK 3
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 92
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(11)
+      score: SK 4 - CA 10
  - name: Taylor, Alison
    totals:
     - event: Hearts
@@ -258,6 +358,34 @@ vs:
       year: 2023
       draw: Round Robin(3)
       score: AB 9 - SK 11
+ - name: Umlah, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 56
+        wins: 0
+        losses: 1
+      player2:
+        percent: 66
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 56
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 66
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(3)
+      score: NS 11 - SK 3
  - name: Verreault, Noemie
    totals:
     - event: Hearts
@@ -290,12 +418,12 @@ vs:
    totals:
     - event: Hearts
       player1:
-        percent: 74
+        percent: 75
         wins: 1
-        losses: 1
+        losses: 2
       player2:
         percent: 76
-        wins: 1
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -330,6 +458,50 @@ vs:
       year: 2023
       draw: Round Robin(10)
       score: SK 3 - WC 8
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(17)
+      score: SK 4 - MB 9
+ - name: Wallingham, Patty
+   totals:
+    - event: Hearts
+      player1:
+        percent: 79
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2026
+      draw: Round Robin(13)
+      score: YT 4 - SK 10
  - name: Wark, Sarah
    totals:
     - event: Hearts

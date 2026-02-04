@@ -72,6 +72,7 @@ years:
 vs:
  - Anderson, Sherry
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
@@ -108,7 +109,6 @@ vs:
  - Peters, Laine
  - Preston, Samantha
  - Ramsay, Geri-Lynn
- - Rocque, Kelsey
  - Rumberg, Crystal
  - Schmidt, Stephanie
  - Singler, Sherri

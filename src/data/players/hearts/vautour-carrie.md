@@ -82,7 +82,6 @@ vs:
  - Lemay, Annie
  - Lilly, Kendra
  - MacPhee, Robyn
- - McCarville, Krista
  - McEwen, Dawn
  - McTaggart, Cary-Anne
  - Moore, Kristie
@@ -100,6 +99,7 @@ vs:
  - Richard, Marie
  - Ryan, Kristen
  - Sagle, Karen
+ - Scharf, Krista
  - Scheidegger, Casey
  - Shaw, Ladene
  - Sippala, Ashley

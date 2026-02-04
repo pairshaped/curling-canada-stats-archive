@@ -198,7 +198,6 @@ vs:
  - Martin, Heather
  - Materi, Roberta
  - Mattheis, Shannon
- - McCarville, Krista
  - McCusker, Joan
  - McEwen, Dawn
  - McInnis, Susan
@@ -228,6 +227,7 @@ vs:
  - Robertson, Darcy
  - Rocque, Raylene
  - Ruus, Karen
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Shantz, Penny

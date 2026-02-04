@@ -4,18 +4,18 @@ name: Sarah Potts
 name-sort: Potts, Sarah
 totals:
  - event: Hearts
-   games: 75
-   wins: 49
-   losses: 26
-   inturn-total: 747
+   games: 83
+   wins: 54
+   losses: 29
+   inturn-total: 830
    inturn-percent: 87
-   outturn-total: 672
+   outturn-total: 733
    outturn-percent: 88
-   draw-total: 1190
+   draw-total: 1316
    draw-percent: 89
-   takeout-total: 229
+   takeout-total: 247
    takeout-percent: 82
-   shots-total: 1419
+   shots-total: 1563
    shots-percent: 87
 years:
  - year: 2010
@@ -158,8 +158,27 @@ years:
    takeout-percent: 90
    shots-total: 92
    shots-percent: 88
+ - year: 2026
+   event: Hearts
+   team: "NO"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 83
+   inturn-percent: 87
+   outturn-total: 61
+   outturn-percent: 87
+   draw-total: 126
+   draw-percent: 88
+   takeout-total: 18
+   takeout-percent: 81
+   shots-total: 144
+   shots-percent: 87
 vs:
  - Ackland, Abby
+ - Adams, Kristina
  - Adams, Melissa
  - Alcoe-Holland, Jill
  - Aleksic, Shannon
@@ -170,6 +189,7 @@ vs:
  - Barker, Shelley
  - Baxter, Jennifer
  - Belisle, Eve
+ - Best, Emily
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
@@ -184,7 +204,9 @@ vs:
  - Brown, Rachelle
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
@@ -212,6 +234,7 @@ vs:
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Forward, Katie
  - Foster, Kerry
  - Fullerton, Sarah
@@ -219,6 +242,7 @@ vs:
  - Galusha, Kerry
  - Gamble, Christie
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Griffin, Alison
  - Gustafson, Leigh
  - Hamilton, Beth
@@ -264,6 +288,7 @@ vs:
  - Mercer, Adrienne
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Moore, Kristie
  - Munroe, Anna
  - Murphy, Sarah
@@ -278,14 +303,18 @@ vs:
  - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
+ - Peterson, Beth
  - Phillips, Kristen
  - Pilote, Kristen
  - Pincott, Erin
  - Pinksen, Sadie
  - Porter, Erin
+ - Power, Amanda
+ - Powers, Marlee
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
@@ -307,6 +336,7 @@ vs:
  - Sinclair, Jamie
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Sabrina
  - St-Georges, Laurie
  - Sturmay, Selena
@@ -322,6 +352,7 @@ vs:
  - Vautour, Carrie
  - Walter, Meghan
  - Wark, Sarah
+ - Watson, Rebecca
  - Weagle, Julia
  - Weagle, Lisa
  - Westcott, Raunora

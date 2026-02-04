@@ -54,7 +54,6 @@ vs:
  - Kreviazuk, Cheryl
  - Lavoie, Gabrielle
  - Lilly, Kendra
- - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
  - Munroe, Anna
@@ -64,6 +63,7 @@ vs:
  - Potts, Sarah
  - Rusnell, Jen
  - Sandwith, Carley
+ - Scharf, Krista
  - Wark, Sarah
  - Weagle, Lisa
  - Wilkes, Sarah

@@ -434,34 +434,50 @@ vs:
       year: 2013
       draw: Round Robin(11)
       score: MID 7 - SON 6
- - name: Rocque, Kelsey
+ - name: Scharf, Krista
    totals:
     - event: Trials (Women)
       player1:
-        percent: 84
-        wins: 0
-        losses: 1
-      player2:
-        percent: 89
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 2
    games:
     - player1:
         team: 'Sche'
         position: Third
-        percent: 84
-        win: 0
-        loss: 1
-      player2:
-        team: 'Rocq'
-        position: Fourth
         percent: 89
         win: 1
         loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2017
+      draw: Round Robin(4)
+      score: Sche 7 - McCa 5
+    - player1:
+        team: 'Sche'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
       event: Trials (Women)
       year: 2021
-      draw: Round Robin(5)
-      score: Sche 5 - Rocq 6
+      draw: Round Robin(3)
+      score: Sche 5 - McCa 4
  - name: Schmiemann, Danielle
    totals:
     - event: Trials (Women)

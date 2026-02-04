@@ -1042,34 +1042,6 @@ vs:
       year: 2018
       draw: Round Robin(9)
       score: Flax 9 - Robe 6
- - name: Rocque, Kelsey
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 75
-        wins: 0
-        losses: 1
-      player2:
-        percent: 75
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'MCD'
-        position: Third
-        percent: 75
-        win: 0
-        loss: 1
-      player2:
-        team: 'ROC'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(1)
-      score: ROC 7 - MCD 6
  - name: Rumberg, Crystal
    totals:
     - event: Canada Cup (Women)

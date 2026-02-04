@@ -1402,6 +1402,34 @@ vs:
       year: 2014
       draw: Round Robin(13)
       score: PE 4 - CA 9
+ - name: Remillard, Katherine
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'WC'
+        position: Second
+        percent: 64
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2021
+      draw: Round Robin(3)
+      score: WC 4 - ON 9
  - name: Richard, Marie
    totals:
     - event: Hearts
@@ -1590,34 +1618,6 @@ vs:
       year: 2014
       draw: Round Robin(13)
       score: PE 4 - CA 9
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 86
-        wins: 1
-        losses: 0
-      player2:
-        percent: 90
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Second
-        percent: 86
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2024
-      draw: Round Robin(10)
-      score: ON 8 - MB 6
  - name: Ross, Allison
    totals:
     - event: Hearts
@@ -1834,6 +1834,162 @@ vs:
       year: 2017
       draw: Round Robin(7)
       score: ON 9 - NS 3
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 81
+        wins: 9
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 9
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Round Robin(12)
+      score: NO 6 - ON 7
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2017
+      draw: Semi-Final(20)
+      score: NO 5 - ON 7
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Round Robin(1)
+      score: NO 4 - ON 6
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2019
+      draw: Page 3-4(20)
+      score: ON 6 - NO 4
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 55
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Pool(16)
+      score: ON 9 - NO 4
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Page 3-4(20)
+      score: ON 9 - NO 5
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(5)
+      score: NO 5 - WC 8
+    - player1:
+        team: 'ON'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: ON 7 - NO 5
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: CA 10 - NO 7
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

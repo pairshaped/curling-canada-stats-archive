@@ -119,7 +119,6 @@ vs:
  - MacDonald, Kaitlin
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - Mercer, Adrienne
  - Middaugh, Kelly
  - Miskew, Emma
@@ -132,6 +131,7 @@ vs:
  - Ramsay, Geri-Lynn
  - Riley, Emily
  - Russell, Kayla
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Shea, Michelle
  - Sippala, Ashley

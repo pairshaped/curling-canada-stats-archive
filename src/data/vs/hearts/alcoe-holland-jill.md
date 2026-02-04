@@ -674,34 +674,6 @@ vs:
       year: 2017
       draw: Round Robin(10)
       score: QC 12 - NS 6
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 83
-        wins: 0
-        losses: 1
-      player2:
-        percent: 71
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 83
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 71
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2017
-      draw: Round Robin(16)
-      score: NS 4 - NO 6
  - name: Miskew, Emma
    totals:
     - event: Hearts
@@ -954,6 +926,34 @@ vs:
       year: 2017
       draw: Round Robin(1)
       score: NS 5 - BC 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 83
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 71
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2017
+      draw: Round Robin(16)
+      score: NS 4 - NO 6
  - name: Shea, Michelle
    totals:
     - event: Hearts

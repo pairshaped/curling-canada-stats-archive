@@ -139,7 +139,6 @@ vs:
  - Mallett, Marla
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Kristy
  - McEwen, Dawn
@@ -165,6 +164,7 @@ vs:
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Scott, Kelly
  - Sharpe, Kelli
  - Simons, Renee

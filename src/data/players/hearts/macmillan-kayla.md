@@ -64,6 +64,7 @@ vs:
  - Brothers, Jillian
  - Brunton, Kira
  - Burgess, Karlee
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carmody, Erin
  - Christianson, Marie
@@ -98,7 +99,6 @@ vs:
  - Ramsay, Geri-Lynn
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Routledge, Alanna
  - Schafer, Kelly
  - Scoffin, Bayly

@@ -4,19 +4,19 @@ name: Margot Flemming
 name-sort: Flemming, Margot
 totals:
  - event: Hearts
-   games: 45
-   wins: 24
-   losses: 21
-   inturn-total: 482
-   inturn-percent: 78
-   outturn-total: 396
-   outturn-percent: 76
-   draw-total: 364
+   games: 53
+   wins: 29
+   losses: 24
+   inturn-total: 552
+   inturn-percent: 80
+   outturn-total: 474
+   outturn-percent: 77
+   draw-total: 410
    draw-percent: 79
-   takeout-total: 514
-   takeout-percent: 76
-   shots-total: 878
-   shots-percent: 77
+   takeout-total: 616
+   takeout-percent: 78
+   shots-total: 1026
+   shots-percent: 78
 years:
  - year: 2021
    event: Hearts
@@ -108,8 +108,27 @@ years:
    takeout-percent: 82
    shots-total: 221
    shots-percent: 81
+ - year: 2026
+   event: Hearts
+   team: "AB"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 70
+   inturn-percent: 87
+   outturn-total: 78
+   outturn-percent: 83
+   draw-total: 46
+   draw-percent: 82
+   takeout-total: 102
+   takeout-percent: 86
+   shots-total: 148
+   shots-percent: 85
 vs:
  - Ackland, Abby
+ - Adams, Kristina
  - Adams, Melissa
  - Armstrong, Hailey
  - Arsenault, Mary-Anne
@@ -117,6 +136,7 @@ vs:
  - Balsdon, Megan
  - Barker, Shelley
  - Baxter, Jennifer
+ - Best, Emily
  - Birchard, Shannon
  - Birnie, Hailey
  - Black, Christina
@@ -129,7 +149,9 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Carmody, Erin
  - Carter, Sasha
  - Christianson, Marie
@@ -140,7 +162,6 @@ vs:
  - Daly, Calissa
  - deGroot, Cassandra
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Doig, Deanna
  - Dubue, Lindsay
  - Duncan, Chelsea
@@ -150,9 +171,11 @@ vs:
  - Everist, Karlee
  - Fisher, Samantha
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Forward, Katie
  - Foster, Kerry
  - Gates, Amanda
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
  - Gustafson, Leigh
  - Guy, Sara
@@ -178,9 +201,9 @@ vs:
  - MacMillan, Kayla
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Muise, Morgan
  - Oliver, Sara
  - Papley, Paige
@@ -188,17 +211,20 @@ vs:
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Power, Amanda
  - Powers, Marlee
  - Quillian, Sylvie
+ - Remillard, Katherine
  - Riley, Emily
- - Rocque, Kelsey
  - Russell, Kayla
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scoffin, Bayly
  - Scotland, Nadine
  - Sippala, Ashley
+ - Smith, Carly
  - Smith, Heather
  - Smith, Megan
  - Smith, Sabrina
@@ -208,14 +234,17 @@ vs:
  - Strybosch, Rachelle
  - Sturmay, Selena
  - Sweeting, Val
+ - Taylor, Alison
  - Tran, Brittany
  - Tuor, Kimberly
  - Walker, Laura
  - Wallingham, Patty
  - Walter, Meghan
  - Ward, Molli
+ - Watson, Rebecca
  - Weagle, Julia
  - Wilkes, Sarah
+ - Wiseman, Jessica
  - Zacharias, Emily
  - Zacharias, Mackenzie
 ---

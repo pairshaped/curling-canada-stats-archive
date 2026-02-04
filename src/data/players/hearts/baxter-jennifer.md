@@ -4,18 +4,18 @@ name: Jennifer Baxter
 name-sort: Baxter, Jennifer
 totals:
  - event: Hearts
-   games: 70
-   wins: 41
-   losses: 29
-   inturn-total: 804
-   inturn-percent: 81
-   outturn-total: 531
+   games: 75
+   wins: 45
+   losses: 30
+   inturn-total: 854
+   inturn-percent: 82
+   outturn-total: 573
    outturn-percent: 80
-   draw-total: 716
+   draw-total: 755
    draw-percent: 82
-   takeout-total: 619
+   takeout-total: 672
    takeout-percent: 79
-   shots-total: 1335
+   shots-total: 1427
    shots-percent: 81
 years:
  - year: 2013
@@ -144,7 +144,26 @@ years:
    takeout-percent: 80
    shots-total: 104
    shots-percent: 83
+ - year: 2026
+   event: Hearts
+   team: "NS"
+   position: Second
+   alternate: false
+   games: 5
+   wins: 4
+   losses: 1
+   inturn-total: 50
+   inturn-percent: 84
+   outturn-total: 42
+   outturn-percent: 82
+   draw-total: 39
+   draw-percent: 87
+   takeout-total: 53
+   takeout-percent: 80
+   shots-total: 92
+   shots-percent: 83
 vs:
+ - Adams, Kristina
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -168,6 +187,7 @@ vs:
  - Burgess, Karlee
  - Cameron, Kate
  - Camozzi, Rhonda
+ - Campbell, Jenna
  - Carter, Sasha
  - Chenier, Courtney
  - Cheveldave, Amber
@@ -195,8 +215,11 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Foster, Kerry
  - Fullerton, Sarah
  - Fyfe, Liz
@@ -244,7 +267,6 @@ vs:
  - Mair, Jessica
  - Mann, Lauren
  - Martin, Heather
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McInnis, Susan
@@ -252,12 +274,14 @@ vs:
  - Middaugh, Kelly
  - Miller, Wendy
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Moore, Kristie
  - Nedohin, Heather
  - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
  - O'Rourke, Brittany
+ - Papley, Paige
  - Parsons, Danielle
  - Peterman, Jocelyn
  - Peters, Laine
@@ -280,9 +304,11 @@ vs:
  - Rusnell, Jen
  - Sagle, Karen
  - Schafer, Kelly
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
+ - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scotland, Nadine
  - Scott, Kelly
@@ -295,23 +321,28 @@ vs:
  - Skrlik, Ashton
  - Skrlik, Kayla
  - Smallwood, Jody
+ - Smith, Carly
  - Smith, Stacey
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Stevens, Taylour
  - Strong, Heather
  - Strybosch, Rachelle
+ - Sturmay, Selena
  - Sweeting, Val
  - Taylor, Alison
  - Thevenot, Kara
  - Tran, Brittany
  - Trombley, Christy
  - Tuor, Kimberly
+ - Umlah, Alison
  - Van Osch, Kalia
  - Van Osch, Kesa
  - Van Osch, Marika
  - Walker, Laura
  - Wallingham, Patty
  - Wasylkiw, Lauren
+ - Watson, Rebecca
  - Wazney, Sarah
  - Weagle, Lisa
  - Westcott, Raunora

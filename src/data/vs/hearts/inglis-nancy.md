@@ -114,34 +114,6 @@ vs:
       year: 2007
       draw: Round Robin(6)
       score: PE 5 - SK 9
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 90
-        wins: 1
-        losses: 0
-      player2:
-        percent: 40
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'SK'
-        position: Second
-        percent: 90
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 40
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2007
-      draw: Round Robin(7)
-      score: SK 10 - ON 1
  - name: Morgan, Cheryl
    totals:
     - event: Hearts
@@ -478,6 +450,34 @@ vs:
       year: 2007
       draw: Round Robin(15)
       score: SK 10 - BC 3
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 40
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 40
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2007
+      draw: Round Robin(7)
+      score: SK 10 - ON 1
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts

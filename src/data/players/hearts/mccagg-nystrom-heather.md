@@ -189,7 +189,6 @@ vs:
  - Mallett, Marla
  - Materi, Roberta
  - Mattatall, Mary
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
@@ -225,6 +224,7 @@ vs:
  - Rudulier, Andrea
  - Sabourin, Joelle
  - Sandison, Janice
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Simmons, Cindy

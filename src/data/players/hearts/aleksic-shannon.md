@@ -180,7 +180,6 @@ vs:
  - MacPhee, Robyn
  - Mann, Lauren
  - Mattatall, Mary
- - McCarville, Krista
  - McDonald, Tina
  - McNamee, Karen
  - Middaugh, Sherry
@@ -214,6 +213,7 @@ vs:
  - Sabourin, Joelle
  - Sanders, Pat
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schneider, Lorraine
  - Schraeder, Jeanna
  - Scott, Kelly

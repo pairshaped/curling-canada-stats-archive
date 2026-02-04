@@ -49,7 +49,6 @@ vs:
  - Lang, Lorraine
  - MacLean, Kari
  - Malekoff, Stephanie
- - McCarville, Krista
  - McEwen, Dawn
  - Morris, Cori
  - Nixon, Amy
@@ -59,6 +58,7 @@ vs:
  - Overton-Clapham, Cathy
  - Preston, Sam
  - Rumberg, Crystal
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

@@ -226,6 +226,34 @@ vs:
       year: 2002
       draw: Round Robin(8)
       score: NB 8 - PE 9
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 82
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NB'
+        position: Second
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2007
+      draw: Round Robin(2)
+      score: NB 5 - ON 6
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts

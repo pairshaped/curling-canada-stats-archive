@@ -70,7 +70,6 @@ vs:
  - Lawton, Stefanie
  - MacLean, Kari
  - Mair, Jessica
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - Miller, Jessica
@@ -82,6 +81,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Singler, Sherri

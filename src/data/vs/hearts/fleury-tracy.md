@@ -1774,98 +1774,6 @@ vs:
       year: 2025
       draw: Round Robin(1)
       score: CA 13 - PE 4
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 74
-        wins: 3
-        losses: 2
-      player2:
-        percent: 77
-        wins: 2
-        losses: 3
-   games:
-    - player1:
-        team: 'MB'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2019
-      draw: Round Robin(13)
-      score: MB 5 - NO 7
-    - player1:
-        team: 'WC'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 65
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2022
-      draw: Round Robin(17)
-      score: WC 8 - NO 6
-    - player1:
-        team: 'WC'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 93
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Playoff(21)
-      score: NO 8 - WC 3
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 71
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 71
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2023
-      draw: Round Robin(6)
-      score: ON 7 - NO 5
-    - player1:
-        team: 'CA'
-        position: Third
-        percent: 79
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 68
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2025
-      draw: Round Robin(3)
-      score: CA 10 - NO 7
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -2974,34 +2882,6 @@ vs:
       year: 2024
       draw: Round Robin(2)
       score: NT 5 - ON 9
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 89
-        wins: 1
-        losses: 0
-      player2:
-        percent: 90
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'ON'
-        position: Third
-        percent: 89
-        win: 1
-        loss: 0
-      player2:
-        team: 'MB'
-        position: Second
-        percent: 90
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2024
-      draw: Round Robin(10)
-      score: ON 8 - MB 6
  - name: Rusnell, Jen
    totals:
     - event: Hearts
@@ -3162,6 +3042,98 @@ vs:
       year: 2019
       draw: Tie-Breaker(15)
       score: BC 8 - MB 5
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 74
+        wins: 3
+        losses: 2
+      player2:
+        percent: 77
+        wins: 2
+        losses: 3
+   games:
+    - player1:
+        team: 'MB'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2019
+      draw: Round Robin(13)
+      score: MB 5 - NO 7
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 65
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2022
+      draw: Round Robin(17)
+      score: WC 8 - NO 6
+    - player1:
+        team: 'WC'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Playoff(21)
+      score: NO 8 - WC 3
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 71
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2023
+      draw: Round Robin(6)
+      score: ON 7 - NO 5
+    - player1:
+        team: 'CA'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2025
+      draw: Round Robin(3)
+      score: CA 10 - NO 7
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

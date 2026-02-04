@@ -2,6 +2,62 @@
 title: Bayly Scoffin Head-to-head
 name: Scoffin, Bayly
 vs:
+ - name: Silvernagle, Robyn
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(13)
+      score: YT 4 - SK 10
+ - name: Skauge, Ella
+   totals:
+    - event: Hearts
+      player1:
+        percent: 60
+        wins: 0
+        losses: 1
+      player2:
+        percent: 67
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 67
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(3)
+      score: NT 10 - YT 5
  - name: Smith, Heather
    totals:
     - event: Hearts
@@ -30,16 +86,72 @@ vs:
       year: 2024
       draw: Round Robin(10)
       score: NS 12 - YT 5
+ - name: Steele, Rachel
+   totals:
+    - event: Hearts
+      player1:
+        percent: 88
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(9)
+      score: YT 3 - ON 6
+ - name: Stevens, Taylour
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(15)
+      score: NS 9 - YT 2
  - name: Sweeting, Val
    totals:
     - event: Hearts
       player1:
-        percent: 59
+        percent: 68
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -58,6 +170,22 @@ vs:
       year: 2025
       draw: Round Robin(6)
       score: MB 10 - YT 2
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(1)
+      score: YT 4 - CA 13
  - name: Tuck, Kimberly
    totals:
     - event: Hearts
@@ -86,6 +214,62 @@ vs:
       year: 2024
       draw: Round Robin(14)
       score: ON 10 - YT 2
+ - name: Umlah, Alison
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(15)
+      score: NS 9 - YT 2
+ - name: Walker, Laura
+   totals:
+    - event: Hearts
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2026
+      draw: Round Robin(11)
+      score: MB 9 - YT 4
  - name: Walter, Meghan
    totals:
     - event: Hearts

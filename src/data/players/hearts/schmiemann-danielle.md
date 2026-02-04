@@ -4,19 +4,19 @@ name: Danielle Schmiemann
 name-sort: Schmiemann, Danielle
 totals:
  - event: Hearts
-   games: 19
-   wins: 12
-   losses: 7
-   inturn-total: 178
-   inturn-percent: 84
-   outturn-total: 184
+   games: 30
+   wins: 20
+   losses: 10
+   inturn-total: 277
+   inturn-percent: 85
+   outturn-total: 285
    outturn-percent: 82
-   draw-total: 146
+   draw-total: 237
    draw-percent: 83
-   takeout-total: 216
-   takeout-percent: 83
-   shots-total: 362
-   shots-percent: 83
+   takeout-total: 325
+   takeout-percent: 84
+   shots-total: 562
+   shots-percent: 84
 years:
  - year: 2024
    event: Hearts
@@ -54,25 +54,53 @@ years:
    takeout-percent: 85
    shots-total: 150
    shots-percent: 84
+ - year: 2026
+   event: Hearts
+   team: "AB"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 99
+   inturn-percent: 87
+   outturn-total: 101
+   outturn-percent: 81
+   draw-total: 91
+   draw-percent: 83
+   takeout-total: 109
+   takeout-percent: 86
+   shots-total: 200
+   shots-percent: 84
 vs:
  - Ackerman, Skylar
+ - Adams, Kristina
  - Adams, Melissa
  - Armstrong, Jennifer
+ - Baxter, Jennifer
+ - Best, Emily
  - Birchard, Shannon
+ - Black, Christina
+ - Brothers, Jillian
  - Brown, Corryn
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Crandall, Jaclyn
  - Curtis, Stacie
  - DiCarlo, Jane
  - Doig, Deanna
  - Einarson, Kerri
  - Elias, Mackenzie
+ - Everist, Karlee
  - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Gustafson, Leigh
  - Homan, Rachel
  - Hynes, Julie
@@ -87,22 +115,27 @@ vs:
  - Lott, Kadriana
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Njegovan, Selena
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pincott, Erin
  - Pinksen, Sadie
  - Potts, Sarah
+ - Power, Amanda
+ - Powers, Marlee
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Riley, Emily
- - Rocque, Kelsey
+ - Scharf, Krista
  - Sinclair, Jamie
  - Sippala, Ashley
  - Skinner, Kaylin
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Sabrina
  - St-Georges, Laurie
  - Stewart, Chaelynn
@@ -112,6 +145,7 @@ vs:
  - Thevenot, Ashley
  - Walter, Meghan
  - Ward, Molli
+ - Watson, Rebecca
  - Weagle, Julia
  - White, Jenny
  - Wilkes, Sarah

@@ -4,18 +4,18 @@ name: Sadie Pinksen
 name-sort: Pinksen, Sadie
 totals:
  - event: Hearts
-   games: 46
-   wins: 3
-   losses: 43
-   inturn-total: 456
+   games: 54
+   wins: 4
+   losses: 50
+   inturn-total: 518
    inturn-percent: 66
-   outturn-total: 383
+   outturn-total: 463
    outturn-percent: 68
-   draw-total: 415
+   draw-total: 481
    draw-percent: 65
-   takeout-total: 424
-   takeout-percent: 68
-   shots-total: 839
+   takeout-total: 500
+   takeout-percent: 69
+   shots-total: 981
    shots-percent: 67
 years:
  - year: 2019
@@ -160,8 +160,27 @@ years:
    takeout-percent: 74
    shots-total: 159
    shots-percent: 71
+ - year: 2026
+   event: Hearts
+   team: "NU"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 62
+   inturn-percent: 66
+   outturn-total: 80
+   outturn-percent: 71
+   draw-total: 66
+   draw-percent: 61
+   takeout-total: 76
+   takeout-percent: 75
+   shots-total: 142
+   shots-percent: 69
 vs:
  - Ackerman, Colleen
+ - Adams, Kristina
  - Adams, Melissa
  - Anderson, Sherry
  - Armstrong, Hailey
@@ -172,6 +191,8 @@ vs:
  - Barker, Shelley
  - Barron, Lauren
  - Baxter, Jennifer
+ - Best, Emily
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
@@ -181,7 +202,9 @@ vs:
  - Brothers, Jillian
  - Brown, Corryn
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
+ - Campbell, Jenna
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
@@ -189,24 +212,26 @@ vs:
  - Cote, Marie-Pier
  - Courtney, Joanne
  - Crandall, Jaclyn
+ - Curtis, Stacie
  - Daigle, Julie
  - DiCarlo, Jane
  - Dubue, Lindsay
  - Dunn, Michelle
  - Einarson, Kerri
  - Enge, Jenna
- - Erickson, Rachel
  - Everist, Karlee
  - Ferguson, Dana
  - Fisher, Samantha
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Forsythe, Melodie
  - Forward, Katie
  - Fyfe, Liz
  - Gamble, Christie
  - Gates, Jennifer
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
  - Hamilton, Beth
  - Harris, Briane
@@ -233,24 +258,28 @@ vs:
  - MacMillan, Kayla
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
+ - McCarville, Bella
  - McDonald, Taylor
  - Mercer, Adrienne
  - Middaugh, Kelly
  - Miskew, Emma
+ - Mitchell, Mackenzie
  - Munroe, Anna
  - Murphy, Sarah
  - Njegovan, Robyn
  - Njegovan, Selena
  - Papley, Paige
  - Peterman, Jocelyn
+ - Peterson, Beth
  - Pilote, Kristen
  - Pincott, Erin
  - Potts, Sarah
+ - Power, Amanda
+ - Powers, Marlee
  - Quillian, Sylvie
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Riley, Emily
- - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
  - Rusnell, Jen
@@ -258,6 +287,7 @@ vs:
  - Ryan, Kristen
  - Sandwith, Carley
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schmiemann, Danielle
  - Scotland, Nadine
@@ -268,6 +298,7 @@ vs:
  - Sippala, Ashley
  - Skrlik, Ashton
  - Skrlik, Kayla
+ - Smith, Carly
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
@@ -279,6 +310,8 @@ vs:
  - Verreault, Noemie
  - Walker, Laura
  - Wark, Sarah
+ - Watson, Rebecca
  - Weagle, Lisa
  - Wilkes, Sarah
+ - Wiseman, Jessica
 ---

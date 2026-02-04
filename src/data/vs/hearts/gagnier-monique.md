@@ -1318,50 +1318,6 @@ vs:
       year: 2005
       draw: Round Robin(2)
       score: NS 11 - TR 3
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 64
-        wins: 0
-        losses: 2
-      player2:
-        percent: 73
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'TR'
-        position: Fourth
-        percent: 57
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 70
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2006
-      draw: Round Robin(1)
-      score: ON 13 - TR 9
-    - player1:
-        team: 'TR'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 76
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2007
-      draw: Round Robin(11)
-      score: TR 5 - ON 8
  - name: McEwen, Dawn
    totals:
     - event: Hearts
@@ -2334,6 +2290,50 @@ vs:
       year: 2002
       draw: Round Robin(16)
       score: TR 8 - PE 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 64
+        wins: 0
+        losses: 2
+      player2:
+        percent: 73
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'TR'
+        position: Fourth
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 70
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2006
+      draw: Round Robin(1)
+      score: ON 13 - TR 9
+    - player1:
+        team: 'TR'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2007
+      draw: Round Robin(11)
+      score: TR 5 - ON 8
  - name: Schraeder, Jeanna
    totals:
     - event: Hearts

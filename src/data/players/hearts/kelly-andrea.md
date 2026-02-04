@@ -288,6 +288,7 @@ vs:
  - Burgess, Karlee
  - Burt, Camille
  - Bush, Tracy
+ - Calvert, Kelsey
  - Cameron, Kate
  - Cameron, Nancy
  - Campbell, Jolene
@@ -417,7 +418,6 @@ vs:
  - Materi, Roberta
  - Mayne, Veronica
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Kristy
  - McDonald, Taylor
@@ -468,7 +468,6 @@ vs:
  - Rizzo, Jo-Ann
  - Robertson, Darcy
  - Robison, Michala
- - Rocque, Kelsey
  - Rocque, Raylene
  - Rogers, Rhonda
  - Ross, Allison
@@ -479,6 +478,7 @@ vs:
  - Sabourin, Joelle
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Schmiemann, Danielle

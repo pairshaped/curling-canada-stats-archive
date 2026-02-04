@@ -143,7 +143,6 @@ vs:
  - Martin, Heather
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McCloy, Elaine
  - McConnery, Nancy
  - McCrady, Christine
@@ -167,6 +166,7 @@ vs:
  - Prosser, Sandi
  - Provencal, Darah
  - Rocque, Raylene
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly

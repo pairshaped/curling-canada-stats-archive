@@ -130,6 +130,7 @@ vs:
  - Brothers, Jillian
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carmody, Erin
  - Christianson, Marie
@@ -137,7 +138,6 @@ vs:
  - Cullen, Brianna
  - Curtis, Erica
  - Curtis, Stacie
- - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Chelsea
  - Einarson, Kerri
@@ -155,7 +155,7 @@ vs:
  - Haughian, Jessie
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hynes, Julie
  - Jones, Jennifer
  - Karwacki, Krysten
@@ -175,9 +175,9 @@ vs:
  - Peterson, Beth
  - Porter, Erin
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Scheidegger, Casey
  - Scoffin, Bayly
  - Sinclair, Jamie

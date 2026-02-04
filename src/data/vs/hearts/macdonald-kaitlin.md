@@ -58,50 +58,6 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: NU 3 - SK 9
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 69
-        wins: 1
-        losses: 1
-      player2:
-        percent: 64
-        wins: 1
-        losses: 1
-   games:
-    - player1:
-        team: 'NU'
-        position: Lead
-        percent: 85
-        win: 1
-        loss: 0
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2020
-      draw: Round Robin(9)
-      score: NO 5 - NU 6
-    - player1:
-        team: 'NU'
-        position: Second
-        percent: 54
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 57
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(9)
-      score: NU 6 - NO 7
  - name: McDonald, Taylor
    totals:
     - event: Hearts
@@ -502,34 +458,6 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: QC 13 - NU 5
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 61
-        wins: 0
-        losses: 1
-      player2:
-        percent: 88
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NU'
-        position: Lead
-        percent: 61
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 88
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(2)
-      score: NU 3 - AB 8
  - name: Routledge, Alanna
    totals:
     - event: Hearts
@@ -630,6 +558,50 @@ vs:
       year: 2023
       draw: Round Robin(13)
       score: SK 13 - NU 4
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 69
+        wins: 1
+        losses: 1
+      player2:
+        percent: 64
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'NU'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2020
+      draw: Round Robin(9)
+      score: NO 5 - NU 6
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 54
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 57
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(9)
+      score: NU 6 - NO 7
  - name: Schmidt, Stephanie
    totals:
     - event: Hearts

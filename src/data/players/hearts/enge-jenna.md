@@ -158,7 +158,6 @@ vs:
  - Mair, Jessica
  - Mann, Lauren
  - Materi, Roberta
- - McCarville, Krista
  - McEwen, Dawn
  - McInnis, Susan
  - McTaggart, Cary-Anne
@@ -185,6 +184,7 @@ vs:
  - Richard, Marie
  - Rusnell, Jen
  - Sagle, Karen
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie

@@ -170,7 +170,6 @@ vs:
  - Maclachlan, Kyla
  - MacLean, Kari
  - Materi, Roberta
- - McCarville, Krista
  - McCusker, Joan
  - McEwen, Dawn
  - McIvor, Jolene
@@ -196,6 +195,7 @@ vs:
  - Rumberg, Crystal
  - Sabourin, Joelle
  - Santos, Deb
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

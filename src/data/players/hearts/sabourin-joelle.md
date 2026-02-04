@@ -218,7 +218,6 @@ vs:
  - Martin, Heather
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
  - McDonald, Tina
@@ -256,6 +255,7 @@ vs:
  - Robertson, Darcy
  - Ross, Allison
  - Sanders, Pat
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Kelly

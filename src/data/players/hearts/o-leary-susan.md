@@ -170,7 +170,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McDonald, Tina
  - McEwen, Dawn
  - McInnis, Susan
@@ -200,6 +199,7 @@ vs:
  - Ross, Allison
  - Rudulier, Andrea
  - Sandison, Janice
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Kelly
  - Sharpe, Kelli

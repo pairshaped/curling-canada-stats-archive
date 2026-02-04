@@ -80,7 +80,6 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - MacDonald, Lawnie
- - McCarville, Krista
  - McDonald, Kristy
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -93,6 +92,7 @@ vs:
  - Pasika, Rona
  - Potts, Sarah
  - Rizzo, Jo-Ann
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Singler, Sherri

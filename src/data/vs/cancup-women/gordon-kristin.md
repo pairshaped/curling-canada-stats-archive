@@ -654,34 +654,6 @@ vs:
       year: 2016
       draw: Round Robin(9)
       score: EIN 8 - CAR 6
- - name: Rocque, Kelsey
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 80
-        wins: 0
-        losses: 1
-      player2:
-        percent: 83
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'EIN'
-        position: Lead
-        percent: 80
-        win: 0
-        loss: 1
-      player2:
-        team: 'ROC'
-        position: Fourth
-        percent: 83
-        win: 1
-        loss: 0
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(8)
-      score: ROC 6 - EIN 5
  - name: Rumberg, Crystal
    totals:
     - event: Canada Cup (Women)

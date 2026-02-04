@@ -117,7 +117,6 @@ vs:
  - MacLean, Kari
  - Mair, Jessica
  - Malekoff, Stephanie
- - McCarville, Krista
  - McCusker, Joan
  - McDonald, Kristy
  - McEwen, Dawn
@@ -138,6 +137,7 @@ vs:
  - Preston, Sam
  - Rizzo, Jo-Ann
  - Rumberg, Crystal
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

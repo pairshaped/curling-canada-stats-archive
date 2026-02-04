@@ -1566,130 +1566,6 @@ vs:
       year: 2009
       draw: Round Robin(4)
       score: TR 7 - NB 8
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 73
-        wins: 2
-        losses: 5
-      player2:
-        percent: 78
-        wins: 5
-        losses: 2
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 65
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2006
-      draw: Round Robin(14)
-      score: ON 9 - NB 12
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 91
-        win: 1
-        loss: 0
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      event: Hearts
-      year: 2009
-      draw: Round Robin(6)
-      score: ON 3 - NB 5
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      player2:
-        team: 'ON'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2010
-      draw: Round Robin(1)
-      score: NB 2 - ON 9
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 64
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 72
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(4)
-      score: NB 3 - NO 9
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 73
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 86
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Round Robin(13)
-      score: NO 8 - NB 7
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 63
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 64
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2022
-      draw: Page 1-2(23)
-      score: NO 9 - NB 8
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 81
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2023
-      draw: Round Robin(7)
-      score: NO 8 - NB 6
  - name: McConnery, Nancy
    totals:
     - event: Hearts
@@ -3762,34 +3638,6 @@ vs:
       year: 2014
       draw: Round Robin(11)
       score: PE 6 - NB 9
- - name: Rocque, Kelsey
-   totals:
-    - event: Hearts
-      player1:
-        percent: 56
-        wins: 0
-        losses: 1
-      player2:
-        percent: 94
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NB'
-        position: Fourth
-        percent: 56
-        win: 0
-        loss: 1
-      player2:
-        team: 'AB'
-        position: Second
-        percent: 94
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2020
-      draw: Round Robin(5)
-      score: AB 8 - NB 3
  - name: Rocque, Raylene
    totals:
     - event: Hearts
@@ -4086,6 +3934,130 @@ vs:
       year: 2014
       draw: Round Robin(5)
       score: NB 4 - BC 3
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 73
+        wins: 2
+        losses: 5
+      player2:
+        percent: 78
+        wins: 5
+        losses: 2
+   games:
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 65
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2006
+      draw: Round Robin(14)
+      score: ON 9 - NB 12
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      event: Hearts
+      year: 2009
+      draw: Round Robin(6)
+      score: ON 3 - NB 5
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2010
+      draw: Round Robin(1)
+      score: NB 2 - ON 9
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 72
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2020
+      draw: Round Robin(4)
+      score: NB 3 - NO 9
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Round Robin(13)
+      score: NO 8 - NB 7
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 64
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2022
+      draw: Page 1-2(23)
+      score: NO 9 - NB 8
+    - player1:
+        team: 'NB'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2023
+      draw: Round Robin(7)
+      score: NO 8 - NB 6
  - name: Scheidegger, Casey
    totals:
     - event: Hearts

@@ -188,6 +188,7 @@ vs:
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
@@ -267,7 +268,6 @@ vs:
  - MacPhee, Robyn
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -294,12 +294,12 @@ vs:
  - Ramsay, Geri-Lynn
  - Riley, Emily
  - Robison, Michala
- - Rocque, Kelsey
  - Ross, Allison
  - Rumberg, Crystal
  - Russell, Kayla
  - Sanderson, Jessie
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Schraeder, Jeanna

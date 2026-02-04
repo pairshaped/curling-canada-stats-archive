@@ -394,34 +394,6 @@ vs:
       year: 2012
       draw: Round Robin(5)
       score: WEB 7 - MID 8
- - name: Rocque, Kelsey
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 81
-        wins: 1
-        losses: 0
-      player2:
-        percent: 76
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'MID'
-        position: Second
-        percent: 81
-        win: 1
-        loss: 0
-      player2:
-        team: 'ROC'
-        position: Fourth
-        percent: 76
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(2)
-      score: MID 7 - ROC 5
  - name: Rumberg, Crystal
    totals:
     - event: Canada Cup (Women)

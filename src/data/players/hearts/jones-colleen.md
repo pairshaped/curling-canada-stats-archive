@@ -634,7 +634,6 @@ vs:
  - McArdle, Cindy
  - McCagg-Nystrom, Heather
  - McCallan, Berniece
- - McCarville, Krista
  - McCarville, Susan
  - McCloy, Elaine
  - McConnery, Nancy
@@ -737,6 +736,7 @@ vs:
  - Santos, Deb
  - Sauer, Cathy
  - Scales, Julie
+ - Scharf, Krista
  - Schmirler, Sandra
  - Schraeder, Jeanna
  - Scott, Donna

@@ -782,34 +782,6 @@ vs:
       year: 2004
       draw: Round Robin(1)
       score: JJO 8 - CUN 9
- - name: McCarville, Krista
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 80
-        wins: 1
-        losses: 0
-      player2:
-        percent: 60
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'JJ'
-        position: Fourth
-        percent: 80
-        win: 1
-        loss: 0
-      player2:
-        team: 'KM'
-        position: Fourth
-        percent: 60
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2010
-      draw: Round Robin(7)
-      score: JJ 11 - KM 3
  - name: McDonald, Kristy
    totals:
     - event: Canada Cup (Women)
@@ -2230,50 +2202,6 @@ vs:
       year: 2018
       draw: Round Robin(3)
       score: Jone 9 - Robe 7
- - name: Rocque, Kelsey
-   totals:
-    - event: Canada Cup (Women)
-      player1:
-        percent: 72
-        wins: 2
-        losses: 0
-      player2:
-        percent: 65
-        wins: 0
-        losses: 2
-   games:
-    - player1:
-        team: 'JON'
-        position: Fourth
-        percent: 75
-        win: 1
-        loss: 0
-      player2:
-        team: 'ROC'
-        position: Fourth
-        percent: 70
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2015
-      draw: Round Robin(6)
-      score: ROC 5 - JON 8
-    - player1:
-        team: 'JON'
-        position: Fourth
-        percent: 69
-        win: 1
-        loss: 0
-      player2:
-        team: 'ROC'
-        position: Fourth
-        percent: 59
-        win: 0
-        loss: 1
-      event: Canada Cup (Women)
-      year: 2016
-      draw: Round Robin(1)
-      score: ROC 4 - JON 9
  - name: Rocque, Raylene
    totals:
     - event: Canada Cup (Women)
@@ -2482,6 +2410,34 @@ vs:
       year: 2007
       draw: Round Robin(9)
       score: San 5 - Jon 9
+ - name: Scharf, Krista
+   totals:
+    - event: Canada Cup (Women)
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 60
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'JJ'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'KM'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      event: Canada Cup (Women)
+      year: 2010
+      draw: Round Robin(7)
+      score: JJ 11 - KM 3
  - name: Scheidegger, Casey
    totals:
     - event: Canada Cup (Women)

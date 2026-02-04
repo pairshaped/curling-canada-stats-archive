@@ -103,7 +103,6 @@ vs:
  - Mann, Lauren
  - Martin, Heather
  - Mattatall, Mary
- - McCarville, Krista
  - McEwen, Dawn
  - Miller, Wendy
  - Miskew, Emma
@@ -118,6 +117,7 @@ vs:
  - Potts, Sarah
  - Ross, Allison
  - Saulnier, Andrea
+ - Scharf, Krista
  - Schneider, Lorraine
  - Schraeder, Jeanna
  - Scott, Kelly

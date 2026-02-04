@@ -141,7 +141,6 @@ vs:
  - MacLean, Kari
  - Mair, Jessica
  - Malekoff, Stephanie
- - McCarville, Krista
  - McCusker, Joan
  - McPherson, Cheryl
  - McTaggart, Cary-Anne
@@ -162,6 +161,7 @@ vs:
  - Preston, Sam
  - Rizzo, Jo-Ann
  - Rumberg, Crystal
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schneider, Kim

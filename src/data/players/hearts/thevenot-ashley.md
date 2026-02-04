@@ -55,13 +55,13 @@ vs:
  - Lawes, Kaitlyn
  - Lilly, Kendra
  - Mayne, Veronica
- - McCarville, Krista
  - Middaugh, Kelly
  - Njegovan, Selena
  - Papley, Paige
  - Peterman, Jocelyn
  - Pincott, Erin
  - Riley, Emily
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Sippala, Ashley
  - Smith, Sabrina

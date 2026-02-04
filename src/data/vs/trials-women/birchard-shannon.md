@@ -146,6 +146,34 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: Rocq 8 - Eina 4
+ - name: Calvert, Kelsey
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 95
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'Eina'
+        position: Second
+        percent: 95
+        win: 0
+        loss: 1
+      player2:
+        team: 'Rocq'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Round Robin(9)
+      score: Rocq 8 - Eina 4
  - name: Cameron, Kate
    totals:
     - event: Trials (Women)
@@ -874,50 +902,6 @@ vs:
       year: 2021
       draw: Tie-Breaker(11)
       score: Eina 3 - McCa 4
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 82
-        wins: 0
-        losses: 2
-      player2:
-        percent: 84
-        wins: 2
-        losses: 0
-   games:
-    - player1:
-        team: 'Eina'
-        position: Second
-        percent: 85
-        win: 0
-        loss: 1
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 85
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Round Robin(6)
-      score: Eina 5 - McCa 6
-    - player1:
-        team: 'Eina'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 82
-        win: 1
-        loss: 0
-      event: Trials (Women)
-      year: 2021
-      draw: Tie-Breaker(11)
-      score: Eina 3 - McCa 4
  - name: McDonald, Taylor
    totals:
     - event: Trials (Women)
@@ -1382,34 +1366,50 @@ vs:
       year: 2025
       draw: Round Robin(11)
       score: EINw 6 - SKRw 5
- - name: Rocque, Kelsey
+ - name: Scharf, Krista
    totals:
     - event: Trials (Women)
       player1:
-        percent: 95
+        percent: 82
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 94
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
    games:
     - player1:
         team: 'Eina'
         position: Second
-        percent: 95
+        percent: 85
         win: 0
         loss: 1
       player2:
-        team: 'Rocq'
+        team: 'McCa'
         position: Fourth
-        percent: 94
+        percent: 85
         win: 1
         loss: 0
       event: Trials (Women)
       year: 2021
-      draw: Round Robin(9)
-      score: Rocq 8 - Eina 4
+      draw: Round Robin(6)
+      score: Eina 5 - McCa 6
+    - player1:
+        team: 'Eina'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2021
+      draw: Tie-Breaker(11)
+      score: Eina 3 - McCa 4
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

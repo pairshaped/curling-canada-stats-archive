@@ -738,34 +738,6 @@ vs:
       year: 2012
       draw: Round Robin(2)
       score: SK 7 - NS 5
- - name: McCarville, Krista
-   totals:
-    - event: Hearts
-      player1:
-        percent: 78
-        wins: 0
-        losses: 1
-      player2:
-        percent: 60
-        wins: 1
-        losses: 0
-   games:
-    - player1:
-        team: 'NS'
-        position: Second
-        percent: 78
-        win: 0
-        loss: 1
-      player2:
-        team: 'NO'
-        position: Fourth
-        percent: 60
-        win: 1
-        loss: 0
-      event: Hearts
-      year: 2016
-      draw: Round Robin(4)
-      score: NS 7 - NO 9
  - name: McDonald, Kristy
    totals:
     - event: Hearts
@@ -1634,6 +1606,34 @@ vs:
       year: 2014
       draw: Round Robin(7)
       score: BC 9 - NS 8
+ - name: Scharf, Krista
+   totals:
+    - event: Hearts
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 60
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 60
+        win: 1
+        loss: 0
+      event: Hearts
+      year: 2016
+      draw: Round Robin(4)
+      score: NS 7 - NO 9
  - name: Schneider, Kim
    totals:
     - event: Hearts

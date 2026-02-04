@@ -163,7 +163,6 @@ vs:
  - MacPhee, Robyn
  - Makichuk, Lindsay
  - Martin, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - McInnis, Susan
@@ -194,6 +193,7 @@ vs:
  - Ruus, Karen
  - Ryan, Kristen
  - Sagle, Karen
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

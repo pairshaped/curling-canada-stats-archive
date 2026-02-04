@@ -45,11 +45,11 @@ vs:
  - Kalenchuk, Heather
  - Kleibrink, Shannon
  - MacLean, Kari
- - McCarville, Krista
  - Morris, Cori
  - Nixon, Amy
  - O'Connor, Susan
  - Potts, Sarah
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

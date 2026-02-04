@@ -259,7 +259,6 @@ vs:
  - Massullo, Deb
  - Materi, Roberta
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McCusker, Joan
  - McDermott, Karen
@@ -301,6 +300,7 @@ vs:
  - Sanders, Pat
  - Santos, Deb
  - Scales, Julie
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Scott, Donna
  - Scott, Kelly

@@ -154,7 +154,6 @@ vs:
  - Mallett, Marla
  - Mann, Lauren
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - Miller, Wendy
@@ -182,6 +181,7 @@ vs:
  - Richards, Brette
  - Robertson, Darcy
  - Sabourin, Joelle
+ - Scharf, Krista
  - Schneider, Kim
  - Schraeder, Jeanna
  - Scott, Kelly

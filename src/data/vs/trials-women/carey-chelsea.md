@@ -618,34 +618,6 @@ vs:
       year: 2013
       draw: Round Robin(3)
       score: CAR 8 - NED 5
- - name: McCarville, Krista
-   totals:
-    - event: Trials (Women)
-      player1:
-        percent: 84
-        wins: 1
-        losses: 0
-      player2:
-        percent: 84
-        wins: 0
-        losses: 1
-   games:
-    - player1:
-        team: 'Care'
-        position: Fourth
-        percent: 84
-        win: 1
-        loss: 0
-      player2:
-        team: 'McCa'
-        position: Fourth
-        percent: 84
-        win: 0
-        loss: 1
-      event: Trials (Women)
-      year: 2017
-      draw: Round Robin(18)
-      score: McCa 2 - Care 5
  - name: McEwen, Dawn
    totals:
     - event: Trials (Women)
@@ -1138,6 +1110,34 @@ vs:
       year: 2013
       draw: Tie-Breaker(15)
       score: MID 6 - CAR 3
+ - name: Scharf, Krista
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'Care'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'McCa'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2017
+      draw: Round Robin(18)
+      score: McCa 2 - Care 5
  - name: Scheidegger, Casey
    totals:
     - event: Trials (Women)

@@ -142,7 +142,6 @@ vs:
  - Daly, Calissa
  - deGroot, Cassandra
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Dubue, Lindsay
  - Duncan, Hollie
  - Eddy, Lori
@@ -166,7 +165,7 @@ vs:
  - Helston, Raelyn
  - Hill, Sarah
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Inglis, Danielle
  - Jenkins, Whitney
@@ -189,7 +188,6 @@ vs:
  - MacPhail, Brigitte
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - Mercer, Adrienne
  - Miskew, Emma
@@ -202,9 +200,11 @@ vs:
  - Porter, Erin
  - Potts, Sarah
  - Ramsay, Geri-Lynn
+ - Remillard, Katherine
  - Rizzo, Jo-Ann
  - Rumberg, Crystal
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Schraeder, Jeanna
  - Scotland, Nadine

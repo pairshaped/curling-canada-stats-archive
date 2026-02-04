@@ -75,6 +75,7 @@ vs:
  - Birchard, Shannon
  - Bobbie, Tess
  - Brown, Rachelle
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
@@ -102,7 +103,6 @@ vs:
  - Lawton, Stefanie
  - Lilly, Kendra
  - Mair, Jessica
- - McCarville, Krista
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
@@ -118,7 +118,7 @@ vs:
  - Peters, Laine
  - Potts, Sarah
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
+ - Scharf, Krista
  - Schmiemann, Danielle
  - Scotland, Nadine
  - Singler, Sherri

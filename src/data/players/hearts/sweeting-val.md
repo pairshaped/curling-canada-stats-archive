@@ -4,19 +4,19 @@ name: Val Sweeting
 name-sort: Sweeting, Val
 totals:
  - event: Hearts
-   games: 112
-   wins: 84
-   losses: 28
-   inturn-total: 1088
-   inturn-percent: 81
-   outturn-total: 1003
-   outturn-percent: 83
-   draw-total: 793
+   games: 124
+   wins: 94
+   losses: 30
+   inturn-total: 1194
+   inturn-percent: 82
+   outturn-total: 1115
+   outturn-percent: 84
+   draw-total: 863
    draw-percent: 80
-   takeout-total: 1298
+   takeout-total: 1446
    takeout-percent: 84
-   shots-total: 2091
-   shots-percent: 82
+   shots-total: 2309
+   shots-percent: 83
 years:
  - year: 2010
    event: Hearts
@@ -180,6 +180,24 @@ years:
    takeout-percent: 89
    shots-total: 236
    shots-percent: 87
+ - year: 2026
+   event: Hearts
+   team: "CA"
+   position: Third
+   alternate: false
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 106
+   inturn-percent: 86
+   outturn-total: 112
+   outturn-percent: 86
+   draw-total: 70
+   draw-percent: 83
+   takeout-total: 148
+   takeout-percent: 88
+   shots-total: 218
+   shots-percent: 86
 vs:
  - Ackerman, Skylar
  - Affleck, Tricia
@@ -197,11 +215,13 @@ vs:
  - Baxter, Jennifer
  - Belisle, Eve
  - Best, Emily
+ - Big Eagle, Rachel
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Blais, Amelie
  - Bobbie, Tess
+ - Bonneau, Kim
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
@@ -213,12 +233,14 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
+ - Chorostkowski, Brynn
  - Christianson, Marie
  - Collins, Katrina
  - Comeau, Martine
@@ -235,9 +257,9 @@ vs:
  - Daly, Calissa
  - Davies, Lisa
  - deGroot, Cassandra
+ - Demmans, Dayna
  - deSolla, Jodie
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Dolan, Kim
  - Dolan, Sinead
  - Dubue, Lindsay
@@ -251,9 +273,13 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Forward, Katie
  - Foster, Kerry
  - Foster, Kristen
@@ -268,6 +294,7 @@ vs:
  - Gilman, Sheena
  - Godsland, Brooke
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
  - Griffin, Alison
  - Gustafson, Leigh
@@ -278,7 +305,7 @@ vs:
  - Helston, Raelyn
  - Holland, Amber
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hughes, Meaghan
  - Hunkin, Jessie
  - Hynes, Julie
@@ -289,6 +316,7 @@ vs:
  - Just, Sherry
  - Kalenchuk, Heather
  - Kasner, Marliese
+ - Kaufman, Nicky
  - Kelly, Andrea
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -298,6 +326,8 @@ vs:
  - Korab, Stephanie
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lamswood, Sarah
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -305,22 +335,24 @@ vs:
  - Lemon, Colette
  - Lenentine, Lauren
  - Lilly, Kendra
+ - Lloyd, Grace
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
  - MacDonald, Kaitlin
  - MacDonald, Rebecca Jean
+ - Mackenzie, Julianna
  - MacLean, Kari
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - Mann, Lauren
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McConnery, Nancy
  - McDonald, Kristy
  - McDonald, Taylor
  - McEwen, Dawn
+ - McGillivray, Megan
  - McInnis, Susan
  - McPherson, Cheryl
  - Middaugh, Kelly
@@ -348,12 +380,14 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Reese-Hansen, Taylor
  - Reid, Jackie
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Robert, Michaela
  - Robison, Michala
- - Rocque, Kelsey
  - Rogers, Rhonda
  - Ross, Allison
  - Routledge, Alanna
@@ -362,6 +396,7 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Schafer, Kelly
+ - Scharf, Krista
  - Schmidt, Stephanie
  - Schmiemann, Danielle
  - Schneider, Kim
@@ -388,6 +423,8 @@ vs:
  - Sobey, Lianne
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Steele, Rachel
+ - Stevens, Taylour
  - Stewart, Chaelynn
  - Stremick, Taylor
  - Strong, Heather
@@ -405,6 +442,7 @@ vs:
  - Trombley, Christy
  - Tuor, Kimberly
  - Udle, Teri
+ - Umlah, Alison
  - Van Osch, Kesa
  - Verreault, Noemie
  - Walker, Laura

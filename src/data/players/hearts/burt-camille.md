@@ -103,7 +103,7 @@ vs:
  - Hawes, Dezaray
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Inglis, Danielle
  - Jenkins, Whitney
  - Jones, Jennifer
@@ -115,7 +115,6 @@ vs:
  - Lenentine, Lauren
  - Lilly, Kendra
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - Middaugh, Kelly
  - Miskew, Emma
@@ -129,6 +128,7 @@ vs:
  - Quillian, Sylvie
  - Riley, Emily
  - Rizzo, Jo-Ann
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmiemann, Danielle
  - Scoffin, Bayly

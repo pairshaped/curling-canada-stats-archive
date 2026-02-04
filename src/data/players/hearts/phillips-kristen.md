@@ -65,7 +65,6 @@ vs:
  - Lemon, Colette
  - MacLean, Kari
  - Makichuk, Lindsay
- - McCarville, Krista
  - McConnery, Nancy
  - McEwen, Dawn
  - More, Whitney
@@ -80,6 +79,7 @@ vs:
  - Ramsay, Geri-Lynn
  - Rogers, Leslie
  - Rogers, Rhonda
+ - Scharf, Krista
  - Schneider, Kim
  - Schneider, Tammy
  - Schraeder, Jeanna

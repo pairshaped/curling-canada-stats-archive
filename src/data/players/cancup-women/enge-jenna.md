@@ -55,6 +55,7 @@ years:
 vs:
  - Armstrong, Leigh
  - Brown, Rachel
+ - Calvert, Kelsey
  - Cameron, Kate
  - Carey, Chelsea
  - Courtney, Joanne
@@ -80,7 +81,6 @@ vs:
  - Peterman, Jocelyn
  - Peters, Laine
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Sweeting, Val
  - Weagle, Lisa
  - Westcott, Raunora

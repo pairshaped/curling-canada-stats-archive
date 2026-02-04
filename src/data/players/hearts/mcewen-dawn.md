@@ -401,7 +401,6 @@ vs:
  - Materi, Roberta
  - Mattatall, Mary
  - McCagg-Nystrom, Heather
- - McCarville, Krista
  - McConnery, Nancy
  - McInnis, Susan
  - McTaggart, Cary-Anne
@@ -461,6 +460,7 @@ vs:
  - Sabourin, Joelle
  - Sagle, Karen
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie

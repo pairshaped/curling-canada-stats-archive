@@ -187,7 +187,6 @@ vs:
  - deJager, Blaine
  - Derry, Danielle
  - deSolla, Jodie
- - Doerksen, Katherine
  - Doig, Deanna
  - Dolan, Kim
  - Dolan, Sinead
@@ -254,7 +253,6 @@ vs:
  - Mann, Lauren
  - Martin, Nancy
  - Mattatall, Mary
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -281,6 +279,7 @@ vs:
  - Potts, Sarah
  - Quillian, Sylvie
  - Rainville, Julie
+ - Remillard, Katherine
  - Richard, Marie
  - Richards, Brette
  - Riley, Emily
@@ -294,6 +293,7 @@ vs:
  - Sanderson, Jessie
  - Sandwith, Carley
  - Saulnier, Andrea
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schneider, Lorraine
  - Scotland, Nadine

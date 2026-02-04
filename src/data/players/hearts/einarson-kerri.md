@@ -4,19 +4,19 @@ name: Kerri Einarson
 name-sort: Einarson, Kerri
 totals:
  - event: Hearts
-   games: 100
-   wins: 77
-   losses: 23
-   inturn-total: 937
-   inturn-percent: 81
-   outturn-total: 918
-   outturn-percent: 82
-   draw-total: 775
+   games: 112
+   wins: 87
+   losses: 25
+   inturn-total: 1032
+   inturn-percent: 82
+   outturn-total: 1037
+   outturn-percent: 81
+   draw-total: 851
    draw-percent: 79
-   takeout-total: 1080
+   takeout-total: 1218
    takeout-percent: 83
-   shots-total: 1855
-   shots-percent: 81
+   shots-total: 2069
+   shots-percent: 82
 years:
  - year: 2016
    event: Hearts
@@ -162,6 +162,24 @@ years:
    takeout-percent: 79
    shots-total: 233
    shots-percent: 79
+ - year: 2026
+   event: Hearts
+   team: "CA"
+   position: Fourth
+   alternate: false
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 95
+   inturn-percent: 88
+   outturn-total: 119
+   outturn-percent: 77
+   draw-total: 76
+   draw-percent: 84
+   takeout-total: 138
+   takeout-percent: 81
+   shots-total: 214
+   shots-percent: 82
 vs:
  - Ackerman, Skylar
  - Adams, Melissa
@@ -177,11 +195,13 @@ vs:
  - Barker, Shelley
  - Baxter, Jennifer
  - Best, Emily
+ - Big Eagle, Rachel
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
+ - Bonneau, Kim
  - Boyle, Jane
  - Brine, Jenn
  - Brothers, Jillian
@@ -192,11 +212,13 @@ vs:
  - Burgess, Karlee
  - Burns, Krysta
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
  - Carmody, Erin
  - Carter, Sasha
+ - Chorostkowski, Brynn
  - Christianson, Marie
  - Cote, Marie-Pier
  - Courtney, Joanne
@@ -206,8 +228,8 @@ vs:
  - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
+ - Demmans, Dayna
  - DiCarlo, Jane
- - Doerksen, Katherine
  - Dolan, Sinead
  - Dubue, Lindsay
  - Duncan, Chelsea
@@ -222,8 +244,12 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Fisher, Samantha
+ - Fitzgerald, Cate
+ - Fitzgerald, Maria
  - Flemming, Margot
  - Fleury, Tracy
+ - Fortin, Jolianne
+ - Fortin, Megane
  - Forward, Katie
  - Foster, Kerry
  - Fyfe, Liz
@@ -234,6 +260,7 @@ vs:
  - Gibson, Amy
  - Godsland, Brooke
  - Gordon, Kristin
+ - Gordon-Kurz, Melissa
  - Grandy, Clancy
  - Griffin, Alison
  - Gustafson, Leigh
@@ -244,7 +271,7 @@ vs:
  - Hawes, Dezaray
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Howard, Ashley
  - Hughes, Meaghan
  - Hunkin, Jessie
@@ -253,6 +280,7 @@ vs:
  - Jenkins, Whitney
  - Jones, Jennifer
  - Just, Sherry
+ - Kaufman, Nicky
  - Kelly, Andrea
  - Klymchuk, Ashley
  - Knapp, Breanne
@@ -260,6 +288,8 @@ vs:
  - Koltun, Sarah
  - Korchinski, Karlee
  - Kreviazuk, Cheryl
+ - Lafrance, Emy
+ - Lafrance, Megan
  - Lamswood, Sarah
  - Larouche, Marie-France
  - Lavery, Tracey
@@ -271,18 +301,20 @@ vs:
  - Letendre, Pascale
  - Lilly, Kendra
  - Lister, Kendra
+ - Lloyd, Grace
  - Loder, Jenna
  - Logan, Emma
  - Loken, Sarah
  - MacDonald, Kaitlin
+ - Mackenzie, Julianna
  - MacMillan, Kayla
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Nancy
  - Mayne, Veronica
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
+ - McGillivray, Megan
  - McTaggart, Cary-Anne
  - Middaugh, Kelly
  - Miskew, Emma
@@ -306,16 +338,19 @@ vs:
  - Quillian, Sylvie
  - Rainville, Julie
  - Ramsay, Geri-Lynn
+ - Reese-Hansen, Taylor
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
+ - Robert, Michaela
  - Routledge, Alanna
  - Routledge, Jill
  - Rumberg, Crystal
  - Ryan, Kristen
  - Sagle, Karen
  - Schafer, Kelly
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie
@@ -337,6 +372,8 @@ vs:
  - Smith, Sabrina
  - St-Georges, Cynthia
  - St-Georges, Laurie
+ - Steele, Rachel
+ - Stevens, Taylour
  - Stewart, Chaelynn
  - Stremick, Taylor
  - Strybosch, Rachelle
@@ -348,6 +385,7 @@ vs:
  - Tran, Brittany
  - Tuor, Kimberly
  - Udle, Teri
+ - Umlah, Alison
  - Vandale, Trysta
  - Van Osch, Kalia
  - Van Osch, Kesa
@@ -355,6 +393,7 @@ vs:
  - Vautour, Carrie
  - Verreault, Noemie
  - Walker, Laura
+ - Wallingham, Patty
  - Walter, Meghan
  - Weagle, Lisa
  - Westcott, Raunora

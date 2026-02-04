@@ -140,7 +140,6 @@ vs:
  - Crouse, Jennifer
  - Curtis, Stacie
  - Daigle, Julie
- - Doerksen, Katherine
  - Duncan, Chelsea
  - Duncan, Hollie
  - Duncan, Jenna
@@ -194,7 +193,6 @@ vs:
  - MacPhail, Brigitte
  - MacPhee, Robyn
  - Martin, Nancy
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -218,6 +216,7 @@ vs:
  - Price, Kara
  - Quillian, Sylvie
  - Rainville, Julie
+ - Remillard, Katherine
  - Richard, Marie
  - Riley, Emily
  - Rumberg, Crystal
@@ -225,6 +224,7 @@ vs:
  - Ryan, Kristen
  - Sagle, Karen
  - Sandwith, Carley
+ - Scharf, Krista
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmidt, Stephanie

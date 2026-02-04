@@ -102,6 +102,7 @@ vs:
  - Brown, Rachelle
  - Burgess, Karlee
  - Burt, Camille
+ - Calvert, Kelsey
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -144,7 +145,6 @@ vs:
  - Lilly, Kendra
  - MacDonald, Kaitlin
  - MacPhail, Brigitte
- - McCarville, Krista
  - McDonald, Taylor
  - McEwen, Dawn
  - McTaggart, Cary-Anne
@@ -158,9 +158,9 @@ vs:
  - Pinksen, Sadie
  - Potts, Sarah
  - Rizzo, Jo-Ann
- - Rocque, Kelsey
  - Routledge, Alanna
  - Routledge, Jill
+ - Scharf, Krista
  - Scheidegger, Casey
  - Schmidt, Stephanie
  - Scotland, Nadine

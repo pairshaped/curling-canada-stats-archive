@@ -165,7 +165,6 @@ vs:
  - Curtis, Stacie
  - Daly, Calissa
  - deGroot, Cassandra
- - Doerksen, Katherine
  - Duncan, Hollie
  - Duncan, Jenna
  - Eddy, Lori
@@ -190,7 +189,7 @@ vs:
  - Hebert, Rebecca
  - Helston, Raelyn
  - Homan, Rachel
- - Horte, Bailey
+ - Horvey, Bailey
  - Hunkin, Jessie
  - Hynes, Julie
  - Inglis, Danielle
@@ -209,7 +208,6 @@ vs:
  - Logan, Emma
  - MacDonald, Kaitlin
  - Martin, Nancy
- - McCarville, Krista
  - Miskew, Emma
  - Njegovan, Selena
  - Oliver, Sara
@@ -221,10 +219,12 @@ vs:
  - Potts, Sarah
  - Powers, Marlee
  - Quillian, Sylvie
+ - Remillard, Katherine
  - Riley, Emily
  - Rizzo, Jo-Ann
  - Routledge, Alanna
  - Routledge, Jill
+ - Scharf, Krista
  - Schraeder, Jeanna
  - Silvernagle, Robyn
  - Simons, Renee
