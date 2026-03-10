@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2026-03-10
+
+ * Added 2026 Brier data.
+
 ### 2026-02-04
 
  * Added 2026 Hearts data.

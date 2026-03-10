@@ -54,7 +54,7 @@ vs:
  - Johnson, Trevor
  - Kennedy, Marc
  - Kleiter, Rylan
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Mattern, Joshua
  - McEwen, Mike

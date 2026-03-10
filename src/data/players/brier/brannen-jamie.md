@@ -207,7 +207,7 @@ vs:
  - Mathers, David
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe

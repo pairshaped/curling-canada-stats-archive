@@ -116,6 +116,11 @@ years:
    takeout-percent: 76
    shots-total: 148
    shots-percent: 79
+ - year: 2026
+   event: Brier
+   team: "PE"
+   position: Alternate
+   alternate: true
 vs:
  - Abraham, Ryan
  - Arsenault, Jean-Michel
@@ -163,13 +168,13 @@ vs:
  - Mackey, Peter
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mattern, Joshua
  - McCann, Andy
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Mitchell, Scott

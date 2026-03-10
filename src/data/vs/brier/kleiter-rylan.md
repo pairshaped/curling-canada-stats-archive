@@ -2,7 +2,7 @@
 title: Rylan Kleiter Head-to-head
 name: Kleiter, Rylan
 vs:
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

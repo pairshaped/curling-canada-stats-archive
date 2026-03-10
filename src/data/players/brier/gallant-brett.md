@@ -4,19 +4,19 @@ name: Brett Gallant
 name-sort: Gallant, Brett
 totals:
  - event: Brier
-   games: 163
-   wins: 123
-   losses: 40
-   inturn-total: 1299
+   games: 175
+   wins: 132
+   losses: 43
+   inturn-total: 1386
    inturn-percent: 86
-   outturn-total: 1811
+   outturn-total: 1954
    outturn-percent: 89
-   draw-total: 1199
+   draw-total: 1290
    draw-percent: 87
-   takeout-total: 1911
+   takeout-total: 2050
    takeout-percent: 88
-   shots-total: 3110
-   shots-percent: 87
+   shots-total: 3340
+   shots-percent: 88
 years:
  - year: 2013
    event: Brier
@@ -320,8 +320,61 @@ years:
    takeout-percent: 90
    shots-total: 242
    shots-percent: 90
+ - year: 2026
+   event: Brier
+   team: "CA"
+   position: Lead
+   alternate: false
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 11
+   inturn-percent: 77
+   outturn-total: 13
+   outturn-percent: 90
+   draw-total: 19
+   draw-percent: 88
+   takeout-total: 5
+   takeout-percent: 70
+   shots-total: 24
+   shots-percent: 84
+ - year: 2026
+   event: Brier
+   team: "CA"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 76
+   inturn-percent: 88
+   outturn-total: 130
+   outturn-percent: 92
+   draw-total: 72
+   draw-percent: 93
+   takeout-total: 134
+   takeout-percent: 89
+   shots-total: 206
+   shots-percent: 91
+ - year: 2026
+   event: Brier
+   team: Totals
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 87
+   inturn-percent: 87
+   outturn-total: 143
+   outturn-percent: 92
+   draw-total: 91
+   draw-percent: 92
+   takeout-total: 139
+   takeout-percent: 89
+   shots-total: 230
+   shots-percent: 90
 vs:
  - Abraham, Ryan
+ - Aglukark, David
  - Aho, David
  - Appelman, Tom
  - Ardiel, Taylor
@@ -336,6 +389,7 @@ vs:
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
+ - Bilawka, Brendan
  - Bilesky, Andrew
  - Blyde, Greg
  - Bonot, Trevor
@@ -343,13 +397,16 @@ vs:
  - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
+ - Brophy, Michael
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Childs, Jamie
  - Chorostkowski, Brad
  - Chown, Jeff
@@ -366,10 +423,12 @@ vs:
  - Doering, Kyle
  - Doherty, Robbie
  - Drummond, Kerr
+ - Dunlop, Spencer
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
+ - Everist, Bryce
  - Farnell, Jamie
  - Fecteau, Steve
  - Fitzner-LeBlanc, Ian
@@ -396,6 +455,7 @@ vs:
  - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
+ - Henry, Owen
  - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Jacob
@@ -410,6 +470,7 @@ vs:
  - Jeffrey, Chris
  - Jensen, Trygg
  - Johnson, Trevor
+ - Jones, Brennen
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
@@ -418,7 +479,9 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
  - Kleiter, Rylan
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -426,6 +489,7 @@ vs:
  - Kopf, Steve
  - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Laing, Brent
  - Latos, Evan
  - Laycock, Steve
@@ -433,6 +497,7 @@ vs:
  - Ledgerwood, Sean
  - Lequin, Bradley
  - Lind, J.D.
+ - Locke, Nathan
  - Lott, Colton
  - Lowery, Ryan
  - MacAulay, Ian
@@ -443,7 +508,7 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -455,6 +520,7 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jon
@@ -481,12 +547,14 @@ vs:
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
  - O'Rourke, Mark
  - Parsons, Cole
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pillsworth, Mark
  - Pinder, Jordan
  - Potts, Jordan
@@ -494,6 +562,7 @@ vs:
  - Purcell, Owen
  - Quevillon, Louis
  - Richard, Jeff
+ - Ring, Mat
  - Roach, Darren
  - Roach, Jason
  - Rycroft, Carter
@@ -508,6 +577,7 @@ vs:
  - Scoffin, Wade
  - Simmons, Pat
  - Skauge, Greg
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smith, Greg
  - Smith, Tyler
@@ -517,6 +587,7 @@ vs:
  - Steele, Colten
  - Steele, Nathan
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sturmay, Karsten
  - Sylvain, Eric
  - Symonds, Andrew
@@ -525,6 +596,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin
+ - Thompson, Kendal
  - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
@@ -541,4 +613,5 @@ vs:
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
 ---

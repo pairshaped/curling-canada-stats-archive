@@ -4,19 +4,19 @@ name: Dustin Kidby
 name-sort: Kidby, Dustin
 totals:
  - event: Brier
-   games: 57
-   wins: 33
-   losses: 24
-   inturn-total: 454
-   inturn-percent: 90
-   outturn-total: 632
-   outturn-percent: 89
-   draw-total: 914
-   draw-percent: 91
-   takeout-total: 172
+   games: 65
+   wins: 36
+   losses: 29
+   inturn-total: 542
+   inturn-percent: 88
+   outturn-total: 694
+   outturn-percent: 88
+   draw-total: 989
+   draw-percent: 90
+   takeout-total: 247
    takeout-percent: 81
-   shots-total: 1086
-   shots-percent: 89
+   shots-total: 1236
+   shots-percent: 88
 years:
  - year: 2013
    event: Brier
@@ -113,6 +113,24 @@ years:
    team: "SK"
    position: Alternate
    alternate: true
+ - year: 2026
+   event: Brier
+   team: "SK"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 88
+   inturn-percent: 82
+   outturn-total: 62
+   outturn-percent: 78
+   draw-total: 75
+   draw-percent: 79
+   takeout-total: 75
+   takeout-percent: 82
+   shots-total: 150
+   shots-percent: 80
 vs:
  - Aho, David
  - Asselin, Felix
@@ -123,6 +141,7 @@ vs:
  - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
+ - Brophy, Michael
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
@@ -137,6 +156,7 @@ vs:
  - Dobson, Paul
  - Epping, John
  - Errington, Derek
+ - Everist, Bryce
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
@@ -153,6 +173,7 @@ vs:
  - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
+ - Henry, Owen
  - Hodgson, Colin
  - Howard, Glenn
  - Howard, Greg
@@ -163,6 +184,7 @@ vs:
  - Jones, Scott
  - Kennedy, Marc
  - Kennedy, Mike
+ - King, Jayden
  - Koe, Jamie
  - Koe, Kevin
  - Kopf, Steve
@@ -177,7 +199,7 @@ vs:
  - MacKenzie, Eddie
  - Mackey, Peter
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -186,8 +208,9 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -203,9 +226,11 @@ vs:
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Parsons, Cole
  - Pfeifer, Scott
+ - Pietrangelo, Victor
  - Pinder, Jordan
  - Roach, Darren
  - Roach, Jason
@@ -218,16 +243,20 @@ vs:
  - Scoffin, Thomas
  - Smith, Greg
  - Smith, Tyler
+ - Smitheram, Christian
  - Spencer, Adam
  - St.Louis, Brady
  - Stoughton, Jeff
  - Stringer, Ben
  - Sylvain, Eric
  - Thiessen, Brad
+ - Thomas, Colin
+ - Thompson, Kendal
  - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - Wettig, Sheldon
  - White, Edward
  - Winfield, Brett
  - Wozniak, Matt

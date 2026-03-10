@@ -4,18 +4,18 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
  - event: Brier
-   games: 171
-   wins: 127
-   losses: 44
-   inturn-total: 1765
-   inturn-percent: 90
-   outturn-total: 1381
+   games: 183
+   wins: 136
+   losses: 47
+   inturn-total: 1884
+   inturn-percent: 89
+   outturn-total: 1492
    outturn-percent: 88
-   draw-total: 1075
+   draw-total: 1142
    draw-percent: 88
-   takeout-total: 2071
-   takeout-percent: 90
-   shots-total: 3146
+   takeout-total: 2234
+   takeout-percent: 89
+   shots-total: 3376
    shots-percent: 89
 years:
  - year: 2007
@@ -270,10 +270,29 @@ years:
    takeout-percent: 90
    shots-total: 242
    shots-percent: 89
+ - year: 2026
+   event: Brier
+   team: "CA"
+   position: Third
+   alternate: false
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 119
+   inturn-percent: 85
+   outturn-total: 111
+   outturn-percent: 85
+   draw-total: 67
+   draw-percent: 84
+   takeout-total: 163
+   takeout-percent: 85
+   shots-total: 230
+   shots-percent: 85
 vs:
  - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
+ - Aglukark, David
  - Asselin, Emile
  - Asselin, Felix
  - Atchison, Chris
@@ -284,6 +303,7 @@ vs:
  - Berthelot, Marco
  - Beuk, Jonathan
  - Bezanson, Jared
+ - Bilawka, Brendan
  - Bilesky, Andrew
  - Bitz, Scott
  - Bonot, Trevor
@@ -292,16 +312,19 @@ vs:
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
+ - Brophy, Michael
  - Bryant, Doug
  - Burtnyk, Kerry
  - Buyck, James
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chambers, Corey
  - Champion, Kevin
  - Charette, Pierre
  - Chester, Corey
@@ -325,10 +348,12 @@ vs:
  - Doering, Kyle
  - Doherty, Robbie
  - Drummond, Kerr
+ - Dunlop, Spencer
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
+ - Everist, Bryce
  - Ferland, Martin
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
@@ -366,6 +391,7 @@ vs:
  - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
+ - Henry, Owen
  - Hicke, Dean
  - Higgs, Jake
  - Hodgson, Colin
@@ -395,6 +421,7 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
  - Kleiter, Rylan
  - Klitch, Tyler
  - Knapp, Kelly
@@ -406,6 +433,7 @@ vs:
  - Korab, Jamie
  - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Laing, Brent
  - Latos, Evan
  - Laycock, Steve
@@ -414,6 +442,7 @@ vs:
  - Lemay, Philippe
  - Lequin, Bradley
  - Lind, J.D.
+ - Locke, Nathan
  - Lohnes, Bruce
  - Lott, Colton
  - MacAulay, Ian
@@ -424,7 +453,7 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Maskiewich, Ken
@@ -433,6 +462,7 @@ vs:
  - Mawhinney, Spencer
  - McCann, Andy
  - McCarville, Mike
+ - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
  - Meachem, Shaun Myles
@@ -460,6 +490,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Noftall, David
  - Olson, Mark-2
@@ -471,6 +502,7 @@ vs:
  - Patzer, Brad
  - Peech, Alexander
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Ryan
@@ -481,6 +513,7 @@ vs:
  - Rafuse, Brian
  - Recksiedler, Kevin
  - Richard, Jeff
+ - Ring, Mat
  - Roach, Darren
  - Roach, Jason
  - Robinson, Andrew
@@ -501,6 +534,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Slauenwhite, David
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smith, Garth
  - Smith, Kent
@@ -510,6 +544,7 @@ vs:
  - Spencer, Adam
  - Steele, Nathan
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sylvain, Eric
@@ -518,6 +553,8 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin
+ - Thompson, Kendal
+ - Thompson, Stuart
  - Toner, Lee
  - Trepanier, Jean-Francois
  - Trickett, Stephen
@@ -529,10 +566,12 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wiebe, Ryan
  - Wood, Mike
  - Wozniak, Matt
+ - Young, Nathan
 ---

@@ -170,7 +170,7 @@ vs:
       year: 2023
       draw: Round Robin(6)
       score: SK 4 - AB 8
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

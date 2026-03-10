@@ -4,18 +4,18 @@ name: Adam Casey
 name-sort: Casey, Adam
 totals:
  - event: Brier
-   games: 102
-   wins: 49
+   games: 103
+   wins: 50
    losses: 53
-   inturn-total: 825
+   inturn-total: 829
    inturn-percent: 81
-   outturn-total: 1076
+   outturn-total: 1078
    outturn-percent: 83
-   draw-total: 802
+   draw-total: 808
    draw-percent: 81
    takeout-total: 1099
    takeout-percent: 83
-   shots-total: 1901
+   shots-total: 1907
    shots-percent: 82
 years:
  - year: 2012
@@ -198,6 +198,22 @@ years:
    takeout-percent: 100
    shots-total: 6
    shots-percent: 92
+ - year: 2026
+   event: Brier
+   team: "NL"
+   position: Lead
+   alternate: true
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 4
+   inturn-percent: 88
+   outturn-total: 2
+   outturn-percent: 100
+   draw-total: 6
+   draw-percent: 92
+   shots-total: 6
+   shots-percent: 92
 vs:
  - Abraham, Ryan
  - Armstrong, Mike
@@ -224,6 +240,7 @@ vs:
  - Chorostkowski, Brad
  - Clarey, Sean
  - Cochrane, Bryan
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -351,6 +368,7 @@ vs:
  - Seabrook, Scott
  - Simmons, Pat
  - Skauge, Greg
+ - Smith, Tyler
  - Smitheram, Christian
  - Spencer, Adam
  - Stoughton, Jeff
@@ -364,6 +382,7 @@ vs:
  - Walker, Geoff
  - Watson, Aaron
  - Wettig, Sheldon
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wozniak, Matt

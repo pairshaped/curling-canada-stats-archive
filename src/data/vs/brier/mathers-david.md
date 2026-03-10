@@ -1954,6 +1954,34 @@ vs:
       year: 2016
       draw: Round Robin(6)
       score: CA 4 - PE 6
+ - name: Thompson, Stuart
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(18)
+      score: ON 5 - NB 6
  - name: Trickett, Stephen
    totals:
     - event: Brier

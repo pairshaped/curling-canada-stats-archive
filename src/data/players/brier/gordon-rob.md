@@ -94,7 +94,7 @@ vs:
  - Mackey, Peter
  - Manuel, Matthew
  - Martin, Karrick
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Moulding, Darren
  - Nadeau, Jeff

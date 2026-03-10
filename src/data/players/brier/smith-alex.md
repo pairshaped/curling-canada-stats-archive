@@ -126,6 +126,7 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Smith, Doug-2
+ - Thompson, Stuart
  - Usackis, John
  - Walchuk, Don
  - Weeks, Blair

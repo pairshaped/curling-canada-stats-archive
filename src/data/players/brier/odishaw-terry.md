@@ -172,7 +172,7 @@ vs:
  - McDonald, Toby
  - McGregor, Ken
  - McInnis, Phillip
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Melville, Bruce
  - Middaugh, Wayne
  - Mihalicz, Dwayne

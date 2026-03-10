@@ -188,7 +188,7 @@ vs:
  - Lott, Colton
  - Lowery, Ryan
  - Mallais, Jeremy
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
@@ -235,6 +235,7 @@ vs:
  - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Trickett, Stephen
  - Walker, Geoff
  - Wallingham, Joe

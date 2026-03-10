@@ -4,19 +4,19 @@ name: Derek Samagalski
 name-sort: Samagalski, Derek
 totals:
  - event: Brier
-   games: 94
+   games: 102
    wins: 51
-   losses: 43
-   inturn-total: 826
-   inturn-percent: 85
-   outturn-total: 915
-   outturn-percent: 87
-   draw-total: 890
-   draw-percent: 86
-   takeout-total: 851
-   takeout-percent: 86
-   shots-total: 1741
-   shots-percent: 86
+   losses: 51
+   inturn-total: 892
+   inturn-percent: 84
+   outturn-total: 984
+   outturn-percent: 85
+   draw-total: 941
+   draw-percent: 85
+   takeout-total: 935
+   takeout-percent: 84
+   shots-total: 1876
+   shots-percent: 84
 years:
  - year: 2012
    event: Brier
@@ -180,6 +180,24 @@ years:
    takeout-percent: 90
    shots-total: 200
    shots-percent: 86
+ - year: 2026
+   event: Brier
+   team: "NU"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 66
+   inturn-percent: 66
+   outturn-total: 69
+   outturn-percent: 62
+   draw-total: 51
+   draw-percent: 67
+   takeout-total: 84
+   takeout-percent: 63
+   shots-total: 135
+   shots-percent: 64
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -195,6 +213,7 @@ vs:
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Brophy, Michael
  - Burgess, Steve
  - Byrd, Kurtis
  - Camm, Mathew
@@ -205,6 +224,7 @@ vs:
  - Chester, Corey
  - Chorostkowski, Brad
  - Clarey, Sean
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
@@ -217,6 +237,7 @@ vs:
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
+ - Everist, Bryce
  - Flasch, Colton
  - Flemming, Paul
  - Folk, Kevin
@@ -239,6 +260,7 @@ vs:
  - Harnden, Ryan
  - Harris, Tyler
  - Hebert, Ben
+ - Henry, Owen
  - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Jacob
@@ -258,6 +280,7 @@ vs:
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - King, Jayden
  - Kingdon, Wade
  - Knapp, Kelly
  - Knapp, Trent
@@ -283,7 +306,7 @@ vs:
  - Manners, Scott
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -293,7 +316,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Meister, Nicholas
  - Menard, Jean-Michel
@@ -314,6 +337,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Odian, Scott
  - Odishaw, Grant
@@ -322,11 +346,13 @@ vs:
  - Patzer, Brad
  - Peech, Alexander
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pillsworth, Mark
  - Pinder, Jordan
  - Potts, Jordan
  - Rach, Dave
  - Richard, Jeff
+ - Ring, Mat
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Saccary, Scott
@@ -341,6 +367,7 @@ vs:
  - Skauge, Greg
  - Smallwood, Robert
  - Smith, Alex
+ - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
  - St.Louis, Brady
@@ -351,6 +378,8 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin
+ - Thompson, Kendal
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Van Strien, Peter
@@ -358,6 +387,7 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Wettig, Sheldon
+ - White, Edward
  - Whitehead, Mark
  - Winfield, Brett
  - Wozniak, Matt

@@ -180,7 +180,7 @@ vs:
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
@@ -216,6 +216,7 @@ vs:
  - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Walker, Geoff

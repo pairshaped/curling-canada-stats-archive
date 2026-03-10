@@ -4,18 +4,18 @@ name: James Grattan
 name-sort: Grattan, James
 totals:
  - event: Brier
-   games: 174
-   wins: 79
-   losses: 95
-   inturn-total: 1283
+   games: 182
+   wins: 84
+   losses: 98
+   inturn-total: 1341
    inturn-percent: 78
-   outturn-total: 1971
+   outturn-total: 2051
    outturn-percent: 81
-   draw-total: 1353
-   draw-percent: 77
-   takeout-total: 1901
+   draw-total: 1412
+   draw-percent: 76
+   takeout-total: 1980
    takeout-percent: 82
-   shots-total: 3254
+   shots-total: 3392
    shots-percent: 80
 years:
  - year: 1997
@@ -324,6 +324,24 @@ years:
    takeout-percent: 82
    shots-total: 147
    shots-percent: 80
+ - year: 2026
+   event: Brier
+   team: "NB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 58
+   inturn-percent: 69
+   outturn-total: 80
+   outturn-percent: 83
+   draw-total: 59
+   draw-percent: 69
+   takeout-total: 79
+   takeout-percent: 83
+   shots-total: 138
+   shots-percent: 77
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -338,10 +356,12 @@ vs:
  - Base, John
  - Bice, Mark
  - Bice, Steve
+ - Bilawka, Brendan
  - Bilesky, Andrew
  - Biron, Louis
  - Bitz, Scott
  - Blanchard, Ben
+ - Bonin-Ducharme, Olivier
  - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
@@ -359,6 +379,7 @@ vs:
  - Butler, Mark
  - Buyck, James
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Campbell, Robert
  - Carey, Dan
@@ -367,6 +388,7 @@ vs:
  - Carruthers, Reid
  - Casey, Adam
  - Cayouette, Maurice
+ - Chambers, Corey
  - Champion, Kevin
  - Charette, Pierre
  - Chester, Corey
@@ -395,6 +417,7 @@ vs:
  - Dillon, Mike
  - Dion, William
  - Doerr, Bob
+ - Drummond, Kerr
  - Duce, Dallas
  - Dunstone, Matt
  - Elias, Dave
@@ -404,6 +427,7 @@ vs:
  - Epping, John
  - Ernst, Georg
  - Errington, Derek
+ - Fadden, Coburn
  - Farnell, Jamie
  - Fawcett, Brian
  - Feltham, Aaron
@@ -487,6 +511,7 @@ vs:
  - Kammerlock, Dan
  - Kawaja, John
  - Kelsch, Dan
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kerr, Ian
  - Kidby, Dustin
@@ -497,10 +522,13 @@ vs:
  - Koffski, Rob
  - Kofoed, Lonnie
  - Koivula, Colin
+ - Kolomaya, Jared
  - Kopf, Steve
+ - Kopytko, Mitchell
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
+ - Kurz, Kyle
  - Lafleur, Daniel
  - Laing, Brent
  - Landry, Jeremy
@@ -513,6 +541,7 @@ vs:
  - LeDrew, Ryan
  - Leech, Ron
  - Lemery, Daniel
+ - Libbus, Jacob
  - Likely, John
  - Lindsay, Tim
  - Locke, Nathan
@@ -524,6 +553,7 @@ vs:
  - MacAulay, Ian
  - MacDonald, Blake
  - MacDonald, Rod
+ - MacEwan, Sandy
  - MacFadyen, Alex
  - MacInnes, David
  - MacKenzie, Eddie
@@ -534,7 +564,7 @@ vs:
  - MacLeod, Kris
  - March, Tim
  - Markowsky, Rob
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -548,7 +578,7 @@ vs:
  - McGowan, Nolin
  - McKee, Darrell
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - McPhee, Barry
@@ -562,6 +592,7 @@ vs:
  - Milward, Ross
  - Mittelstadt, Kelly
  - Molloy, Pat
+ - Montpellier, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moskowy, Kelly
@@ -609,6 +640,7 @@ vs:
  - Roberge, Francois
  - Robinson, Andrew
  - Robinson, Bill
+ - Robinson, Roland
  - Rocque, Marcel
  - Rose, Jeff
  - Roy, Jean-Sebastien
@@ -650,6 +682,7 @@ vs:
  - Sumner, Kevin
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tanaka, Cody
  - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan

@@ -30,6 +30,34 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: BC 5 - AB 7
+ - name: Toner, Lee
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(14)
+      score: AB 8 - NO 2
  - name: Trepanier, Jean-Francois
    totals:
     - event: Brier
@@ -130,6 +158,34 @@ vs:
       year: 2025
       draw: Round Robin(13)
       score: CA 7 - AB 6
+ - name: Wallingham, Joe
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 92
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(18)
+      score: YT 3 - AB 6
  - name: Wettig, Sheldon
    totals:
     - event: Brier

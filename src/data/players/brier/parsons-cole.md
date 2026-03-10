@@ -4,18 +4,18 @@ name: Cole Parsons
 name-sort: Parsons, Cole
 totals:
  - event: Brier
-   games: 39
+   games: 40
    wins: 10
-   losses: 29
-   inturn-total: 264
+   losses: 30
+   inturn-total: 268
    inturn-percent: 78
-   outturn-total: 440
+   outturn-total: 442
    outturn-percent: 83
-   draw-total: 446
+   draw-total: 452
    draw-percent: 82
    takeout-total: 258
    takeout-percent: 80
-   shots-total: 704
+   shots-total: 710
    shots-percent: 81
 years:
  - year: 2019
@@ -108,6 +108,22 @@ years:
    takeout-percent: 80
    shots-total: 166
    shots-percent: 80
+ - year: 2026
+   event: Brier
+   team: "NT"
+   position: Second
+   alternate: true
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 4
+   inturn-percent: 50
+   outturn-total: 2
+   outturn-percent: 100
+   draw-total: 6
+   draw-percent: 67
+   shots-total: 6
+   shots-percent: 67
 vs:
  - Abraham, Ryan
  - Ardiel, Taylor
@@ -130,6 +146,7 @@ vs:
  - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Fadden, Coburn
  - Flasch, Colton
  - Flemming, Paul
  - Follett, Sam
@@ -164,6 +181,7 @@ vs:
  - Knapp, Trent
  - Koe, Kevin
  - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Laing, Brent
  - Latimer, Shane
  - Laycock, Steve
@@ -172,7 +190,7 @@ vs:
  - Lott, Colton
  - Mackey, Peter
  - Manuel, Matthew
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
@@ -207,6 +225,7 @@ vs:
  - St.Louis, David
  - Steele, Colten
  - Stringer, Ben
+ - Tanaka, Cody
  - Thiessen, Brad
  - Thompson, Stuart
  - Tremblay, Julien

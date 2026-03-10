@@ -4,18 +4,18 @@ name: Karrick Martin
 name-sort: Martin, Karrick
 totals:
  - event: Brier
-   games: 105
-   wins: 68
-   losses: 37
-   inturn-total: 1333
-   inturn-percent: 91
-   outturn-total: 569
+   games: 116
+   wins: 78
+   losses: 38
+   inturn-total: 1403
+   inturn-percent: 90
+   outturn-total: 697
    outturn-percent: 89
-   draw-total: 1667
+   draw-total: 1844
    draw-percent: 91
-   takeout-total: 235
+   takeout-total: 256
    takeout-percent: 84
-   shots-total: 1902
+   shots-total: 2100
    shots-percent: 90
 years:
  - year: 2013
@@ -198,6 +198,24 @@ years:
    takeout-percent: 98
    shots-total: 152
    shots-percent: 95
+ - year: 2026
+   event: Brier
+   team: "AB"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 70
+   inturn-percent: 83
+   outturn-total: 128
+   outturn-percent: 89
+   draw-total: 177
+   draw-percent: 88
+   takeout-total: 21
+   takeout-percent: 77
+   shots-total: 198
+   shots-percent: 87
 vs:
  - Abel, Clinton
  - Aho, David
@@ -207,7 +225,9 @@ vs:
  - Asselin, Emile
  - Bedard, Alek
  - Beuk, Jonathan
+ - Bilawka, Brendan
  - Boland, Adam
+ - Bonin-Ducharme, Olivier
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
@@ -215,12 +235,14 @@ vs:
  - Breckon, Graham
  - Bruce, Daniel
  - Burgess, Steve
+ - Calvert, Braden
  - Camm, Mathew
  - Carmody, Anson
  - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Chester, Corey
  - Chorostkowski, Brad
  - Cochrane, Bryan
@@ -236,6 +258,7 @@ vs:
  - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Fadden, Coburn
  - Fecteau, Steve
  - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
@@ -269,6 +292,7 @@ vs:
  - Howard, Glenn
  - Howard, Scott
  - Hunt, Matthew
+ - Husdon, Sam
  - Jacobs, Brad
  - Janssen, Patrick
  - Jensen, Trygg
@@ -284,7 +308,10 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Krats, Joel
+ - Kurz, Kyle
  - Laing, Brent
  - Latimer, Shane
  - Latos, Evan
@@ -299,9 +326,10 @@ vs:
  - Lowery, Ryan
  - MacAulay, Ian
  - MacDonald, Edmund
+ - MacEwan, Sandy
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Mathers, David
  - McCann, Andy
@@ -309,7 +337,7 @@ vs:
  - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
@@ -319,6 +347,7 @@ vs:
  - Middaugh, Wayne
  - Mikkelsen, Dustin
  - Mittelstadt, Kelly
+ - Montpellier, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -341,6 +370,8 @@ vs:
  - Quevillon, Louis
  - Rach, Dave
  - Richard, Jeff
+ - Riggs, Noah
+ - Robinson, Roland
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
@@ -362,8 +393,10 @@ vs:
  - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tanaka, Cody
  - Tardi, Tyler
  - Taylor, Andrew
+ - Toner, Lee
  - Tremblay, Julien
  - Van Strien, Peter
  - Walker, Geoff

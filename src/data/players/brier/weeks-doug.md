@@ -153,8 +153,8 @@ vs:
  - Hollett, Peter
  - Howard, Glenn
  - Howard, Russ
- - Hunter, Paul
  - Hritzuk, Eugene
+ - Hunter, Paul
  - Hyrich, John
  - Iverson, Dave
  - Kamp, Ragnar

@@ -91,7 +91,7 @@ vs:
  - Kolomaya, Jared
  - Lott, Colton
  - Mackey, Peter
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Mattern, Joshua
  - McEwen, Mike

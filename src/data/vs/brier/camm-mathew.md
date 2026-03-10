@@ -2846,7 +2846,7 @@ vs:
       year: 2020
       draw: Tie-Breaker(19)
       score: ON 7 - WC 6
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -4350,6 +4350,34 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: ON 4 - CA 7
+ - name: Thompson, Stuart
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(18)
+      score: ON 5 - NB 6
  - name: Trepanier, Jean-Francois
    totals:
     - event: Brier

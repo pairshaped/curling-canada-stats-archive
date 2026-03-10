@@ -151,7 +151,7 @@ vs:
  - Martin, Karrick
  - McCann, Andy
  - McDonell, Justin
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Moulding, Darren

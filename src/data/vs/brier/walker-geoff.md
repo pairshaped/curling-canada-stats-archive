@@ -63,12 +63,12 @@ vs:
     - event: Brier
       player1:
         percent: 93
-        wins: 3
+        wins: 4
         losses: 0
       player2:
-        percent: 73
+        percent: 70
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'NL'
@@ -118,17 +118,33 @@ vs:
       year: 2025
       draw: Round Robin(15)
       score: NU 3 - CA 12
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(3)
+      score: NL 10 - NU 2
  - name: White, Edward
    totals:
     - event: Brier
       player1:
         percent: 95
-        wins: 2
+        wins: 3
         losses: 0
       player2:
-        percent: 84
+        percent: 83
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'CA'
@@ -162,6 +178,22 @@ vs:
       year: 2024
       draw: Round Robin(13)
       score: PE 3 - CA 11
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 82
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(13)
+      score: NL 12 - PE 3
  - name: Whitehead, Kevin
    totals:
     - event: Brier
@@ -398,6 +430,34 @@ vs:
       year: 2022
       draw: Round Robin(16)
       score: WC 6 - WC 5
+ - name: Young, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 60
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(9)
+      score: NL 5 - NL 8
  - name: Zachernuk, Nick
    totals:
     - event: Brier

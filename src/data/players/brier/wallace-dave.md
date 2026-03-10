@@ -153,8 +153,8 @@ vs:
  - Heidt, Brad
  - Hildebrand, Dan
  - Hillson, Glen
- - Hunter, Paul
  - Hritzuk, Eugene
+ - Hunter, Paul
  - Iverson, Dave
  - Jenkins, Peter
  - Kammerlock, Ron

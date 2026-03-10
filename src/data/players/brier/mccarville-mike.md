@@ -124,6 +124,7 @@ vs:
  - Symonds, Andrew
  - Thiessen, Nolan
  - Thomas, Colin
+ - Thompson, Stuart
  - Trickett, Stephen
  - Walker, Geoff
  - Wallingham, Joe

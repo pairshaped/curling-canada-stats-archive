@@ -271,8 +271,8 @@ vs:
  - Horning, Deane
  - Howard, Glenn
  - Howard, Russ
- - Hunt, Bruce
  - Hritzuk, Eugene
+ - Hunt, Bruce
  - Hyrich, John
  - Iskiw, Blayne
  - Jackson, Glen

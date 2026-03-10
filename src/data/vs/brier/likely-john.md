@@ -170,7 +170,7 @@ vs:
       year: 1985
       draw: Round Robin(10)
       score: PE 6 - NS 5
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

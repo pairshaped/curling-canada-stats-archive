@@ -1742,7 +1742,7 @@ vs:
       year: 1995
       draw: Round Robin(9)
       score: TR 7 - NB 4
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

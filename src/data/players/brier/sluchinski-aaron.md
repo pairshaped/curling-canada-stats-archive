@@ -4,19 +4,19 @@ name: Aaron Sluchinski
 name-sort: Sluchinski, Aaron
 totals:
  - event: Brier
-   games: 18
-   wins: 10
-   losses: 8
-   inturn-total: 126
-   inturn-percent: 78
-   outturn-total: 178
-   outturn-percent: 81
-   draw-total: 121
-   draw-percent: 79
-   takeout-total: 183
-   takeout-percent: 80
-   shots-total: 304
-   shots-percent: 80
+   games: 29
+   wins: 20
+   losses: 9
+   inturn-total: 222
+   inturn-percent: 81
+   outturn-total: 286
+   outturn-percent: 82
+   draw-total: 199
+   draw-percent: 80
+   takeout-total: 309
+   takeout-percent: 82
+   shots-total: 508
+   shots-percent: 81
 years:
  - year: 2022
    event: Brier
@@ -72,62 +72,100 @@ years:
    takeout-percent: 85
    shots-total: 152
    shots-percent: 84
+ - year: 2026
+   event: Brier
+   team: "AB"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 96
+   inturn-percent: 84
+   outturn-total: 108
+   outturn-percent: 83
+   draw-total: 78
+   draw-percent: 80
+   takeout-total: 126
+   takeout-percent: 86
+   shots-total: 204
+   shots-percent: 84
 vs:
  - Arsenault, Jean-Michel
+ - Bilawka, Brendan
+ - Bonin-Ducharme, Olivier
  - Bottcher, Brendan
  - Brassard, Philippe
  - Bruce, Daniel
+ - Calvert, Braden
  - Carpenter, Brayden
  - Carruthers, Reid
+ - Chambers, Corey
  - Chester, Corey
  - Cocks, Adam
  - deJong, Cameron
  - Dilello, Ty
  - Dobson, Paul
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Fadden, Coburn
  - Feltham, Aaron
  - Flasch, Colton
+ - Gallant, Brett
  - Gallant, Chris
  - Gauthier, Jacques
  - Grattan, James
  - Gushue, Brad
  - Harnden, E.J.
  - Harnden, Ryan
+ - Hebert, Ben
  - Horgan, Jacob
  - Horgan, Tanner
  - Horvath, Alex
+ - Husdon, Sam
+ - Jacobs, Brad
  - Jensen, Trygg
  - Kennedy, Glen
+ - Kennedy, Marc
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Krats, Joel
+ - Kurz, Kyle
  - Latimer, Shane
  - Latos, Evan
  - Lott, Colton
  - Lowery, Ryan
+ - MacEwan, Sandy
  - Manuel, Matthew
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
  - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
+ - Montpellier, Dustin
  - Mullen, Jesse
  - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
  - Parsons, Cole
+ - Riggs, Noah
+ - Robinson, Roland
  - Saunders, Luke
  - Schneider, Catlin
  - Scoffin, Thomas
  - Smith, Tyler
  - Smitheram, Christian
  - St.Louis, Brady
+ - Tanaka, Cody
+ - Toner, Lee
  - Tremblay, Julien
  - Van Strien, Peter
  - Walker, Geoff

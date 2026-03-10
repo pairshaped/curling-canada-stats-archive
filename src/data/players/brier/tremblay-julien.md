@@ -50,11 +50,11 @@ vs:
  - Koe, Kevin
  - Latimer, Shane
  - Manuel, Matthew
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Nichols, Mark
  - Parsons, Cole

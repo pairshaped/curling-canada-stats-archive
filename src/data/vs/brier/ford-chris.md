@@ -198,7 +198,7 @@ vs:
       year: 2019
       draw: Round Robin(1)
       score: NL 4 - PE 5
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

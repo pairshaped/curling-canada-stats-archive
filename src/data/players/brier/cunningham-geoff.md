@@ -175,8 +175,8 @@ vs:
  - Houston, Neil
  - Howard, Glenn
  - Howard, Russ
- - Hunka, Ken
  - Hritzuk, Eugene
+ - Hunka, Ken
  - Iverson, Dave
  - Johnston, Bill
  - Johnston, Steve

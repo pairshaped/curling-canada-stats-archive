@@ -137,11 +137,11 @@ vs:
  - MacFadyen, Alex
  - Mallais, Jeremy
  - Manuel, Matthew
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Mikkelsen, Dustin

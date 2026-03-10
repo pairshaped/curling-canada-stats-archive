@@ -58,6 +58,34 @@ vs:
       year: 2023
       draw: Round Robin(15)
       score: YT 7 - NB 9
+ - name: Kennedy, Glen
+   totals:
+    - event: Brier
+      player1:
+        percent: 50
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 50
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(16)
+      score: YT 4 - NT 10
  - name: Kennedy, Marc
    totals:
     - event: Brier
@@ -222,12 +250,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 79
-        wins: 1
+        percent: 77
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -246,16 +274,32 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NT 9 - YT 7
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 50
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(16)
+      score: YT 4 - NT 10
  - name: Koe, Kevin
    totals:
     - event: Brier
       player1:
-        percent: 73
+        percent: 68
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 94
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -290,16 +334,88 @@ vs:
       year: 2022
       draw: Round Robin(7)
       score: YT 3 - AB 9
- - name: Krats, Joel
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(18)
+      score: YT 3 - AB 6
+ - name: Kolomaya, Jared
    totals:
     - event: Brier
       player1:
-        percent: 75
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(4)
+      score: YT 7 - BC 4
+ - name: Kopytko, Mitchell
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
         wins: 1
         losses: 0
       player2:
         percent: 64
         wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(4)
+      score: YT 7 - BC 4
+ - name: Krats, Joel
+   totals:
+    - event: Brier
+      player1:
+        percent: 67
+        wins: 1
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -318,6 +434,50 @@ vs:
       year: 2024
       draw: Round Robin(6)
       score: NB 7 - YT 11
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(8)
+      score: YT 6 - NB 9
+ - name: Kurz, Kyle
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(12)
+      score: MB 10 - YT 6
  - name: Laing, Brent
    totals:
     - event: Brier
@@ -450,12 +610,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 66
+        percent: 80
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 92
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -474,6 +634,22 @@ vs:
       year: 2024
       draw: Round Robin(8)
       score: YT 2 - MB 15
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(14)
+      score: MB 6 - YT 5
  - name: Lowery, Ryan
    totals:
     - event: Brier
@@ -502,6 +678,34 @@ vs:
       year: 2022
       draw: Round Robin(3)
       score: YT 13 - PE 7
+ - name: MacEwan, Sandy
+   totals:
+    - event: Brier
+      player1:
+        percent: 71
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 9 - YT 8
  - name: MacFadyen, Alex
    totals:
     - event: Brier
@@ -602,16 +806,16 @@ vs:
       year: 2024
       draw: Round Robin(12)
       score: YT 3 - ON 8
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:
-        percent: 72
+        percent: 71
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 99
-        wins: 2
+        percent: 97
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -646,16 +850,32 @@ vs:
       year: 2025
       draw: Round Robin(10)
       score: SK 7 - YT 5
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(6)
+      score: SK 10 - YT 5
  - name: Marsh, Kevin
    totals:
     - event: Brier
       player1:
-        percent: 72
+        percent: 71
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 88
-        wins: 2
+        percent: 84
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -690,16 +910,32 @@ vs:
       year: 2025
       draw: Round Robin(10)
       score: SK 7 - YT 5
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(6)
+      score: SK 10 - YT 5
  - name: Martin, Karrick
    totals:
     - event: Brier
       player1:
-        percent: 78
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 94
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -718,6 +954,22 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: CA 10 - YT 4
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(18)
+      score: YT 3 - AB 6
  - name: Mathers, David
    totals:
     - event: Brier
@@ -794,12 +1046,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 72
+        percent: 69
         wins: 1
-        losses: 2
+        losses: 3
       player2:
-        percent: 78
-        wins: 2
+        percent: 80
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -850,6 +1102,22 @@ vs:
       year: 2024
       draw: Round Robin(6)
       score: NB 7 - YT 11
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(8)
+      score: YT 6 - NB 9
  - name: McCarville, Mike
    totals:
     - event: Brier
@@ -882,12 +1150,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
+        percent: 82
         wins: 0
-        losses: 3
+        losses: 4
       player2:
-        percent: 86
-        wins: 3
+        percent: 83
+        wins: 4
         losses: 0
    games:
     - player1:
@@ -938,16 +1206,32 @@ vs:
       year: 2025
       draw: Round Robin(10)
       score: SK 7 - YT 5
- - name: Mcleod, Shadrach
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 73
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(6)
+      score: SK 10 - YT 5
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:
-        percent: 86
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 70
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -966,6 +1250,22 @@ vs:
       year: 2020
       draw: Round Robin(9)
       score: NT 9 - YT 7
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 50
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(16)
+      score: YT 4 - NT 10
  - name: Menard, Jean-Michel
    totals:
     - event: Brier
@@ -1066,6 +1366,34 @@ vs:
       year: 2025
       draw: Round Robin(8)
       score: ON 9 - YT 3
+ - name: Montpellier, Dustin
+   totals:
+    - event: Brier
+      player1:
+        percent: 71
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 9 - YT 8
  - name: Mooibroek, Sam
    totals:
     - event: Brier
@@ -1394,6 +1722,34 @@ vs:
       year: 2024
       draw: Round Robin(16)
       score: YT 4 - MB 6
+ - name: Ouimet, Luc
+   totals:
+    - event: Brier
+      player1:
+        percent: 71
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 9 - YT 8
  - name: Parsons, Cole
    totals:
     - event: Brier
@@ -1506,6 +1862,62 @@ vs:
       year: 2025
       draw: Round Robin(6)
       score: NS 5 - YT 7
+ - name: Riggs, Noah
+   totals:
+    - event: Brier
+      player1:
+        percent: 60
+        wins: 0
+        losses: 1
+      player2:
+        percent: 71
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 71
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(8)
+      score: YT 6 - NB 9
+ - name: Robinson, Roland
+   totals:
+    - event: Brier
+      player1:
+        percent: 50
+        wins: 0
+        losses: 1
+      player2:
+        percent: 97
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 50
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 97
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(16)
+      score: YT 4 - NT 10
  - name: Rycroft, Carter
    totals:
     - event: Brier
@@ -1754,12 +2166,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 78
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 81
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -1778,6 +2190,22 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: CA 10 - YT 4
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(18)
+      score: YT 3 - AB 6
  - name: Smith, Alex
    totals:
     - event: Brier
@@ -2006,16 +2434,44 @@ vs:
       year: 2024
       draw: Round Robin(10)
       score: NL 6 - YT 5
+ - name: Tanaka, Cody
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(4)
+      score: YT 7 - BC 4
  - name: Tardi, Tyler
    totals:
     - event: Brier
       player1:
-        percent: 73
+        percent: 65
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 90
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -2034,6 +2490,22 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: YT 6 - WC 7
+    - player1:
+        team: 'YT'
+        position: Second
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(18)
+      score: YT 3 - AB 6
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -2090,6 +2562,34 @@ vs:
       year: 2024
       draw: Round Robin(10)
       score: NL 6 - YT 5
+ - name: Thompson, Stuart
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(6)
+      score: NB 7 - YT 11
  - name: Trepanier, Jean-Francois
    totals:
     - event: Brier

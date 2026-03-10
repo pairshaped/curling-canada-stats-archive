@@ -1014,7 +1014,7 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: NS 8 - NU 4
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

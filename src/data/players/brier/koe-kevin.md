@@ -4,19 +4,19 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
  - event: Brier
-   games: 155
-   wins: 111
-   losses: 44
-   inturn-total: 1048
+   games: 166
+   wins: 121
+   losses: 45
+   inturn-total: 1118
    inturn-percent: 83
-   outturn-total: 1793
-   outturn-percent: 85
-   draw-total: 1083
+   outturn-total: 1923
+   outturn-percent: 86
+   draw-total: 1144
    draw-percent: 83
-   takeout-total: 1758
-   takeout-percent: 85
-   shots-total: 2841
-   shots-percent: 84
+   takeout-total: 1897
+   takeout-percent: 86
+   shots-total: 3041
+   shots-percent: 85
 years:
  - year: 2010
    event: Brier
@@ -252,6 +252,24 @@ years:
    takeout-percent: 83
    shots-total: 147
    shots-percent: 81
+ - year: 2026
+   event: Brier
+   team: "AB"
+   position: Fourth
+   alternate: false
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 70
+   inturn-percent: 84
+   outturn-total: 130
+   outturn-percent: 90
+   draw-total: 61
+   draw-percent: 87
+   takeout-total: 139
+   takeout-percent: 88
+   shots-total: 200
+   shots-percent: 88
 vs:
  - Aho, David
  - Anderson, Chris
@@ -267,12 +285,15 @@ vs:
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
+ - Bilawka, Brendan
  - Blyde, Greg
+ - Bonin-Ducharme, Olivier
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
  - Bruce, Daniel
+ - Calvert, Braden
  - Camm, Mathew
  - Carmody, Anson
  - Carpenter, Brayden
@@ -280,6 +301,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Champion, Kevin
  - Charest, Jean-Francois
  - Chester, Corey
@@ -307,6 +329,7 @@ vs:
  - Dutiaume, Randy
  - Eldridge, Zach
  - Epping, John
+ - Fadden, Coburn
  - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
@@ -336,6 +359,7 @@ vs:
  - Hart, Joey
  - Hart, Richard
  - Harty, Jeremy
+ - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Jacob
@@ -345,6 +369,7 @@ vs:
  - Howard, Greg
  - Howard, Scott
  - Howard, Steven
+ - Husdon, Sam
  - Jacobs, Brad
  - Janssen, Patrick
  - Jeffrey, Chris
@@ -361,11 +386,14 @@ vs:
  - Knapp, Trent
  - Koe, Jamie
  - Koivula, Colin
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
  - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Laing, Brent
  - Lang, Tyler
  - Latimer, Shane
@@ -379,6 +407,7 @@ vs:
  - Lowery, Ryan
  - Lyburn, Allan
  - MacDonald, Rod
+ - MacEwan, Sandy
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
@@ -388,7 +417,7 @@ vs:
  - Manuel, Matthew
  - March, Tim
  - Markowsky, Rob
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -402,7 +431,7 @@ vs:
  - McDonell, Justin
  - McEwen, Mike
  - McKee, Darrell
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
@@ -411,6 +440,7 @@ vs:
  - Menard, Jean-Michel
  - Menard, Philippe
  - Middaugh, Wayne
+ - Montpellier, Dustin
  - Morgan, Tyler
  - Morris, John
  - Moskowy, Braeden
@@ -437,9 +467,11 @@ vs:
  - Pinder, Jordan
  - Reid, Serge
  - Richard, Jeff
+ - Riggs, Noah
  - Roach, Darren
  - Roach, Jason
  - Robinson, Andrew
+ - Robinson, Roland
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Saccary, Scott
@@ -466,9 +498,11 @@ vs:
  - Stoughton, Jeff
  - Stringer, Ben
  - Sylvain, Eric
+ - Tanaka, Cody
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
+ - Toner, Lee
  - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Van Strien, Peter

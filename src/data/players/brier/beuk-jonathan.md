@@ -84,13 +84,13 @@ vs:
  - LeCocq, Marc
  - Mackey, Peter
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Middaugh, Wayne
  - Mikkelsen, Ray
  - Mikkelsen, Dustin

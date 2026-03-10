@@ -109,6 +109,7 @@ vs:
  - Symonds, Andrew
  - Tardi, Tyler
  - Thomas, Colin
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Venance, Glenn

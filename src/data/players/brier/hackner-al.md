@@ -303,8 +303,8 @@ vs:
  - Houston, Neil
  - Howard, Glenn
  - Howard, Russ
- - Hunter, Paul
  - Hritzuk, Eugene
+ - Hunter, Paul
  - Hyrich, John
  - Iskiw, Blayne
  - Iverson, Dave

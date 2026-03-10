@@ -1790,7 +1790,7 @@ vs:
       year: 2010
       draw: Round Robin(10)
       score: ON 9 - SK 5
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

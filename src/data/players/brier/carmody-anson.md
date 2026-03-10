@@ -169,7 +169,7 @@ vs:
  - LeCocq, Marc
  - Lemay, Philippe
  - Mallais, Jeremy
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin

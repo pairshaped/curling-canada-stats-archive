@@ -152,7 +152,7 @@ vs:
  - MacFadyen, Alex
  - Mallais, Jeremy
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -182,6 +182,7 @@ vs:
  - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Venance, Glenn

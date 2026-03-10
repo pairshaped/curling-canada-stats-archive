@@ -4,18 +4,18 @@ name: E.J. Harnden
 name-sort: Harnden, E.J.
 totals:
  - event: Brier
-   games: 193
-   wins: 133
-   losses: 60
-   inturn-total: 1471
+   games: 205
+   wins: 143
+   losses: 62
+   inturn-total: 1577
    inturn-percent: 87
-   outturn-total: 2125
+   outturn-total: 2247
    outturn-percent: 87
-   draw-total: 1392
+   draw-total: 1482
    draw-percent: 86
-   takeout-total: 2204
+   takeout-total: 2342
    takeout-percent: 88
-   shots-total: 3596
+   shots-total: 3824
    shots-percent: 87
 years:
  - year: 2008
@@ -306,6 +306,24 @@ years:
    takeout-percent: 88
    shots-total: 212
    shots-percent: 88
+ - year: 2026
+   event: Brier
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 106
+   inturn-percent: 89
+   outturn-total: 122
+   outturn-percent: 86
+   draw-total: 90
+   draw-percent: 88
+   takeout-total: 138
+   takeout-percent: 87
+   shots-total: 228
+   shots-percent: 87
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -321,8 +339,10 @@ vs:
  - Bedard, Alek
  - Beuk, Jonathan
  - Bezanson, Jared
+ - Bilawka, Brendan
  - Bilesky, Andrew
  - Boland, Adam
+ - Bonin-Ducharme, Olivier
  - Borden, Robert
  - Bottcher, Brendan
  - Bouchard, Christian
@@ -333,6 +353,7 @@ vs:
  - Burgess, Steve
  - Burtnyk, Kerry
  - Buyck, James
+ - Calvert, Braden
  - Camm, Mathew
  - Carmody, Anson
  - Carpenter, Brayden
@@ -340,6 +361,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Champion, Kevin
  - Chester, Corey
  - Chorostkowski, Brad
@@ -369,6 +391,7 @@ vs:
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
+ - Fadden, Coburn
  - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
@@ -433,11 +456,13 @@ vs:
  - Kohlenberg, Dale
  - Kolomaya, Jared
  - Kopf, Steve
+ - Kopytko, Mitchell
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
  - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Laing, Brent
  - Lang, Tyler
  - Latimer, Shane
@@ -455,6 +480,7 @@ vs:
  - MacDonald, Blake
  - MacDonald, Edmund
  - MacDonald, Rod
+ - MacEwan, Sandy
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
@@ -465,7 +491,7 @@ vs:
  - Manuel, Matthew
  - March, Tim
  - Markowsky, Rob
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -478,7 +504,7 @@ vs:
  - McEwen, Mike
  - McKee, Darrell
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
@@ -492,6 +518,7 @@ vs:
  - Middleton, Sterling
  - Mikkelsen, Dustin
  - Mittelstadt, Kelly
+ - Montpellier, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -515,6 +542,7 @@ vs:
  - Odishaw, Terry
  - Orme, Tyler
  - O'Rourke, Mark
+ - Ouimet, Luc
  - Palmer, Curt
  - Park, Kevin
  - Parsons, Cole
@@ -527,10 +555,12 @@ vs:
  - Rafuse, Brian
  - Reid, Serge
  - Richard, Jeff
+ - Riggs, Noah
  - Roach, Darren
  - Roach, Jason
  - Robar, Mark
  - Robinson, Andrew
+ - Robinson, Roland
  - Rowsell, Rick
  - Roy, Jean-Sebastien
  - Rycroft, Carter
@@ -563,6 +593,7 @@ vs:
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tanaka, Cody
  - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
@@ -575,6 +606,7 @@ vs:
  - Villeneuve, Steeve
  - Virtue, Brock
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
  - Webster, Dylan
  - Wettig, Sheldon

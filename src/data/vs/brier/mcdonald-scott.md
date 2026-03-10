@@ -30,7 +30,7 @@ vs:
       year: 2019
       draw: Pool(18)
       score: MB 8 - ON 4
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

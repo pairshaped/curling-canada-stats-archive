@@ -1150,7 +1150,7 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: WC 6 - WC 5
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:
@@ -1486,7 +1486,7 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: YT 2 - WC 14
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

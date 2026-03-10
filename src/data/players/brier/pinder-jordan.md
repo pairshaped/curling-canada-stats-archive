@@ -158,7 +158,7 @@ vs:
  - McCarville, Mike
  - McDonald, Scott
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
  - Menard, Jean-Michel

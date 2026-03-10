@@ -2,7 +2,7 @@
 title: Tim March Head-to-head
 name: March, Tim
 vs:
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:
@@ -1514,6 +1514,34 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: ON 4 - CA 5
+ - name: Thompson, Stuart
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'ON'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2024
+      draw: Round Robin(18)
+      score: ON 5 - NB 6
  - name: Trepanier, Jean-Francois
    totals:
     - event: Brier

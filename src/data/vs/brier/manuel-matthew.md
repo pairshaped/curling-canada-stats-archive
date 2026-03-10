@@ -2,7 +2,7 @@
 title: Matthew Manuel Head-to-head
 name: Manuel, Matthew
 vs:
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:
@@ -130,7 +130,7 @@ vs:
       year: 2024
       draw: Round Robin(9)
       score: NS 7 - SK 4
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

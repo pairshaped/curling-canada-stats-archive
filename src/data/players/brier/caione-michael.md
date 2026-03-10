@@ -37,6 +37,11 @@ years:
    team: "AB"
    position: Alternate
    alternate: true
+ - year: 2026
+   event: Brier
+   team: "CA"
+   position: Alternate
+   alternate: true
 vs:
  - Chown, Jeff
  - Howard, Greg

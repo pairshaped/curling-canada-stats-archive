@@ -204,7 +204,7 @@ vs:
  - Mallais, Jeremy
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -212,7 +212,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe

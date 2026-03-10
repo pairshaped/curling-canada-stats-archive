@@ -282,7 +282,7 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: QC 8 - PE 5
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

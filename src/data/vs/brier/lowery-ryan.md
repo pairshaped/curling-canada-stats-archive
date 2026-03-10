@@ -58,7 +58,7 @@ vs:
       year: 2022
       draw: Round Robin(15)
       score: PE 5 - ON 13
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

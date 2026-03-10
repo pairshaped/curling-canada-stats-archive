@@ -1,21 +1,21 @@
 ---
-title: Dan Marsh
-name: Dan Marsh
-name-sort: Marsh, Dan
+title: Daniel Marsh
+name: Daniel Marsh
+name-sort: Marsh, Daniel
 totals:
  - event: Brier
-   games: 46
-   wins: 30
-   losses: 16
-   inturn-total: 327
+   games: 54
+   wins: 35
+   losses: 19
+   inturn-total: 413
    inturn-percent: 89
-   outturn-total: 522
+   outturn-total: 580
    outturn-percent: 90
-   draw-total: 681
+   draw-total: 809
    draw-percent: 91
-   takeout-total: 168
+   takeout-total: 184
    takeout-percent: 83
-   shots-total: 849
+   shots-total: 993
    shots-percent: 90
 years:
  - year: 2019
@@ -90,6 +90,24 @@ years:
    takeout-percent: 80
    shots-total: 188
    shots-percent: 92
+ - year: 2026
+   event: Brier
+   team: "SK"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 86
+   inturn-percent: 91
+   outturn-total: 58
+   outturn-percent: 91
+   draw-total: 128
+   draw-percent: 93
+   takeout-total: 16
+   takeout-percent: 78
+   shots-total: 144
+   shots-percent: 91
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -98,13 +116,17 @@ vs:
  - Bartling, Aaron
  - Bassett, Norman
  - Beuk, Jonathan
+ - Bilawka, Brendan
  - Boland, Adam
+ - Bonin-Ducharme, Olivier
  - Bottcher, Brendan
  - Brassard, Philippe
  - Burgess, Steve
+ - Calvert, Braden
  - Carmody, Anson
  - Carruthers, Reid
  - Chadwick, Scott
+ - Chambers, Corey
  - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
@@ -113,6 +135,7 @@ vs:
  - Doherty, Robbie
  - Drummond, Kerr
  - Dunstone, Matt
+ - Fadden, Coburn
  - Flasch, Colton
  - Follett, Sam
  - Ford, Chris
@@ -121,6 +144,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Gauthier, Jacques
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gushue, Brad
@@ -143,6 +167,10 @@ vs:
  - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
+ - Krats, Joel
+ - Kurz, Kyle
  - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
@@ -151,6 +179,7 @@ vs:
  - Locke, Nathan
  - Lott, Colton
  - Lowery, Ryan
+ - MacEwan, Sandy
  - Manuel, Matthew
  - March, Tim
  - Martin, Karrick
@@ -159,11 +188,12 @@ vs:
  - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
  - Mitchell, Scott
+ - Montpellier, Dustin
  - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
@@ -178,6 +208,8 @@ vs:
  - Parsons, Cole
  - Preston, Eric
  - Purcell, Owen
+ - Riggs, Noah
+ - Robinson, Roland
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
@@ -194,7 +226,10 @@ vs:
  - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tanaka, Cody
+ - Tardi, Tyler
  - Thiessen, Brad
+ - Toner, Lee
  - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Walker, Geoff

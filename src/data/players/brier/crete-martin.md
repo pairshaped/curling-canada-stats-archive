@@ -4,18 +4,18 @@ name: Martin Crete
 name-sort: Crete, Martin
 totals:
  - event: Brier
-   games: 120
-   wins: 62
-   losses: 58
-   inturn-total: 717
+   games: 128
+   wins: 67
+   losses: 61
+   inturn-total: 789
    inturn-percent: 83
-   outturn-total: 1569
+   outturn-total: 1642
    outturn-percent: 83
-   draw-total: 905
+   draw-total: 965
    draw-percent: 83
-   takeout-total: 1381
+   takeout-total: 1466
    takeout-percent: 83
-   shots-total: 2286
+   shots-total: 2431
    shots-percent: 83
 years:
  - year: 2008
@@ -268,10 +268,29 @@ years:
    takeout-percent: 91
    shots-total: 152
    shots-percent: 88
+ - year: 2026
+   event: Brier
+   team: "QC"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 72
+   inturn-percent: 88
+   outturn-total: 73
+   outturn-percent: 76
+   draw-total: 60
+   draw-percent: 85
+   takeout-total: 85
+   takeout-percent: 80
+   shots-total: 145
+   shots-percent: 82
 vs:
  - Abel, Clinton
  - Abraham, Ryan
  - Adam, Gerry
+ - Aglukark, David
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
@@ -287,6 +306,7 @@ vs:
  - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
+ - Brophy, Michael
  - Burgess, Steve
  - Burtnyk, Kerry
  - Buyck, James
@@ -316,6 +336,7 @@ vs:
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
+ - Everist, Bryce
  - Farnell, Jamie
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
@@ -346,6 +367,7 @@ vs:
  - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
+ - Henry, Owen
  - Hicke, Dean
  - Hodgson, Colin
  - Horvath, Alex
@@ -361,6 +383,7 @@ vs:
  - Jensen, Trygg
  - Jewer, Keith
  - Johnson, Trevor
+ - Jones, Brennen
  - Jones, Scott
  - Jordison, Joel
  - Kammerlock, Dan
@@ -370,7 +393,9 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
  - Kleiter, Rylan
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -385,6 +410,7 @@ vs:
  - Ledgerwood, Sean
  - Likely, John
  - Lind, J.D.
+ - Locke, Nathan
  - Lohnes, Bruce
  - Lott, Colton
  - Lowery, Ryan
@@ -394,7 +420,7 @@ vs:
  - MacKenzie, Tyler
  - Mackey, Peter
  - Mallais, Jeremy
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -405,6 +431,7 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jon
@@ -426,6 +453,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Noftall, David
  - Odian, Scott
@@ -437,6 +465,7 @@ vs:
  - Park, Kevin
  - Parsons, Cole
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pillsworth, Mark
  - Pinder, Jordan
  - Preston, Eric
@@ -444,6 +473,7 @@ vs:
  - Rafuse, Brian
  - Recksiedler, Kevin
  - Richard, Jeff
+ - Ring, Mat
  - Roach, Darren
  - Roach, Jason
  - Robinson, Andrew
@@ -467,16 +497,20 @@ vs:
  - Smith, Garth
  - Smith, Greg
  - Smith, Tyler
+ - Smitheram, Christian
  - Solberg, Jon
  - Spencer, Adam
  - St.Louis, Brady
  - Steele, Nathan
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sturmay, Karsten
  - Symonds, Andrew
  - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
+ - Thompson, Kendal
  - Toner, Lee
  - Ursel, Bob
  - Vaughan, Jason
@@ -484,9 +518,11 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wiebe, Ryan
  - Wozniak, Matt
+ - Young, Nathan
 ---

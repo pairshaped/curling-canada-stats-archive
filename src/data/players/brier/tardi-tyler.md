@@ -4,19 +4,19 @@ name: Tyler Tardi
 name-sort: Tardi, Tyler
 totals:
  - event: Brier
-   games: 27
-   wins: 15
-   losses: 12
-   inturn-total: 262
-   inturn-percent: 86
-   outturn-total: 228
-   outturn-percent: 85
-   draw-total: 226
+   games: 38
+   wins: 25
+   losses: 13
+   inturn-total: 374
+   inturn-percent: 85
+   outturn-total: 320
+   outturn-percent: 84
+   draw-total: 267
    draw-percent: 85
-   takeout-total: 264
-   takeout-percent: 86
-   shots-total: 490
-   shots-percent: 86
+   takeout-total: 427
+   takeout-percent: 85
+   shots-total: 694
+   shots-percent: 85
 years:
  - year: 2021
    event: Brier
@@ -124,23 +124,48 @@ years:
    takeout-percent: 85
    shots-total: 152
    shots-percent: 86
+ - year: 2026
+   event: Brier
+   team: "AB"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 10
+   losses: 1
+   inturn-total: 112
+   inturn-percent: 83
+   outturn-total: 92
+   outturn-percent: 83
+   draw-total: 41
+   draw-percent: 82
+   takeout-total: 163
+   takeout-percent: 83
+   shots-total: 204
+   shots-percent: 83
 vs:
  - Asselin, Emile
  - Asselin, Felix
  - Bezanson, Jared
+ - Bilawka, Brendan
+ - Bonin-Ducharme, Olivier
  - Bottcher, Brendan
  - Bruce, Daniel
+ - Calvert, Braden
  - Carpenter, Brayden
  - Carruthers, Reid
+ - Chambers, Corey
  - Chester, Corey
  - Cocks, Adam
  - Crete, Martin
  - deJong, Cameron
  - Dilello, Ty
  - Dobson, Paul
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Fadden, Coburn
  - Feltham, Aaron
+ - Flasch, Colton
  - Fry, Ryan
  - Gallant, Brett
  - Gauthier, Jacques
@@ -155,39 +180,56 @@ vs:
  - Horgan, Jacob
  - Horgan, Tanner
  - Horvath, Alex
+ - Husdon, Sam
+ - Jacobs, Brad
  - Jensen, Trygg
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - King, Brian
+ - Koe, Jamie
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Krats, Joel
+ - Kurz, Kyle
  - Laing, Brent
  - Latimer, Shane
  - Latos, Evan
  - Lott, Colton
+ - MacEwan, Sandy
  - MacFadyen, Alex
  - Mallais, Jeremy
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
  - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Middleton, Sterling
  - Mikkelsen, Dustin
+ - Montpellier, Dustin
  - Moulding, Darren
  - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
  - Peech, Alexander
+ - Riggs, Noah
+ - Robinson, Roland
  - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
  - Smith, Tyler
+ - Tanaka, Cody
  - Thiessen, Brad
+ - Toner, Lee
  - Trepanier, Jean-Francois
  - Van Strien, Peter
  - Walker, Geoff
+ - Wallingham, Joe
  - Wettig, Sheldon
  - White, Edward
 ---

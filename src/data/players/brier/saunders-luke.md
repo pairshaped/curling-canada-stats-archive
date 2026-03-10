@@ -115,12 +115,12 @@ vs:
  - Latimer, Shane
  - Locke, Nathan
  - Lott, Colton
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mattern, Joshua
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Menard, Jean-Michel
  - Mitchell, Scott
  - Mooibroek, Sam

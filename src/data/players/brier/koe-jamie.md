@@ -4,19 +4,19 @@ name: Jamie Koe
 name-sort: Koe, Jamie
 totals:
  - event: Brier
-   games: 169
-   wins: 50
-   losses: 119
-   inturn-total: 1402
-   inturn-percent: 74
-   outturn-total: 1592
+   games: 177
+   wins: 52
+   losses: 125
+   inturn-total: 1473
+   inturn-percent: 73
+   outturn-total: 1661
    outturn-percent: 75
-   draw-total: 1365
+   draw-total: 1429
    draw-percent: 74
-   takeout-total: 1629
+   takeout-total: 1705
    takeout-percent: 75
-   shots-total: 2994
-   shots-percent: 75
+   shots-total: 3134
+   shots-percent: 74
 years:
  - year: 2006
    event: Brier
@@ -324,6 +324,24 @@ years:
    takeout-percent: 77
    shots-total: 165
    shots-percent: 78
+ - year: 2026
+   event: Brier
+   team: "NT"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 71
+   inturn-percent: 64
+   outturn-total: 69
+   outturn-percent: 72
+   draw-total: 64
+   draw-percent: 66
+   takeout-total: 76
+   takeout-percent: 70
+   shots-total: 140
+   shots-percent: 68
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -345,8 +363,10 @@ vs:
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
+ - Bilawka, Brendan
  - Bilesky, Andrew
  - Bitz, Scott
+ - Bonin-Ducharme, Olivier
  - Bottcher, Brendan
  - Bouchard, Christian
  - Brannen, Jamie
@@ -354,6 +374,7 @@ vs:
  - Breckon, Graham
  - Bryant, Doug
  - Burnett, Steve
+ - Calvert, Braden
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
@@ -361,6 +382,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Champion, Kevin
  - Charette, Pierre
  - Childs, Jamie
@@ -387,6 +409,7 @@ vs:
  - Elmaleh, Maxime
  - Epping, John
  - Errington, Derek
+ - Fadden, Coburn
  - Fecteau, Steve
  - Ferland, Martin
  - Fitzner-LeBlanc, Ian
@@ -465,10 +488,13 @@ vs:
  - Koivula, Colin
  - Kolomaya, Jared
  - Kopf, Steve
+ - Kopytko, Mitchell
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
+ - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Lacey, Jeff
  - Laing, Brent
  - Landry, Jeremy
@@ -485,6 +511,7 @@ vs:
  - Lyburn, Allan
  - MacDonald, Blake
  - MacDonald, Rod
+ - MacEwan, Sandy
  - MacFadyen, Alex
  - MacInnes, David
  - MacKenzie, Eddie
@@ -494,7 +521,7 @@ vs:
  - Manners, Scott
  - Manuel, Matthew
  - Markowsky, Rob
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -515,6 +542,7 @@ vs:
  - Menard, Philippe
  - Middaugh, Wayne
  - Mittelstadt, Kelly
+ - Montpellier, Dustin
  - Morgan, Tyler
  - Morris, John
  - Moskowy, Braeden
@@ -548,10 +576,12 @@ vs:
  - Recksiedler, Kevin
  - Reid, Serge
  - Richard, Jeff
+ - Riggs, Noah
  - Roach, Darren
  - Roach, Jason
  - Roberge, Francois
  - Robinson, Andrew
+ - Robinson, Ben
  - Rose, Jeff
  - Roy, Jean-Sebastien
  - Rycroft, Carter
@@ -584,6 +614,8 @@ vs:
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Tallon, Wayne
+ - Tanaka, Cody
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan

@@ -100,7 +100,7 @@ vs:
  - March, Tim
  - McCann, Andy
  - McDonald, Scott
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Moskowy, Braeden
  - Muyres, Dallan
  - Muyres, Kirk

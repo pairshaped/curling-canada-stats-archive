@@ -4,18 +4,18 @@ name: Ryan Harnden
 name-sort: Harnden, Ryan
 totals:
  - event: Brier
-   games: 190
-   wins: 131
-   losses: 59
-   inturn-total: 1474
+   games: 202
+   wins: 141
+   losses: 61
+   inturn-total: 1593
    inturn-percent: 89
-   outturn-total: 2023
+   outturn-total: 2132
    outturn-percent: 89
-   draw-total: 2594
+   draw-total: 2803
    draw-percent: 91
-   takeout-total: 903
+   takeout-total: 922
    takeout-percent: 83
-   shots-total: 3497
+   shots-total: 3725
    shots-percent: 89
 years:
  - year: 2008
@@ -306,6 +306,24 @@ years:
    takeout-percent: 88
    shots-total: 210
    shots-percent: 94
+ - year: 2026
+   event: Brier
+   team: "MB"
+   position: Lead
+   alternate: false
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 119
+   inturn-percent: 93
+   outturn-total: 109
+   outturn-percent: 91
+   draw-total: 209
+   draw-percent: 93
+   takeout-total: 19
+   takeout-percent: 87
+   shots-total: 228
+   shots-percent: 92
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -320,8 +338,10 @@ vs:
  - Bedard, Alek
  - Beuk, Jonathan
  - Bezanson, Jared
+ - Bilawka, Brendan
  - Bilesky, Andrew
  - Boland, Adam
+ - Bonin-Ducharme, Olivier
  - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
@@ -333,6 +353,7 @@ vs:
  - Burtnyk, Kerry
  - Buyck, James
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Carmody, Anson
  - Carpenter, Brayden
@@ -340,6 +361,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Champion, Kevin
  - Chester, Corey
  - Chorostkowski, Brad
@@ -362,10 +384,12 @@ vs:
  - Dion, William
  - Dobson, Paul
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
+ - Fadden, Coburn
  - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
@@ -431,11 +455,13 @@ vs:
  - Kohlenberg, Dale
  - Kolomaya, Jared
  - Kopf, Steve
+ - Kopytko, Mitchell
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
  - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Laing, Brent
  - Lang, Tyler
  - Latimer, Shane
@@ -454,6 +480,7 @@ vs:
  - MacDonald, Blake
  - MacDonald, Edmund
  - MacDonald, Rod
+ - MacEwan, Sandy
  - MacFadyen, Alex
  - MacKenzie, Eddie
  - MacKenzie, Tyler
@@ -464,7 +491,7 @@ vs:
  - Manuel, Matthew
  - March, Tim
  - Markowsky, Rob
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -478,7 +505,7 @@ vs:
  - McEwen, Mike
  - McKee, Darrell
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
@@ -492,6 +519,7 @@ vs:
  - Middleton, Sterling
  - Mikkelsen, Dustin
  - Mittelstadt, Kelly
+ - Montpellier, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -514,6 +542,7 @@ vs:
  - Odishaw, Terry
  - Orme, Tyler
  - O'Rourke, Mark
+ - Ouimet, Luc
  - Palmer, Curt
  - Park, Kevin
  - Parsons, Cole
@@ -527,10 +556,12 @@ vs:
  - Rafuse, Brian
  - Reid, Serge
  - Richard, Jeff
+ - Riggs, Noah
  - Roach, Darren
  - Roach, Jason
  - Robar, Mark
  - Robinson, Andrew
+ - Robinson, Roland
  - Rowsell, Rick
  - Roy, Jean-Sebastien
  - Rycroft, Carter
@@ -563,11 +594,13 @@ vs:
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tanaka, Cody
  - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin
  - Thomas, Jeff
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Ursel, Bob

@@ -4,18 +4,18 @@ name: Jacob Horgan
 name-sort: Horgan, Jacob
 totals:
  - event: Brier
-   games: 17
-   wins: 12
+   games: 19
+   wins: 14
    losses: 5
-   inturn-total: 153
-   inturn-percent: 83
-   outturn-total: 174
+   inturn-total: 157
+   inturn-percent: 84
+   outturn-total: 176
    outturn-percent: 88
-   draw-total: 132
-   draw-percent: 85
-   takeout-total: 195
+   draw-total: 136
+   draw-percent: 86
+   takeout-total: 197
    takeout-percent: 86
-   shots-total: 327
+   shots-total: 333
    shots-percent: 86
 years:
  - year: 2023
@@ -54,8 +54,57 @@ years:
    takeout-percent: 86
    shots-total: 158
    shots-percent: 86
+ - year: 2026
+   event: Brier
+   team: "MB"
+   position: Lead
+   alternate: true
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 3
+   inturn-percent: 92
+   outturn-total: 1
+   outturn-percent: 100
+   draw-total: 4
+   draw-percent: 94
+   shots-total: 4
+   shots-percent: 94
+ - year: 2026
+   event: Brier
+   team: "MB"
+   position: Second
+   alternate: true
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 1
+   inturn-percent: 100
+   outturn-total: 1
+   outturn-percent: 0
+   takeout-total: 2
+   takeout-percent: 50
+   shots-total: 2
+   shots-percent: 50
+ - year: 2026
+   event: Brier
+   team: Totals
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 4
+   inturn-percent: 94
+   outturn-total: 2
+   outturn-percent: 50
+   draw-total: 4
+   draw-percent: 94
+   takeout-total: 2
+   takeout-percent: 50
+   shots-total: 6
+   shots-percent: 79
 vs:
  - Armstrong, Mike
+ - Bonin-Ducharme, Olivier
  - Bottcher, Brendan
  - Bruce, Daniel
  - Carpenter, Brayden
@@ -87,18 +136,22 @@ vs:
  - Latimer, Shane
  - Locke, Nathan
  - Lott, Colton
+ - MacEwan, Sandy
  - Manuel, Matthew
  - Martin, Karrick
  - McCann, Andy
  - McDonell, Justin
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
+ - Montpellier, Dustin
  - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
+ - Ouimet, Luc
  - Parsons, Cole
  - Robertson, Stephen
+ - Robinson, Roland
  - Samagalski, Derek
  - Saunders, Luke
  - Schneider, Catlin

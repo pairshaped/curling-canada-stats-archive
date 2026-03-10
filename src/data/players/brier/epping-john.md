@@ -155,7 +155,7 @@ vs:
  - McDonald, Scott
  - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - NcNeil-Lamswood, Ryan
  - Middaugh, Wayne
  - Morris, John

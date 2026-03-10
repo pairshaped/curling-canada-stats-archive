@@ -4,19 +4,19 @@ name: Tyler Smith
 name-sort: Smith, Tyler
 totals:
  - event: Brier
-   games: 40
-   wins: 10
-   losses: 30
-   inturn-total: 362
-   inturn-percent: 73
-   outturn-total: 350
-   outturn-percent: 77
-   draw-total: 300
-   draw-percent: 74
-   takeout-total: 412
+   games: 48
+   wins: 13
+   losses: 35
+   inturn-total: 417
+   inturn-percent: 72
+   outturn-total: 436
+   outturn-percent: 75
+   draw-total: 354
+   draw-percent: 73
+   takeout-total: 499
    takeout-percent: 75
-   shots-total: 712
-   shots-percent: 75
+   shots-total: 853
+   shots-percent: 74
 years:
  - year: 2021
    event: Brier
@@ -142,6 +142,24 @@ years:
    takeout-percent: 75
    shots-total: 147
    shots-percent: 76
+ - year: 2026
+   event: Brier
+   team: "PE"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 55
+   inturn-percent: 66
+   outturn-total: 86
+   outturn-percent: 71
+   draw-total: 54
+   draw-percent: 67
+   takeout-total: 87
+   takeout-percent: 71
+   shots-total: 141
+   shots-percent: 69
 vs:
  - Abraham, Ryan
  - Arsenault, Jean-Michel
@@ -153,7 +171,9 @@ vs:
  - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
+ - Brophy, Michael
  - Camm, Mathew
+ - Casey, Adam
  - Chown, Jeff
  - Crete, Martin
  - Crowell, Phil
@@ -162,6 +182,7 @@ vs:
  - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Everist, Bryce
  - Flasch, Colton
  - Flemming, Paul
  - Follett, Sam
@@ -178,6 +199,7 @@ vs:
  - Hart, Joey
  - Harty, Jeremy
  - Hebert, Ben
+ - Henry, Owen
  - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
@@ -186,12 +208,15 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Johnson, Trevor
+ - Jones, Brennen
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
  - Kleiter, Rylan
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
@@ -203,7 +228,7 @@ vs:
  - Mallais, Jeremy
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -211,8 +236,9 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Middleton, Sterling
@@ -227,10 +253,14 @@ vs:
  - Naugler, Adam
  - Neufeld, B.J.
  - Nichols, Mark
+ - Niepage, Dylan
  - Parsons, Cole
+ - Pietrangelo, Victor
  - Preston, Eric
  - Purcell, Owen
+ - Ring, Mat
  - Saccary, Scott
+ - Samagalski, Derek
  - Saunders, Luke
  - Schneider, Catlin
  - Scoffin, Thomas
@@ -244,6 +274,8 @@ vs:
  - Sturmay, Karsten
  - Tardi, Tyler
  - Thiessen, Brad
+ - Thomas, Colin
+ - Thompson, Kendal
  - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Venance, Glenn

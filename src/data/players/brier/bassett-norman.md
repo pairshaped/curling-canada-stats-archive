@@ -44,7 +44,7 @@ vs:
  - Kleiter, Rylan
  - Laing, Brent
  - Lydiate, Gavin
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Mattern, John
  - Mattern, Joshua

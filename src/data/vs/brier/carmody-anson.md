@@ -2166,7 +2166,7 @@ vs:
       year: 2015
       draw: Round Robin(14)
       score: PE 8 - NB 4
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

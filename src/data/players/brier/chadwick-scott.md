@@ -59,11 +59,11 @@ vs:
  - Laycock, Steve
  - LeCocq, Marc
  - Mackey, Peter
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Moulding, Darren
  - Muyres, Dallan
  - Muyres, Kirk

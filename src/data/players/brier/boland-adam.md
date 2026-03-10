@@ -104,7 +104,7 @@ vs:
  - Lemay, Philippe
  - Likely, John
  - Mackey, Peter
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McDonald, Scott

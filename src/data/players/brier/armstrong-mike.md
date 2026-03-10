@@ -95,7 +95,7 @@ vs:
  - Martin, Karrick
  - McCann, Andy
  - McDermaid, Donald
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Middaugh, Wayne
  - Moulding, Darren

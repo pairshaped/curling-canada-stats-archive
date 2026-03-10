@@ -118,8 +118,8 @@ vs:
  - Horrigan, Tim
  - Houston, Neil
  - Howard, Russ
- - Hunter, Paul
  - Hritzuk, Eugene
+ - Hunter, Paul
  - Iverson, Dave
  - Jackson, Glen
  - James, Colin

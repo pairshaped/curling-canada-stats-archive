@@ -4,18 +4,18 @@ name: Colton Flasch
 name-sort: Flasch, Colton
 totals:
  - event: Brier
-   games: 95
-   wins: 64
-   losses: 31
-   inturn-total: 870
+   games: 103
+   wins: 69
+   losses: 34
+   inturn-total: 927
    inturn-percent: 84
-   outturn-total: 925
+   outturn-total: 1014
    outturn-percent: 84
-   draw-total: 759
+   draw-total: 794
    draw-percent: 84
-   takeout-total: 1036
-   takeout-percent: 85
-   shots-total: 1795
+   takeout-total: 1147
+   takeout-percent: 84
+   shots-total: 1941
    shots-percent: 84
 years:
  - year: 2014
@@ -162,6 +162,24 @@ years:
    takeout-percent: 89
    shots-total: 182
    shots-percent: 87
+ - year: 2026
+   event: Brier
+   team: "SK"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 57
+   inturn-percent: 82
+   outturn-total: 89
+   outturn-percent: 83
+   draw-total: 35
+   draw-percent: 87
+   takeout-total: 111
+   takeout-percent: 81
+   shots-total: 146
+   shots-percent: 83
 vs:
  - Abraham, Ryan
  - Aho, David
@@ -176,15 +194,19 @@ vs:
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
+ - Bilawka, Brendan
+ - Bonin-Ducharme, Olivier
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
+ - Calvert, Braden
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Childs, Jamie
  - Chorostkowski, Brad
  - Cocks, Adam
@@ -199,6 +221,7 @@ vs:
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
+ - Fadden, Coburn
  - Farnell, Jamie
  - Follett, Sam
  - Forget, Wesley
@@ -207,6 +230,7 @@ vs:
  - Gallant, Brett
  - Gallant, Chris
  - Gauthier, Jacques
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -236,7 +260,11 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
+ - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Laing, Brent
  - Latimer, Shane
  - Latos, Evan
@@ -246,13 +274,14 @@ vs:
  - Locke, Nathan
  - Lott, Colton
  - Lowery, Ryan
+ - MacEwan, Sandy
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Mallais, Jeremy
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -262,12 +291,13 @@ vs:
  - McDermaid, Donald
  - McDonald, Scott
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Mead, Jon
  - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
  - Mitchell, Scott
+ - Montpellier, Dustin
  - Mooibroek, Sam
  - Morgan, Tyler
  - Morris, John
@@ -290,8 +320,10 @@ vs:
  - Pinder, Jordan
  - Preston, Eric
  - Purcell, Owen
+ - Riggs, Noah
  - Roach, Darren
  - Roach, Jason
+ - Robinson, Roland
  - Rycroft, Carter
  - Saccary, Scott
  - Sallows, Tom
@@ -313,9 +345,12 @@ vs:
  - Stoughton, Jeff
  - Stringer, Ben
  - Sylvain, Eric
+ - Tanaka, Cody
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thompson, Stuart
+ - Toner, Lee
  - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Walker, Geoff

@@ -34,12 +34,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 73
+        percent: 83
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 75
-        wins: 0
+        percent: 78
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -58,6 +58,22 @@ vs:
       year: 2022
       draw: Round Robin(9)
       score: NL 4 - PE 6
+    - player1:
+        team: 'PE'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(5)
+      score: PE 8 - NL 9
  - name: Zachernuk, Nick
    totals:
     - event: Brier

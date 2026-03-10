@@ -226,6 +226,34 @@ vs:
       year: 2009
       draw: Round Robin(15)
       score: PE 6 - NO 8
+ - name: Robinson, Roland
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(6)
+      score: NO 6 - NT 7
  - name: Rocque, Marcel
    totals:
     - event: Brier
@@ -338,6 +366,34 @@ vs:
       year: 2009
       draw: Round Robin(9)
       score: NO 7 - SK 5
+ - name: Scoffin, Thomas
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 9 - YT 8
  - name: Sharp, Jeff
    totals:
     - event: Brier
@@ -522,6 +578,34 @@ vs:
       year: 2009
       draw: Round Robin(17)
       score: NO 6 - QC 7
+ - name: Tanaka, Cody
+   totals:
+    - event: Brier
+      player1:
+        percent: 98
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(10)
+      score: NO 11 - BC 3
  - name: Thomson, Fred
    totals:
     - event: Brier
@@ -550,4 +634,32 @@ vs:
       year: 2005
       draw: Round Robin(14)
       score: NO 3 - BC 6
+ - name: Wallingham, Joe
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(2)
+      score: NO 9 - YT 8
 ---

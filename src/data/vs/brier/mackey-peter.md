@@ -214,7 +214,7 @@ vs:
       year: 2022
       draw: Round Robin(8)
       score: NU 1 - MB 18
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

@@ -4,18 +4,18 @@ name: Sheldon Wettig
 name-sort: Wettig, Sheldon
 totals:
  - event: Brier
-   games: 29
+   games: 37
    wins: 2
-   losses: 27
-   inturn-total: 230
+   losses: 35
+   inturn-total: 285
    inturn-percent: 65
-   outturn-total: 262
+   outturn-total: 327
    outturn-percent: 74
-   draw-total: 201
+   draw-total: 255
    draw-percent: 70
-   takeout-total: 291
+   takeout-total: 357
    takeout-percent: 70
-   shots-total: 492
+   shots-total: 612
    shots-percent: 70
 years:
  - year: 2020
@@ -124,14 +124,34 @@ years:
    takeout-percent: 65
    shots-total: 134
    shots-percent: 65
+ - year: 2026
+   event: Brier
+   team: "NU"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 55
+   inturn-percent: 65
+   outturn-total: 65
+   outturn-percent: 73
+   draw-total: 54
+   draw-percent: 71
+   takeout-total: 66
+   takeout-percent: 68
+   shots-total: 120
+   shots-percent: 69
 vs:
  - Appelman, Ted
  - Armstrong, Mike
  - Arsenault, Jean-Michel
  - Asselin, Emile
+ - Asselin, Felix
  - Bedard, Alek
  - Bottcher, Brendan
  - Brassard, Philippe
+ - Brophy, Michael
  - Bruce, Daniel
  - Carpenter, Brayden
  - Carruthers, Reid
@@ -139,6 +159,7 @@ vs:
  - Chester, Corey
  - Cochrane, Bryan
  - Cocks, Adam
+ - Crete, Martin
  - Crowell, Phil
  - Cseke, Paul
  - Currie, Morgan
@@ -149,6 +170,7 @@ vs:
  - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Everist, Bryce
  - Feltham, Aaron
  - Flasch, Colton
  - Flemming, Paul
@@ -163,12 +185,18 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Harty, Jeremy
+ - Hebert, Ben
+ - Henry, Owen
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
  - Horvath, Alex
+ - Jacobs, Brad
  - Jones, Brennen
  - Kennedy, Glen
+ - Kennedy, Marc
+ - Kidby, Dustin
+ - King, Jayden
  - Kingsbury, Adam
  - Knapp, Kelly
  - Knapp, Trent
@@ -181,25 +209,29 @@ vs:
  - Lott, Colton
  - MacAulay, Ian
  - Manuel, Matthew
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
+ - Menard, Jean-Michel
  - Moulding, Darren
  - Mullen, Jesse
  - Murphy, Jamie
  - Neufeld, B.J.
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - O'Rourke, Mark
  - Ouellette, Kevin
  - Parsons, Cole
+ - Pietrangelo, Victor
  - Quevillon, Louis
+ - Ring, Mat
  - Robertson, Stephen
  - Saccary, Scott
  - Samagalski, Derek
@@ -210,8 +242,11 @@ vs:
  - Stringer, Ben
  - Tardi, Tyler
  - Thiessen, Brad
+ - Thomas, Colin
  - Thomas, Jeff
+ - Thompson, Kendal
  - Tremblay, Julien
+ - Trepanier, Jean-Francois
  - Walker, Geoff
  - Webster, Dylan
  - White, Edward

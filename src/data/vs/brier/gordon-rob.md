@@ -562,7 +562,7 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: WC 7 - AB 9
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

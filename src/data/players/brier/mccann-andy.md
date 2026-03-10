@@ -4,18 +4,18 @@ name: Andy McCann
 name-sort: McCann, Andy
 totals:
  - event: Brier
-   games: 59
-   wins: 21
-   losses: 38
-   inturn-total: 543
+   games: 67
+   wins: 26
+   losses: 41
+   inturn-total: 612
    inturn-percent: 83
-   outturn-total: 563
+   outturn-total: 644
    outturn-percent: 84
-   draw-total: 672
+   draw-total: 738
    draw-percent: 86
-   takeout-total: 434
+   takeout-total: 518
    takeout-percent: 79
-   shots-total: 1106
+   shots-total: 1256
    shots-percent: 83
 years:
  - year: 2008
@@ -167,6 +167,58 @@ years:
    takeout-percent: 83
    shots-total: 150
    shots-percent: 89
+ - year: 2026
+   event: Brier
+   team: "NB"
+   position: Second
+   alternate: false
+   games: 7
+   wins: 5
+   losses: 2
+   inturn-total: 62
+   inturn-percent: 82
+   outturn-total: 72
+   outturn-percent: 82
+   draw-total: 55
+   draw-percent: 85
+   takeout-total: 79
+   takeout-percent: 80
+   shots-total: 134
+   shots-percent: 82
+ - year: 2026
+   event: Brier
+   team: "NB"
+   position: Third
+   alternate: false
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 7
+   inturn-percent: 82
+   outturn-total: 9
+   outturn-percent: 78
+   draw-total: 11
+   draw-percent: 73
+   takeout-total: 5
+   takeout-percent: 95
+   shots-total: 16
+   shots-percent: 80
+ - year: 2026
+   event: Brier
+   team: Totals
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 69
+   inturn-percent: 82
+   outturn-total: 81
+   outturn-percent: 81
+   draw-total: 66
+   draw-percent: 83
+   takeout-total: 84
+   takeout-percent: 81
+   shots-total: 150
+   shots-percent: 82
 vs:
  - Adam, Gerry
  - Aho, David
@@ -174,15 +226,19 @@ vs:
  - Asselin, Felix
  - Bardsley, Mike
  - Barry, Josh
+ - Bilawka, Brendan
+ - Bonin-Ducharme, Olivier
  - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Bruce, Daniel
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
+ - Chambers, Corey
  - Charest, Jean-Francois
  - Chester, Corey
  - Chorostkowski, Brad
@@ -195,8 +251,10 @@ vs:
  - Desjardins, Robert
  - Dilello, Ty
  - Dion, William
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Fadden, Coburn
  - Feltham, Aaron
  - Flasch, Colton
  - Folk, Kevin
@@ -227,26 +285,32 @@ vs:
  - Jacobs, Brad
  - Janssen, Patrick
  - Jensen, Trygg
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - Kingdon, Wade
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
+ - Kurz, Kyle
  - Laing, Brent
  - Lang, Tyler
  - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
+ - Libbus, Jacob
  - Locke, Nathan
  - Lott, Colton
  - Lyburn, Allan
+ - MacEwan, Sandy
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mackey, Peter
  - Manners, Scott
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -255,13 +319,14 @@ vs:
  - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Middaugh, Wayne
  - Middleton, Sterling
  - Mikkelsen, Ray
  - Mikkelsen, Dustin
+ - Montpellier, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -279,6 +344,7 @@ vs:
  - Patzer, Brad
  - Pinder, Jordan
  - Potts, Jordan
+ - Robinson, Roland
  - Roy, Jean-Sebastien
  - Rycroft, Carter
  - Samagalski, Derek
@@ -296,10 +362,12 @@ vs:
  - St.Louis, David
  - Stringer, Ben
  - Symonds, Andrew
+ - Tanaka, Cody
  - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin
+ - Toner, Lee
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Van Strien, Peter

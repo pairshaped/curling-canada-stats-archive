@@ -4,19 +4,19 @@ name: Adam Cocks
 name-sort: Cocks, Adam
 totals:
  - event: Brier
-   games: 32
-   wins: 9
-   losses: 23
-   inturn-total: 256
-   inturn-percent: 79
-   outturn-total: 318
-   outturn-percent: 81
-   draw-total: 219
-   draw-percent: 83
-   takeout-total: 355
-   takeout-percent: 78
-   shots-total: 574
-   shots-percent: 80
+   games: 40
+   wins: 12
+   losses: 28
+   inturn-total: 347
+   inturn-percent: 78
+   outturn-total: 440
+   outturn-percent: 77
+   draw-total: 293
+   draw-percent: 80
+   takeout-total: 494
+   takeout-percent: 76
+   shots-total: 787
+   shots-percent: 77
 years:
  - year: 2022
    event: Brier
@@ -90,6 +90,24 @@ years:
    takeout-percent: 81
    shots-total: 148
    shots-percent: 82
+ - year: 2026
+   event: Brier
+   team: "PE"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 91
+   inturn-percent: 74
+   outturn-total: 122
+   outturn-percent: 68
+   draw-total: 74
+   draw-percent: 73
+   takeout-total: 139
+   takeout-percent: 69
+   shots-total: 213
+   shots-percent: 70
 vs:
  - Abraham, Ryan
  - Arsenault, Jean-Michel
@@ -100,11 +118,14 @@ vs:
  - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
+ - Brophy, Michael
+ - Casey, Adam
  - Crete, Martin
  - Delorey, D'arcy
  - Dobson, Paul
  - Drummond, Kerr
  - Dunstone, Matt
+ - Everist, Bryce
  - Flasch, Colton
  - Follett, Sam
  - Fry, Ryan
@@ -119,6 +140,7 @@ vs:
  - Hart, Joey
  - Harty, Jeremy
  - Hebert, Ben
+ - Henry, Owen
  - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
@@ -126,12 +148,15 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Johnson, Trevor
+ - Jones, Brennen
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
  - Kleiter, Rylan
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
@@ -142,13 +167,14 @@ vs:
  - Mallais, Jeremy
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - Mattern, Joshua
+ - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Middleton, Sterling
@@ -162,10 +188,14 @@ vs:
  - Naugler, Adam
  - Neufeld, B.J.
  - Nichols, Mark
+ - Niepage, Dylan
  - Parsons, Cole
+ - Pietrangelo, Victor
  - Preston, Eric
  - Purcell, Owen
+ - Ring, Mat
  - Saccary, Scott
+ - Samagalski, Derek
  - Saunders, Luke
  - Schneider, Catlin
  - Scoffin, Thomas
@@ -178,6 +208,8 @@ vs:
  - Sturmay, Karsten
  - Tardi, Tyler
  - Thiessen, Brad
+ - Thomas, Colin
+ - Thompson, Kendal
  - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Venance, Glenn

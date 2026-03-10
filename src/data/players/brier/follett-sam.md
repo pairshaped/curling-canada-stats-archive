@@ -86,12 +86,12 @@ vs:
  - Lowery, Ryan
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Morris, John
  - Moskowy, Braeden

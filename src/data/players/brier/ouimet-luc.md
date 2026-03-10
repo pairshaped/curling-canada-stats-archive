@@ -4,19 +4,19 @@ name: Luc Ouimet
 name-sort: Ouimet, Luc
 totals:
  - event: Brier
-   games: 22
-   wins: 5
-   losses: 17
-   inturn-total: 185
+   games: 26
+   wins: 7
+   losses: 19
+   inturn-total: 220
    inturn-percent: 75
-   outturn-total: 223
-   outturn-percent: 79
-   draw-total: 213
-   draw-percent: 77
-   takeout-total: 195
+   outturn-total: 259
+   outturn-percent: 81
+   draw-total: 282
+   draw-percent: 78
+   takeout-total: 197
    takeout-percent: 78
-   shots-total: 408
-   shots-percent: 77
+   shots-total: 479
+   shots-percent: 78
 years:
  - year: 2005
    event: Brier
@@ -54,6 +54,24 @@ years:
    takeout-percent: 77
    shots-total: 206
    shots-percent: 76
+ - year: 2026
+   event: Brier
+   team: "NO"
+   position: Lead
+   alternate: false
+   games: 4
+   wins: 2
+   losses: 2
+   inturn-total: 35
+   inturn-percent: 77
+   outturn-total: 36
+   outturn-percent: 91
+   draw-total: 69
+   draw-percent: 84
+   takeout-total: 2
+   takeout-percent: 100
+   shots-total: 71
+   shots-percent: 84
 vs:
  - Adams, Shawn
  - Bailey, Scott
@@ -68,9 +86,12 @@ vs:
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
+ - Drummond, Kerr
+ - Dunstone, Matt
  - Dutiaume, Randy
  - Elias, Dave
  - Elmaleh, Maxime
+ - Fadden, Coburn
  - Ferbey, Randy
  - Flemming, Paul
  - Fowler, Rob
@@ -87,24 +108,34 @@ vs:
  - Grattan, James
  - Gushue, Brad
  - Haichert, Chris
+ - Harnden, E.J.
+ - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
  - Hicke, Dean
  - Holowaychuk, Dan
+ - Horgan, Jacob
  - Horning, Deane
  - Howard, Glenn
  - Howard, Russ
  - Howard, Steven
+ - Husdon, Sam
+ - Jensen, Trygg
  - Jordison, Joel
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kilgallen, Shane
  - Koe, Jamie
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Korab, Jamie
  - Laing, Brent
  - Lohnes, Bruce
+ - Lott, Colton
  - MacDonald, Rod
  - Martin, Kevin
  - McCarrel, Graeme
+ - McLeod, Shadrach
  - Meek, Terry
  - Melnichuk, Greg
  - Menard, Jean-Michel
@@ -126,15 +157,19 @@ vs:
  - Recksiedler, Kevin
  - Roberge, Francois
  - Robinson, Andrew
+ - Robinson, Roland
  - Rocque, Marcel
  - Ryan, Keith
  - Savill, Craig
  - Schmidt, Aryn
+ - Scoffin, Thomas
  - Sharp, Jeff
  - Simmons, Pat
  - Solberg, Jon
  - Sosiak, Jim
  - Stoughton, Jeff
  - Sylvain, Eric
+ - Tanaka, Cody
  - Thomson, Fred
+ - Wallingham, Joe
 ---

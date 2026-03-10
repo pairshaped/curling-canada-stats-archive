@@ -62,13 +62,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 94
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
       player2:
-        percent: 73
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -86,6 +86,22 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: NO 10 - NT 6
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Third
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(8)
+      score: NT 3 - MB 8
  - name: Kennedy, Marc
    totals:
     - event: Brier
@@ -174,13 +190,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 94
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
       player2:
         percent: 64
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -198,6 +214,22 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: NO 10 - NT 6
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(8)
+      score: NT 3 - MB 8
  - name: Koe, Kevin
    totals:
     - event: Brier
@@ -370,6 +402,34 @@ vs:
       year: 2025
       draw: Round Robin(7)
       score: MB 7 - NO 8
+ - name: MacEwan, Sandy
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(16)
+      score: MB 9 - NO 3
  - name: Manuel, Matthew
    totals:
     - event: Brier
@@ -498,17 +558,17 @@ vs:
       year: 2025
       draw: Round Robin(17)
       score: NU 3 - NO 13
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:
-        percent: 94
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
       player2:
-        percent: 86
+        percent: 88
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -526,6 +586,22 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: NO 10 - NT 6
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(8)
+      score: NT 3 - MB 8
  - name: NcNeil-Lamswood, Ryan
    totals:
     - event: Brier
@@ -582,6 +658,34 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: NS 4 - NO 7
+ - name: Montpellier, Dustin
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(16)
+      score: MB 9 - NO 3
  - name: Neufeld, B.J.
    totals:
     - event: Brier
@@ -698,6 +802,34 @@ vs:
       year: 2025
       draw: Round Robin(11)
       score: NO 6 - MB 8
+ - name: Ouimet, Luc
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(16)
+      score: MB 9 - NO 3
  - name: Parsons, Cole
    totals:
     - event: Brier
@@ -754,6 +886,34 @@ vs:
       year: 2023
       draw: Round Robin(9)
       score: NO 10 - NT 6
+ - name: Robinson, Roland
+   totals:
+    - event: Brier
+      player1:
+        percent: 50
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(8)
+      score: NT 3 - MB 8
  - name: Samagalski, Derek
    totals:
     - event: Brier

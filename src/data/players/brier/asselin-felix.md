@@ -4,19 +4,19 @@ name: Felix Asselin
 name-sort: Asselin, Felix
 totals:
  - event: Brier
-   games: 40
-   wins: 20
-   losses: 20
-   inturn-total: 313
+   games: 48
+   wins: 25
+   losses: 23
+   inturn-total: 369
    inturn-percent: 79
-   outturn-total: 410
-   outturn-percent: 82
-   draw-total: 318
-   draw-percent: 81
-   takeout-total: 405
+   outturn-total: 498
+   outturn-percent: 81
+   draw-total: 371
+   draw-percent: 79
+   takeout-total: 496
    takeout-percent: 81
-   shots-total: 723
-   shots-percent: 81
+   shots-total: 867
+   shots-percent: 80
 years:
  - year: 2018
    event: Brier
@@ -108,14 +108,34 @@ years:
    takeout-percent: 80
    shots-total: 149
    shots-percent: 80
+ - year: 2026
+   event: Brier
+   team: "QC"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 56
+   inturn-percent: 76
+   outturn-total: 88
+   outturn-percent: 78
+   draw-total: 53
+   draw-percent: 71
+   takeout-total: 91
+   takeout-percent: 80
+   shots-total: 144
+   shots-percent: 77
 vs:
  - Abraham, Ryan
+ - Aglukark, David
  - Barry, Josh
  - Bartling, Aaron
  - Bezanson, Jared
  - Blyde, Greg
  - Borden, Robert
  - Bottcher, Brendan
+ - Brophy, Michael
  - Camm, Mathew
  - Carruthers, Reid
  - Case, Peter
@@ -129,6 +149,7 @@ vs:
  - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Everist, Bryce
  - Flasch, Colton
  - Flemming, Paul
  - Fry, Ryan
@@ -145,6 +166,7 @@ vs:
  - Harnden, Ryan
  - Hart, Joey
  - Hebert, Ben
+ - Henry, Owen
  - Hodgson, Colin
  - Horvath, Alex
  - Howard, Greg
@@ -153,13 +175,16 @@ vs:
  - Jeffrey, Chris
  - Jensen, Trygg
  - Johnson, Trevor
+ - Jones, Brennen
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
  - Kingdon, Wade
  - Kleiter, Rylan
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
@@ -168,6 +193,7 @@ vs:
  - Laycock, Steve
  - Ledgerwood, Sean
  - Lind, J.D.
+ - Locke, Nathan
  - Lott, Colton
  - Lowery, Ryan
  - MacFadyen, Alex
@@ -175,13 +201,14 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Mattern, Joshua
  - McCann, Andy
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - Meister, Nicholas
  - Middleton, Sterling
@@ -195,14 +222,17 @@ vs:
  - Naugler, Adam
  - Neufeld, B.J.
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Ouellette, Kevin
  - Parsons, Cole
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pillsworth, Mark
  - Preston, Eric
  - Purcell, Owen
  - Richard, Jeff
+ - Ring, Mat
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
@@ -210,14 +240,20 @@ vs:
  - Scoffin, Thomas
  - Smith, Greg
  - Smith, Tyler
+ - Smitheram, Christian
  - St.Louis, Brady
  - St.Louis, David
  - Steele, Nathan
+ - Stringer, Ben
  - Sturmay, Karsten
  - Tardi, Tyler
+ - Thomas, Colin
+ - Thompson, Kendal
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
  - Wiebe, Ryan
  - Wozniak, Matt
+ - Young, Nathan
 ---

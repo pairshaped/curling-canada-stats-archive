@@ -34,12 +34,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
+        percent: 87
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 81
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -58,6 +58,22 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: CA 10 - YT 4
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(18)
+      score: YT 3 - AB 6
  - name: Smith, Alex
    totals:
     - event: Brier
@@ -342,16 +358,44 @@ vs:
       year: 2024
       draw: Round Robin(10)
       score: NL 6 - YT 5
+ - name: Tanaka, Cody
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(4)
+      score: YT 7 - BC 4
  - name: Tardi, Tyler
    totals:
     - event: Brier
       player1:
-        percent: 65
+        percent: 76
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 90
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -370,6 +414,22 @@ vs:
       year: 2023
       draw: Round Robin(7)
       score: YT 6 - WC 7
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(18)
+      score: YT 3 - AB 6
  - name: Taylor, Andrew
    totals:
     - event: Brier
@@ -470,6 +530,34 @@ vs:
       year: 2024
       draw: Round Robin(10)
       score: NL 6 - YT 5
+ - name: Thompson, Stuart
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'YT'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(6)
+      score: NB 7 - YT 11
  - name: Trepanier, Jean-Francois
    totals:
     - event: Brier

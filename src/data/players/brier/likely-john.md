@@ -135,7 +135,7 @@ vs:
  - MacLean, Rob
  - MacLean, Stuart
  - MacPhee, Peter
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McCusker, Brian

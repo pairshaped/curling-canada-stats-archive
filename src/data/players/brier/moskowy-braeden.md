@@ -198,7 +198,7 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -208,7 +208,7 @@ vs:
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Mead, Jon
  - Menard, Jean-Michel
  - Menard, Philippe

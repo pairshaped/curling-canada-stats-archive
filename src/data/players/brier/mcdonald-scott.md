@@ -92,13 +92,13 @@ vs:
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McDonah, Alex
  - McDonah, Evan
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren

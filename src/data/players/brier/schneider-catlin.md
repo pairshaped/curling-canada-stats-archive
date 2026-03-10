@@ -171,7 +171,7 @@ vs:
  - Lott, Colton
  - Lowery, Ryan
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -179,7 +179,7 @@ vs:
  - McCarville, Mike
  - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Menard, Jean-Michel
@@ -216,6 +216,7 @@ vs:
  - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
+ - Thompson, Stuart
  - Trickett, Stephen
  - Van Strien, Peter
  - Walker, Geoff

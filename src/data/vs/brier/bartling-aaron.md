@@ -566,7 +566,7 @@ vs:
       year: 2025
       draw: Round Robin(4)
       score: ON 12 - NT 2
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

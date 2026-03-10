@@ -4,18 +4,18 @@ name: Colton Lott
 name-sort: Lott, Colton
 totals:
  - event: Brier
-   games: 42
-   wins: 31
-   losses: 11
-   inturn-total: 405
+   games: 54
+   wins: 41
+   losses: 13
+   inturn-total: 511
    inturn-percent: 86
-   outturn-total: 367
-   outturn-percent: 88
-   draw-total: 345
+   outturn-total: 493
+   outturn-percent: 89
+   draw-total: 423
    draw-percent: 87
-   takeout-total: 427
-   takeout-percent: 87
-   shots-total: 772
+   takeout-total: 581
+   takeout-percent: 88
+   shots-total: 1004
    shots-percent: 87
 years:
  - year: 2022
@@ -124,26 +124,50 @@ years:
    takeout-percent: 87
    shots-total: 212
    shots-percent: 87
+ - year: 2026
+   event: Brier
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 106
+   inturn-percent: 85
+   outturn-total: 126
+   outturn-percent: 91
+   draw-total: 78
+   draw-percent: 86
+   takeout-total: 154
+   takeout-percent: 89
+   shots-total: 232
+   shots-percent: 88
 vs:
  - Abraham, Ryan
  - Armstrong, Mike
  - Asselin, Felix
+ - Bilawka, Brendan
+ - Bonin-Ducharme, Olivier
  - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Bruce, Daniel
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
+ - Chambers, Corey
  - Chester, Corey
  - Crete, Martin
  - Crowell, Phil
  - deJong, Cameron
  - Dilello, Ty
  - Dobson, Paul
+ - Drummond, Kerr
  - Epping, John
+ - Fadden, Coburn
  - Feltham, Aaron
  - Flasch, Colton
  - Flemming, Paul
@@ -175,15 +199,18 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Krats, Joel
+ - Kurz, Kyle
  - Latimer, Shane
  - Latos, Evan
  - Lichty, Terry
  - Locke, Nathan
+ - MacEwan, Sandy
  - Mackey, Peter
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -191,22 +218,26 @@ vs:
  - McCarville, Mike
  - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Meister, Nicholas
  - Middleton, Sterling
+ - Montpellier, Dustin
  - Moulding, Darren
  - Nadeau, Jeff
  - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
+ - Ouimet, Luc
  - Parsons, Cole
  - Pierce, Brent
  - Pillsworth, Mark
  - Potts, Jordan
  - Richard, Jeff
+ - Riggs, Noah
+ - Robinson, Roland
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
@@ -219,10 +250,12 @@ vs:
  - St.Louis, Brady
  - Stringer, Ben
  - Symonds, Andrew
+ - Tanaka, Cody
  - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
  - Thomas, Jeff
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Van Strien, Peter

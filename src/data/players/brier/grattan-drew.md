@@ -4,15 +4,17 @@ name: Drew Grattan
 name-sort: Grattan, Drew
 totals:
  - event: Brier
-   games: 2
+   games: 3
    wins: 0
-   losses: 2
-   inturn-total: 10
-   inturn-percent: 80
-   draw-total: 10
-   draw-percent: 80
-   shots-total: 10
-   shots-percent: 80
+   losses: 3
+   inturn-total: 17
+   inturn-percent: 78
+   outturn-total: 1
+   outturn-percent: 75
+   draw-total: 18
+   draw-percent: 78
+   shots-total: 18
+   shots-percent: 78
 years:
  - year: 2024
    event: Brier
@@ -42,12 +44,32 @@ years:
    draw-percent: 81
    shots-total: 4
    shots-percent: 81
+ - year: 2026
+   event: Brier
+   team: "NB"
+   position: Lead
+   alternate: true
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 7
+   inturn-percent: 75
+   outturn-total: 1
+   outturn-percent: 75
+   draw-total: 8
+   draw-percent: 75
+   shots-total: 8
+   shots-percent: 75
 vs:
  - Bottcher, Brendan
+ - Flasch, Colton
  - Gallant, Brett
  - Gushue, Brad
  - Hebert, Ben
  - Kennedy, Marc
+ - Marsh, Daniel
+ - Marsh, Kevin
+ - McEwen, Mike
  - Nichols, Mark
  - Walker, Geoff
  - Webster, Paul

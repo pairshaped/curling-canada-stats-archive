@@ -4,18 +4,18 @@ name: Mark Nichols
 name-sort: Nichols, Mark
 totals:
  - event: Brier
-   games: 255
-   wins: 186
-   losses: 69
-   inturn-total: 2032
-   inturn-percent: 84
-   outturn-total: 2751
+   games: 266
+   wins: 195
+   losses: 71
+   inturn-total: 2123
+   inturn-percent: 85
+   outturn-total: 2864
    outturn-percent: 86
-   draw-total: 1907
+   draw-total: 1980
    draw-percent: 86
-   takeout-total: 2876
+   takeout-total: 3007
    takeout-percent: 85
-   shots-total: 4783
+   shots-total: 4987
    shots-percent: 86
 years:
  - year: 2003
@@ -396,6 +396,24 @@ years:
    takeout-percent: 88
    shots-total: 200
    shots-percent: 90
+ - year: 2026
+   event: Brier
+   team: "NL"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 91
+   inturn-percent: 91
+   outturn-total: 113
+   outturn-percent: 82
+   draw-total: 73
+   draw-percent: 84
+   takeout-total: 131
+   takeout-percent: 87
+   shots-total: 204
+   shots-percent: 86
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -433,6 +451,7 @@ vs:
  - Brannen, Jamie
  - Brassard, Philippe
  - Breckon, Graham
+ - Brophy, Michael
  - Bruce, Daniel
  - Bryant, Doug
  - Bubbs, John
@@ -488,6 +507,7 @@ vs:
  - Elmaleh, Maxime
  - Epping, John
  - Errington, Derek
+ - Everist, Bryce
  - Farnell, Jamie
  - Fawcett, Brian
  - Fecteau, Steve
@@ -550,6 +570,7 @@ vs:
  - Hebert, Ben
  - Hemmings, Guy
  - Henderson, Scott
+ - Henry, Owen
  - Hicke, Dean
  - Higgs, Jake
  - Hodgson, Colin
@@ -589,6 +610,8 @@ vs:
  - Kidby, Dustin
  - Kilgallen, Shane
  - King, Brian
+ - King, Jayden
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -612,6 +635,7 @@ vs:
  - Lequin, Bradley
  - Lind, J.D.
  - Lindsay, Tim
+ - Locke, Nathan
  - Loevenmark, Phil
  - Lohnes, Bruce
  - Lott, Colton
@@ -630,7 +654,7 @@ vs:
  - Manuel, Matthew
  - March, Tim
  - Markowsky, Rob
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -646,7 +670,7 @@ vs:
  - McDonell, Justin
  - McEwen, Mike
  - McKee, Darrell
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
@@ -680,6 +704,7 @@ vs:
  - Neufeld, Denni
  - Newson, Jamie
  - Ng, Matt
+ - Niepage, Dylan
  - Njegovan, Connor
  - Nobert, Rob
  - Odishaw, Grant
@@ -695,6 +720,7 @@ vs:
  - Pfeifer, Scott
  - Pielak, Rod
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Geoff
@@ -704,6 +730,7 @@ vs:
  - Recksiedler, Kevin
  - Reid, Serge
  - Richard, Jeff
+ - Ring, Mat
  - Roach, Darren
  - Roach, Jason
  - Roberge, Francois
@@ -745,6 +772,7 @@ vs:
  - Steele, Colten
  - Steski, John
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sturmay, Karsten
  - Sullivan, Charles Jr.
  - Sullivan, Evan
@@ -754,6 +782,8 @@ vs:
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
+ - Thompson, Kendal
  - Thompson, Stuart
  - Thomson, Fred
  - Toner, Lee
@@ -782,5 +812,6 @@ vs:
  - Wood, Brad
  - Wood, Mike
  - Wozniak, Matt
+ - Young, Nathan
  - Zachernuk, Nick
 ---

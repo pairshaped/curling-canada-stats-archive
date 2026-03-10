@@ -104,4 +104,5 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
+ - Thompson, Stuart
 ---

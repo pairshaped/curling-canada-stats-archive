@@ -153,14 +153,14 @@ vs:
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Manuel, Matthew
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Morris, John
  - Moskowy, Braeden

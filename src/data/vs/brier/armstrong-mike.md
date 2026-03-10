@@ -1170,7 +1170,7 @@ vs:
       year: 2012
       draw: Round Robin(11)
       score: SK 7 - NS 10
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

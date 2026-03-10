@@ -58,7 +58,7 @@ vs:
  - Laycock, Steve
  - McCann, Andy
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Moskowy, Braeden
  - Nerpin, Andrew
  - Neufeld, B.J.

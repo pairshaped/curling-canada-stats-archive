@@ -4,18 +4,18 @@ name: Brendan Bottcher
 name-sort: Bottcher, Brendan
 totals:
  - event: Brier
-   games: 123
-   wins: 86
-   losses: 37
-   inturn-total: 1169
-   inturn-percent: 86
-   outturn-total: 1085
+   games: 134
+   wins: 95
+   losses: 39
+   inturn-total: 1253
+   inturn-percent: 85
+   outturn-total: 1205
    outturn-percent: 85
-   draw-total: 864
+   draw-total: 959
    draw-percent: 84
-   takeout-total: 1390
+   takeout-total: 1499
    takeout-percent: 86
-   shots-total: 2254
+   shots-total: 2458
    shots-percent: 85
 years:
  - year: 2017
@@ -198,6 +198,24 @@ years:
    takeout-percent: 89
    shots-total: 206
    shots-percent: 89
+ - year: 2026
+   event: Brier
+   team: "NL"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 84
+   inturn-percent: 82
+   outturn-total: 120
+   outturn-percent: 84
+   draw-total: 95
+   draw-percent: 83
+   takeout-total: 109
+   takeout-percent: 84
+   shots-total: 204
+   shots-percent: 84
 vs:
  - Abel, Clinton
  - Aho, David
@@ -211,6 +229,7 @@ vs:
  - Bonot, Trevor
  - Borden, Robert
  - Brannen, Jamie
+ - Brophy, Michael
  - Bruce, Daniel
  - Burgess, Steve
  - Byrd, Kurtis
@@ -235,6 +254,7 @@ vs:
  - Doherty, Robbie
  - Dunstone, Matt
  - Epping, John
+ - Everist, Bryce
  - Fecteau, Steve
  - Feltham, Aaron
  - Flasch, Colton
@@ -260,6 +280,7 @@ vs:
  - Hart, Joey
  - Hart, Richard
  - Hebert, Ben
+ - Henry, Owen
  - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Jacob
@@ -272,11 +293,14 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Jewer, Keith
+ - Jones, Brennen
  - Jones, Scott
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -298,7 +322,7 @@ vs:
  - MacFadyen, Alex
  - Mallais, Jeremy
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -328,15 +352,18 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - O'Rourke, Mark
  - Patzer, Brad
  - Peech, Alexander
+ - Pietrangelo, Victor
  - Pinder, Jordan
  - Potts, Jordan
  - Quevillon, Louis
  - Rach, Dave
  - Richard, Jeff
+ - Ring, Mat
  - Saccary, Scott
  - Samagalski, Derek
  - Sawatsky, Rick
@@ -360,6 +387,8 @@ vs:
  - Tardi, Tyler
  - Taylor, Andrew
  - Thomas, Colin
+ - Thompson, Kendal
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Van Strien, Peter

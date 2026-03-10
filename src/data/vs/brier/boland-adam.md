@@ -506,7 +506,7 @@ vs:
       year: 2021
       draw: Round Robin(13)
       score: NL 9 - NU 2
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

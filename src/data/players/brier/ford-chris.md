@@ -52,7 +52,7 @@ vs:
  - Jacobs, Brad
  - Lemay, Philippe
  - Likely, John
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McEwen, Mike

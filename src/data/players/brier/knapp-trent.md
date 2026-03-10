@@ -36,6 +36,11 @@ years:
    takeout-percent: 76
    shots-total: 145
    shots-percent: 90
+ - year: 2026
+   event: Brier
+   team: "SK"
+   position: Alternate
+   alternate: true
 vs:
  - Carruthers, Reid
  - Dunstone, Matt
@@ -53,7 +58,7 @@ vs:
  - Lott, Colton
  - Manuel, Matthew
  - Martin, Karrick
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Moulding, Darren
  - Neufeld, B.J.

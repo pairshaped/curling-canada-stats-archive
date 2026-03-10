@@ -4,18 +4,18 @@ name: Thomas Scoffin
 name-sort: Scoffin, Thomas
 totals:
  - event: Brier
-   games: 47
-   wins: 11
-   losses: 36
-   inturn-total: 391
+   games: 55
+   wins: 12
+   losses: 43
+   inturn-total: 456
    inturn-percent: 75
-   outturn-total: 454
-   outturn-percent: 73
-   draw-total: 377
+   outturn-total: 538
+   outturn-percent: 74
+   draw-total: 438
    draw-percent: 73
-   takeout-total: 468
+   takeout-total: 556
    takeout-percent: 75
-   shots-total: 845
+   shots-total: 994
    shots-percent: 74
 years:
  - year: 2018
@@ -126,6 +126,24 @@ years:
    takeout-percent: 79
    shots-total: 149
    shots-percent: 78
+ - year: 2026
+   event: Brier
+   team: "YT"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 65
+   inturn-percent: 75
+   outturn-total: 84
+   outturn-percent: 76
+   draw-total: 61
+   draw-percent: 77
+   takeout-total: 88
+   takeout-percent: 75
+   shots-total: 149
+   shots-percent: 76
 vs:
  - Abraham, Ryan
  - Aho, David
@@ -134,13 +152,17 @@ vs:
  - Asselin, Felix
  - Bartling, Aaron
  - Bezanson, Jared
+ - Bilawka, Brendan
+ - Bonin-Ducharme, Olivier
  - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Carruthers, Reid
+ - Chambers, Corey
  - Chorostkowski, Brad
  - Cocks, Adam
  - Cotter, Jim
@@ -150,6 +172,7 @@ vs:
  - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
+ - Fadden, Coburn
  - Flasch, Colton
  - Flemming, Paul
  - Follett, Sam
@@ -177,6 +200,7 @@ vs:
  - Janssen, Patrick
  - Johnson, Trevor
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
@@ -184,18 +208,22 @@ vs:
  - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Krats, Joel
+ - Kurz, Kyle
  - Laing, Brent
  - Laycock, Steve
  - Lind, J.D.
  - Locke, Nathan
  - Lott, Colton
  - Lowery, Ryan
+ - MacEwan, Sandy
  - MacFadyen, Alex
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -203,10 +231,11 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Menard, Jean-Michel
  - Middleton, Sterling
  - Mitchell, Scott
+ - Montpellier, Dustin
  - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
@@ -220,11 +249,14 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Ouimet, Luc
  - Parsons, Cole
  - Potts, Jordan
  - Preston, Eric
  - Purcell, Owen
  - Richard, Jeff
+ - Riggs, Noah
+ - Robinson, Roland
  - Rycroft, Carter
  - Saccary, Scott
  - Sallows, Tom
@@ -244,10 +276,12 @@ vs:
  - Stringer, Ben
  - Sturmay, Karsten
  - Symonds, Andrew
+ - Tanaka, Cody
  - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thomas, Colin
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Venance, Glenn

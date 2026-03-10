@@ -838,7 +838,7 @@ vs:
       year: 2018
       draw: Round Robin(11)
       score: ON 11 - PE 4
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:
@@ -1070,7 +1070,7 @@ vs:
       year: 2025
       draw: Round Robin(2)
       score: PE 4 - SK 6
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

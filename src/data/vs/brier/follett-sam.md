@@ -662,7 +662,7 @@ vs:
       year: 2022
       draw: Round Robin(13)
       score: ON 7 - NL 3
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:
@@ -818,7 +818,7 @@ vs:
       year: 2022
       draw: Round Robin(5)
       score: NL 4 - NB 9
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

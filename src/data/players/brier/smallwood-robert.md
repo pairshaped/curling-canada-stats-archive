@@ -53,7 +53,7 @@ vs:
  - Jewer, Keith
  - Lemay, Philippe
  - Likely, John
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McEwen, Mike

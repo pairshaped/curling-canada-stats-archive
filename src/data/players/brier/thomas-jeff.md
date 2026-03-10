@@ -4,18 +4,18 @@ name: Jeff Thomas
 name-sort: Thomas, Jeff
 totals:
  - event: Brier
-   games: 37
+   games: 38
    wins: 11
-   losses: 26
-   inturn-total: 338
+   losses: 27
+   inturn-total: 340
    inturn-percent: 75
    outturn-total: 310
    outturn-percent: 68
-   draw-total: 317
+   draw-total: 319
    draw-percent: 69
    takeout-total: 331
    takeout-percent: 74
-   shots-total: 648
+   shots-total: 650
    shots-percent: 72
 years:
  - year: 1984
@@ -143,6 +143,20 @@ years:
    takeout-percent: 96
    shots-total: 28
    shots-percent: 84
+ - year: 2026
+   event: Brier
+   team: "NL"
+   position: Lead
+   alternate: true
+   games: 1
+   wins: 0
+   losses: 1
+   inturn-total: 2
+   inturn-percent: 100
+   draw-total: 2
+   draw-percent: 100
+   shots-total: 2
+   shots-percent: 100
 vs:
  - Aitken, Don
  - Armstrong, Jim
@@ -153,6 +167,7 @@ vs:
  - Belliveau, Dan
  - Belyea, Richard
  - Biron, Louis
+ - Brophy, Michael
  - Brown, Ken
  - Bryden, Gary
  - Bubbs, John
@@ -176,6 +191,7 @@ vs:
  - Duce, Dallas
  - Dunstone, Matt
  - Ernst, Georg
+ - Everist, Bryce
  - Ferguson, John
  - Fletcher, Bill
  - Foss, Wilf
@@ -265,6 +281,7 @@ vs:
  - Sutherland, Cy
  - Syme, Brent
  - Tetley, Ian
+ - Thompson, Kendal
  - Thompson, Ron
  - Toews, Brian
  - Trenchie, Gord

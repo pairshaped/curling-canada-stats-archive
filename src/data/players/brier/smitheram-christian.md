@@ -4,19 +4,19 @@ name: Christian Smitheram
 name-sort: Smitheram, Christian
 totals:
  - event: Brier
-   games: 20
+   games: 28
    wins: 2
-   losses: 18
-   inturn-total: 129
-   inturn-percent: 68
-   outturn-total: 201
-   outturn-percent: 74
-   draw-total: 282
-   draw-percent: 74
-   takeout-total: 48
+   losses: 26
+   inturn-total: 189
+   inturn-percent: 65
+   outturn-total: 277
+   outturn-percent: 70
+   draw-total: 362
+   draw-percent: 71
+   takeout-total: 104
    takeout-percent: 57
-   shots-total: 330
-   shots-percent: 72
+   shots-total: 466
+   shots-percent: 68
 years:
  - year: 2020
    event: Brier
@@ -140,18 +140,40 @@ years:
    takeout-percent: 79
    shots-total: 136
    shots-percent: 81
+ - year: 2026
+   event: Brier
+   team: "NU"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 60
+   inturn-percent: 59
+   outturn-total: 76
+   outturn-percent: 59
+   draw-total: 80
+   draw-percent: 59
+   takeout-total: 56
+   takeout-percent: 58
+   shots-total: 136
+   shots-percent: 59
 vs:
  - Armstrong, Mike
  - Arsenault, Jean-Michel
  - Asselin, Emile
+ - Asselin, Felix
  - Bedard, Alek
  - Bottcher, Brendan
  - Brassard, Philippe
+ - Brophy, Michael
  - Carruthers, Reid
  - Casey, Adam
  - Cocks, Adam
+ - Crete, Martin
  - Drummond, Kerr
  - Dunstone, Matt
+ - Everist, Bryce
  - Flasch, Colton
  - Forrest, Alex
  - Gallant, Brett
@@ -163,6 +185,8 @@ vs:
  - Harnden, E.J.
  - Harnden, Ryan
  - Harty, Jeremy
+ - Hebert, Ben
+ - Henry, Owen
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
@@ -170,6 +194,8 @@ vs:
  - Jones, Brennen
  - Kennedy, Glen
  - Kennedy, Marc
+ - Kidby, Dustin
+ - King, Jayden
  - Knapp, Kelly
  - Knapp, Trent
  - Koe, Jamie
@@ -178,19 +204,23 @@ vs:
  - Locke, Nathan
  - Lott, Colton
  - Manuel, Matthew
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
+ - Menard, Jean-Michel
  - Moulding, Darren
  - Mullen, Jesse
  - Neufeld, B.J.
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Parsons, Cole
+ - Pietrangelo, Victor
  - Quevillon, Louis
+ - Ring, Mat
  - Robertson, Stephen
  - Samagalski, Derek
  - Saunders, Luke
@@ -198,9 +228,12 @@ vs:
  - Smith, Tyler
  - Stringer, Ben
  - Thiessen, Brad
+ - Thomas, Colin
  - Thomas, Jeff
+ - Thompson, Kendal
  - Toner, Lee
  - Tremblay, Julien
+ - Trepanier, Jean-Francois
  - Walker, Geoff
  - Webster, Dylan
  - White, Edward

@@ -422,7 +422,7 @@ vs:
  - Manners, Scott
  - March, Tim
  - Markowsky, Rob
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -435,7 +435,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
  - Menard, Jean-Michel

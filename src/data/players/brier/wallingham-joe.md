@@ -4,18 +4,18 @@ name: Joe Wallingham
 name-sort: Wallingham, Joe
 totals:
  - event: Brier
-   games: 35
-   wins: 9
-   losses: 26
-   inturn-total: 219
-   inturn-percent: 78
-   outturn-total: 364
-   outturn-percent: 82
-   draw-total: 420
-   draw-percent: 83
-   takeout-total: 163
+   games: 43
+   wins: 10
+   losses: 33
+   inturn-total: 259
+   inturn-percent: 79
+   outturn-total: 474
+   outturn-percent: 83
+   draw-total: 561
+   draw-percent: 84
+   takeout-total: 172
    takeout-percent: 74
-   shots-total: 583
+   shots-total: 733
    shots-percent: 81
 years:
  - year: 2020
@@ -142,6 +142,24 @@ years:
    takeout-percent: 80
    shots-total: 151
    shots-percent: 83
+ - year: 2026
+   event: Brier
+   team: "YT"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 40
+   inturn-percent: 80
+   outturn-total: 110
+   outturn-percent: 85
+   draw-total: 141
+   draw-percent: 84
+   takeout-total: 9
+   takeout-percent: 78
+   shots-total: 150
+   shots-percent: 84
 vs:
  - Abraham, Ryan
  - Aho, David
@@ -150,12 +168,16 @@ vs:
  - Asselin, Felix
  - Bartling, Aaron
  - Bezanson, Jared
+ - Bilawka, Brendan
+ - Bonin-Ducharme, Olivier
  - Bonot, Trevor
  - Bottcher, Brendan
  - Brannen, Jamie
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Carruthers, Reid
+ - Chambers, Corey
  - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
@@ -163,6 +185,7 @@ vs:
  - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
+ - Fadden, Coburn
  - Flasch, Colton
  - Follett, Sam
  - Fry, Ryan
@@ -173,6 +196,7 @@ vs:
  - Gordon, Rob
  - Grattan, James
  - Hall, Matthew
+ - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Joey
  - Hebert, Ben
@@ -184,22 +208,27 @@ vs:
  - Janssen, Patrick
  - Johnson, Trevor
  - Jones, Scott
+ - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
  - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Krats, Joel
+ - Kurz, Kyle
  - Laing, Brent
  - Laycock, Steve
  - Locke, Nathan
  - Lott, Colton
  - Lowery, Ryan
+ - MacEwan, Sandy
  - MacFadyen, Alex
  - Mallais, Jeremy
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -207,10 +236,11 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Menard, Jean-Michel
  - Middleton, Sterling
  - Mitchell, Scott
+ - Montpellier, Dustin
  - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
@@ -219,10 +249,13 @@ vs:
  - Naugler, Adam
  - Nerpin, Andrew
  - Neufeld, B.J.
+ - Ouimet, Luc
  - Parsons, Cole
  - Potts, Jordan
  - Preston, Eric
  - Purcell, Owen
+ - Riggs, Noah
+ - Robinson, Roland
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
@@ -235,7 +268,10 @@ vs:
  - Spencer, Adam
  - Steele, Nathan
  - Stringer, Ben
+ - Tanaka, Cody
+ - Tardi, Tyler
  - Thiessen, Brad
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - White, Edward
  - Wiebe, Ryan

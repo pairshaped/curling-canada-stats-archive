@@ -1670,7 +1670,7 @@ vs:
       year: 2012
       draw: Round Robin(4)
       score: SK 5 - BC 6
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

@@ -4,18 +4,18 @@ name: Ben Hebert
 name-sort: Hebert, Ben
 totals:
  - event: Brier
-   games: 206
-   wins: 153
-   losses: 53
-   inturn-total: 866
+   games: 217
+   wins: 161
+   losses: 56
+   inturn-total: 951
    inturn-percent: 88
-   outturn-total: 2849
+   outturn-total: 2970
    outturn-percent: 92
-   draw-total: 3287
+   draw-total: 3483
    draw-percent: 92
-   takeout-total: 428
-   takeout-percent: 80
-   shots-total: 3715
+   takeout-total: 438
+   takeout-percent: 81
+   shots-total: 3921
    shots-percent: 91
 years:
  - year: 2005
@@ -358,10 +358,29 @@ years:
    takeout-percent: 82
    shots-total: 242
    shots-percent: 93
+ - year: 2026
+   event: Brier
+   team: "CA"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 85
+   inturn-percent: 93
+   outturn-total: 121
+   outturn-percent: 91
+   draw-total: 196
+   draw-percent: 92
+   takeout-total: 10
+   takeout-percent: 95
+   shots-total: 206
+   shots-percent: 92
 vs:
  - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
+ - Aglukark, David
  - Aho, David
  - Ardiel, Taylor
  - Asselin, Emile
@@ -375,6 +394,7 @@ vs:
  - Berthelot, Marco
  - Beuk, Jonathan
  - Bezanson, Jared
+ - Bilawka, Brendan
  - Bilesky, Andrew
  - Bitz, Scott
  - Blanchard, Wade
@@ -385,12 +405,14 @@ vs:
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
+ - Brophy, Michael
  - Bryant, Doug
  - Burgess, Craig
  - Burnett, Steve
  - Burtnyk, Kerry
  - Buyck, James
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
@@ -398,6 +420,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Champion, Kevin
  - Charette, Pierre
  - Chorostkowski, Brad
@@ -422,6 +445,7 @@ vs:
  - Doering, Kyle
  - Doherty, Robbie
  - Drummond, Kerr
+ - Dunlop, Spencer
  - Dunstone, Matt
  - Dutiaume, Randy
  - Eldridge, Zach
@@ -429,6 +453,7 @@ vs:
  - Elmaleh, Maxime
  - Epping, John
  - Errington, Derek
+ - Everist, Bryce
  - Ferbey, Randy
  - Ferland, Martin
  - Fitzner-LeBlanc, Ian
@@ -474,6 +499,7 @@ vs:
  - Hart, Joey
  - Hart, Richard
  - Harvey, Don
+ - Henry, Owen
  - Herrick, Aron
  - Hicke, Dean
  - Hodgson, Colin
@@ -508,14 +534,17 @@ vs:
  - Kidby, Dustin
  - Kilgallen, Shane
  - King, Brian
+ - King, Jayden
  - Kleiter, Rylan
  - Klitch, Tyler
  - Knapp, Kelly
  - Koe, Jamie
+ - Koe, Kevin
  - Kopf, Steve
  - Korab, Jamie
  - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Lacey, Jeff
  - Laing, Brent
  - Landry, Jeremy
@@ -538,7 +567,7 @@ vs:
  - MacLean, Stuart
  - Mallais, Jeremy
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -552,8 +581,9 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
  - Melnichuk, Greg
@@ -582,6 +612,7 @@ vs:
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Nobert, Rob
  - Noftall, David
@@ -597,6 +628,7 @@ vs:
  - Pfeifer, Scott
  - Pielak, Rod
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pinder, Jordan
  - Porter, Geoff
  - Porter, Ryan
@@ -605,6 +637,7 @@ vs:
  - Purcell, Owen
  - Rafuse, Brian
  - Recksiedler, Kevin
+ - Ring, Mat
  - Roach, Darren
  - Roach, Jason
  - Roberge, Francois
@@ -628,11 +661,13 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Slauenwhite, David
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smith, Garth
  - Smith, Greg
  - Smith, Kent
  - Smith, Tyler
+ - Smitheram, Christian
  - Solberg, Jon
  - Sosiak, Jim
  - Spencer, Adam
@@ -650,6 +685,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin
+ - Thompson, Kendal
  - Thompson, Stuart
  - Thomson, Fred
  - Toner, Lee
@@ -664,6 +700,7 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark

@@ -1894,7 +1894,7 @@ vs:
       year: 2020
       draw: Tie-Breaker(19)
       score: ON 7 - WC 6
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

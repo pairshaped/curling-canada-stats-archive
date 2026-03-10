@@ -84,11 +84,11 @@ vs:
  - Latimer, Shane
  - Locke, Nathan
  - Lott, Colton
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Moulding, Darren
  - Mullen, Jesse
  - Neufeld, B.J.

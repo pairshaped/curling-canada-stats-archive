@@ -301,7 +301,7 @@ vs:
  - Mallais, Jeremy
  - Manners, Scott
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -312,7 +312,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
  - Menard, Jean-Michel

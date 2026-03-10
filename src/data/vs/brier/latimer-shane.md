@@ -86,7 +86,7 @@ vs:
       year: 2024
       draw: Round Robin(13)
       score: NS 5 - NU 7
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:
@@ -242,7 +242,7 @@ vs:
       year: 2024
       draw: Round Robin(15)
       score: NU 3 - SK 9
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

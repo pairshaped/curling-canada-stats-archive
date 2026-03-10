@@ -63,5 +63,6 @@ vs:
  - MacFadyen, Alex
  - McCann, Andy
  - Smith, Tyler
+ - Thompson, Stuart
  - White, Edward
 ---

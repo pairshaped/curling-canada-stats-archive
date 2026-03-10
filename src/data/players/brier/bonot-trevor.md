@@ -67,6 +67,7 @@ vs:
  - Smith, Alex
  - Symonds, Andrew
  - Thomas, Colin
+ - Thompson, Stuart
  - Trickett, Stephen
  - Wallingham, Joe
 ---

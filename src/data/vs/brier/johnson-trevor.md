@@ -30,7 +30,7 @@ vs:
       year: 2025
       draw: Round Robin(10)
       score: SK 3 - AB 6
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

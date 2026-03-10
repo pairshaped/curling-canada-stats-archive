@@ -56,7 +56,7 @@ vs:
  - LeCocq, Marc
  - MacPhee, Bill
  - McDonald, Scott
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Neufeld, B.J.
  - Ng, Matt
  - Nichols, Mark

@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 65
+        percent: 56
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 68
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -30,6 +30,22 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: NU 7 - NL 4
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 46
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(1)
+      score: NL 8 - NU 4
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -58,6 +74,34 @@ vs:
       year: 2020
       draw: Round Robin(3)
       score: NU 4 - AB 9
+ - name: Thomas, Colin
+   totals:
+    - event: Brier
+      player1:
+        percent: 46
+        wins: 0
+        losses: 1
+      player2:
+        percent: 73
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 46
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 73
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(1)
+      score: NL 8 - NU 4
  - name: Thomas, Jeff
    totals:
     - event: Brier
@@ -102,6 +146,34 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: NU 7 - NL 4
+ - name: Thompson, Kendal
+   totals:
+    - event: Brier
+      player1:
+        percent: 59
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 59
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(17)
+      score: NU 2 - NS 12
  - name: Toner, Lee
    totals:
     - event: Brier
@@ -158,16 +230,44 @@ vs:
       year: 2024
       draw: Round Robin(3)
       score: QC 11 - NU 4
+ - name: Trepanier, Jean-Francois
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(13)
+      score: QC 16 - NU 6
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 73
+        percent: 69
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 95
-        wins: 2
+        percent: 93
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -202,6 +302,22 @@ vs:
       year: 2024
       draw: Round Robin(11)
       score: NU 3 - CA 8
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 63
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(3)
+      score: NL 10 - NU 2
  - name: Webster, Dylan
    totals:
     - event: Brier
@@ -234,12 +350,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
+        percent: 68
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 86
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -258,16 +374,32 @@ vs:
       year: 2024
       draw: Round Robin(7)
       score: NU 3 - PE 10
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 53
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(7)
+      score: NU 5 - PE 10
  - name: Young, Nathan
    totals:
     - event: Brier
       player1:
-        percent: 65
+        percent: 56
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 71
-        wins: 0
+        percent: 75
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -286,6 +418,22 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: NU 7 - NL 4
+    - player1:
+        team: 'NU'
+        position: Second
+        percent: 46
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(1)
+      score: NL 8 - NU 4
  - name: Zachernuk, Nick
    totals:
     - event: Brier

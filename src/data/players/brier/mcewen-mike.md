@@ -4,18 +4,18 @@ name: Mike McEwen
 name-sort: McEwen, Mike
 totals:
  - event: Brier
-   games: 112
-   wins: 71
-   losses: 41
-   inturn-total: 887
+   games: 120
+   wins: 76
+   losses: 44
+   inturn-total: 940
    inturn-percent: 84
-   outturn-total: 1173
-   outturn-percent: 86
-   draw-total: 804
+   outturn-total: 1264
+   outturn-percent: 85
+   draw-total: 850
    draw-percent: 86
-   takeout-total: 1256
+   takeout-total: 1354
    takeout-percent: 84
-   shots-total: 2060
+   shots-total: 2204
    shots-percent: 85
 years:
  - year: 2016
@@ -198,6 +198,24 @@ years:
    takeout-percent: 88
    shots-total: 185
    shots-percent: 88
+ - year: 2026
+   event: Brier
+   team: "SK"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 53
+   inturn-percent: 76
+   outturn-total: 91
+   outturn-percent: 83
+   draw-total: 46
+   draw-percent: 82
+   takeout-total: 98
+   takeout-percent: 80
+   shots-total: 144
+   shots-percent: 81
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -210,17 +228,21 @@ vs:
  - Bassett, Norman
  - Beuk, Jonathan
  - Bezanson, Jared
+ - Bilawka, Brendan
  - Boland, Adam
+ - Bonin-Ducharme, Olivier
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
  - Burgess, Steve
+ - Calvert, Braden
  - Camm, Mathew
  - Carmody, Anson
  - Carruthers, Reid
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Chester, Corey
  - Chorostkowski, Brad
  - Cocks, Adam
@@ -234,6 +256,7 @@ vs:
  - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Fadden, Coburn
  - Fecteau, Steve
  - Flasch, Colton
  - Flemming, Paul
@@ -248,6 +271,7 @@ vs:
  - Geall, Sean
  - Ginter, Jason
  - Goller, Kurtis
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -280,7 +304,10 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
+ - Kopytko, Mitchell
+ - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Laing, Brent
  - Latimer, Shane
  - Latos, Evan
@@ -290,12 +317,13 @@ vs:
  - Likely, John
  - Lind, J.D.
  - Lott, Colton
+ - MacEwan, Sandy
  - MacFadyen, Alex
  - Mackey, Peter
  - Mallais, Jeremy
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -303,7 +331,7 @@ vs:
  - McCann, Andy
  - McDonald, Scott
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Meagher, Jeffrey
  - Meister, Nicholas
@@ -313,6 +341,7 @@ vs:
  - Middleton, Sterling
  - Mikkelsen, Dustin
  - Mitchell, Scott
+ - Montpellier, Dustin
  - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
@@ -338,6 +367,8 @@ vs:
  - Purcell, Owen
  - Rach, Dave
  - Richard, Jeff
+ - Riggs, Noah
+ - Robinson, Roland
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
@@ -361,10 +392,12 @@ vs:
  - Sturmay, Karsten
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tanaka, Cody
  - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Toner, Lee
  - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Van Strien, Peter

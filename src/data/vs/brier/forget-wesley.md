@@ -422,7 +422,7 @@ vs:
       year: 2019
       draw: Round Robin(6)
       score: NU 2 - ON 9
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:
@@ -534,7 +534,7 @@ vs:
       year: 2019
       draw: Pool(18)
       score: MB 8 - ON 4
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

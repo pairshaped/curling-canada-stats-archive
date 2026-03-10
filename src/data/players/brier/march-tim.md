@@ -145,7 +145,7 @@ vs:
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
@@ -183,6 +183,7 @@ vs:
  - Stringer, Ben
  - Symonds, Andrew
  - Thiessen, Brad
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Walker, Geoff

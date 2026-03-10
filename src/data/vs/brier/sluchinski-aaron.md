@@ -102,6 +102,62 @@ vs:
       year: 2024
       draw: Round Robin(5)
       score: AB 12 - NU 10
+ - name: Tanaka, Cody
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(16)
+      score: BC 4 - AB 11
+ - name: Toner, Lee
+   totals:
+    - event: Brier
+      player1:
+        percent: 72
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 72
+        win: 1
+        loss: 0
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(14)
+      score: AB 8 - NO 2
  - name: Tremblay, Julien
    totals:
     - event: Brier
@@ -206,13 +262,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 81
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 84
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -230,6 +286,22 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: CA 10 - YT 4
+    - player1:
+        team: 'AB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 92
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2026
+      draw: Round Robin(18)
+      score: YT 3 - AB 6
  - name: Wettig, Sheldon
    totals:
     - event: Brier

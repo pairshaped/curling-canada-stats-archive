@@ -282,7 +282,7 @@ vs:
       year: 2006
       draw: Round Robin(2)
       score: NL 11 - NO 6
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

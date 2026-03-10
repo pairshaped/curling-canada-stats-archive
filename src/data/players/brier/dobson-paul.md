@@ -214,7 +214,7 @@ vs:
  - MacDonald, Peter
  - MacDonald, Rod
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -223,7 +223,7 @@ vs:
  - McCarville, Mike
  - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Melnichuk, Greg

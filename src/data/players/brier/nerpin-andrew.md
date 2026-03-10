@@ -153,7 +153,7 @@ vs:
  - McCann, Andy
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Middaugh, Wayne
  - Mikkelsen, Dustin
  - Moskowy, Braeden

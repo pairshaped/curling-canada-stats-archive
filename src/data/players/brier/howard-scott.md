@@ -281,7 +281,7 @@ vs:
  - MacKenzie, Eddie
  - MacKenzie, Tyler
  - Mallais, Jeremy
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -334,6 +334,7 @@ vs:
  - Symonds, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thompson, Stuart
  - Trickett, Stephen
  - Villeneuve, Steeve
  - Walker, Geoff

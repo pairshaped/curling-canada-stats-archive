@@ -4,19 +4,19 @@ name: Jean-Michel Menard
 name-sort: Menard, Jean-Michel
 totals:
  - event: Brier
-   games: 127
-   wins: 69
-   losses: 58
-   inturn-total: 741
-   inturn-percent: 79
-   outturn-total: 1658
-   outturn-percent: 82
-   draw-total: 1012
+   games: 135
+   wins: 74
+   losses: 61
+   inturn-total: 792
+   inturn-percent: 80
+   outturn-total: 1753
+   outturn-percent: 83
+   draw-total: 1051
    draw-percent: 80
-   takeout-total: 1387
-   takeout-percent: 82
-   shots-total: 2399
-   shots-percent: 81
+   takeout-total: 1494
+   takeout-percent: 83
+   shots-total: 2545
+   shots-percent: 82
 years:
  - year: 2002
    event: Brier
@@ -268,10 +268,29 @@ years:
    takeout-percent: 84
    shots-total: 152
    shots-percent: 84
+ - year: 2026
+   event: Brier
+   team: "QC"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 5
+   losses: 3
+   inturn-total: 51
+   inturn-percent: 81
+   outturn-total: 95
+   outturn-percent: 87
+   draw-total: 39
+   draw-percent: 78
+   takeout-total: 107
+   takeout-percent: 87
+   shots-total: 146
+   shots-percent: 85
 vs:
  - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
+ - Aglukark, David
  - Bailey, Scott
  - Balsdon, Greg
  - Bardsley, Mike
@@ -288,6 +307,7 @@ vs:
  - Bottcher, Brendan
  - Brannen, Jamie
  - Breckon, Graham
+ - Brophy, Michael
  - Bryant, Doug
  - Bubbs, John
  - Burgess, Craig
@@ -324,6 +344,7 @@ vs:
  - Eldridge, Zach
  - Elias, Dave
  - Errington, Derek
+ - Everist, Bryce
  - Farnell, Jamie
  - Ferbey, Randy
  - Fitzner-LeBlanc, Ian
@@ -360,6 +381,7 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Henderson, Scott
+ - Henry, Owen
  - Hicke, Dean
  - Hodgson, Colin
  - Horning, Deane
@@ -376,6 +398,7 @@ vs:
  - Jewer, Keith
  - Johnson, Bill
  - Johnson, Trevor
+ - Jones, Brennen
  - Jones, Scott
  - Jordison, Joel
  - Kalthoff, Kevin
@@ -386,7 +409,9 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - Kilgallen, Shane
+ - King, Jayden
  - Kleiter, Rylan
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -402,6 +427,7 @@ vs:
  - Ledgerwood, Sean
  - LeDrew, Ryan
  - Lindsay, Tim
+ - Locke, Nathan
  - Lohnes, Bruce
  - MacAulay, Ian
  - MacDonald, Rod
@@ -412,7 +438,7 @@ vs:
  - MacKenzie, Tyler
  - MacLean, Stuart
  - Mallais, Jeremy
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -421,6 +447,7 @@ vs:
  - McCarrel, Graeme
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonell, Justin
  - McEwen, Mike
  - Meachem, Shaun Myles
  - Mead, Jon
@@ -446,6 +473,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Nichols, Mark
+ - Niepage, Dylan
  - Nobert, Rob
  - Noftall, David
  - Odishaw, Grant
@@ -458,12 +486,14 @@ vs:
  - Pfeifer, Scott
  - Pielak, Rod
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pinder, Jordan
  - Porter, Geoff
  - Preston, Eric
  - Purcell, Owen
  - Rafuse, Brian
  - Recksiedler, Kevin
+ - Ring, Mat
  - Roach, Darren
  - Roach, Jason
  - Robinson, Andrew
@@ -489,16 +519,20 @@ vs:
  - Slauenwhite, David
  - Smith, Garth
  - Smith, Tyler
+ - Smitheram, Christian
  - Solberg, Jon
  - Sosiak, Jim
  - Spencer, Adam
  - Steele, Nathan
  - Steski, John
  - Stoughton, Jeff
+ - Stringer, Ben
  - Stuart, Darol
  - Tallon, Wayne
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
+ - Thompson, Kendal
  - Thomson, Fred
  - Toner, Lee
  - Ursel, Bob
@@ -511,10 +545,12 @@ vs:
  - Ward, Mark
  - Watson, Aaron
  - Wempe, Brian
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
  - Wiebe, Ryan
  - Windsor, Brian
  - Wozniak, Matt
+ - Young, Nathan
 ---

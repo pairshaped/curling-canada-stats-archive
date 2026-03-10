@@ -91,7 +91,7 @@ vs:
  - MacAulay, Ian
  - Manuel, Matthew
  - Martin, Karrick
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Moulding, Darren
  - Murphy, Jamie

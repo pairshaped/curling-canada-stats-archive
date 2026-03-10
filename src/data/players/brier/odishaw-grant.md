@@ -447,7 +447,7 @@ vs:
  - McDonald, Scott
  - McHargue, Ken
  - McKee, Darrell
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McPhee, Barry
  - Mead, Jon
  - Mellof, Dave

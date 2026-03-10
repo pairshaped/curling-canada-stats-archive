@@ -229,7 +229,7 @@ vs:
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - NcNeil-Lamswood, Ryan
  - Meister, Nicholas
  - Morris, John

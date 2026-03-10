@@ -410,7 +410,7 @@ vs:
       year: 2022
       draw: Round Robin(1)
       score: ON 4 - CA 5
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:

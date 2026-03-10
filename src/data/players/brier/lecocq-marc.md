@@ -317,7 +317,7 @@ vs:
  - McCusker, Brian
  - McDonald, Scott
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McPhee, Barry
  - Meachem, Shaun Myles
  - Menard, Jean-Michel

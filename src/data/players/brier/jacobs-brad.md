@@ -4,18 +4,18 @@ name: Brad Jacobs
 name-sort: Jacobs, Brad
 totals:
  - event: Brier
-   games: 188
-   wins: 128
-   losses: 60
-   inturn-total: 1551
+   games: 200
+   wins: 137
+   losses: 63
+   inturn-total: 1655
    inturn-percent: 83
-   outturn-total: 1908
+   outturn-total: 2025
    outturn-percent: 85
-   draw-total: 1408
+   draw-total: 1504
    draw-percent: 82
-   takeout-total: 2051
+   takeout-total: 2176
    takeout-percent: 85
-   shots-total: 3459
+   shots-total: 3680
    shots-percent: 84
 years:
  - year: 2007
@@ -340,11 +340,30 @@ years:
    takeout-percent: 92
    shots-total: 236
    shots-percent: 92
+ - year: 2026
+   event: Brier
+   team: "CA"
+   position: Fourth
+   alternate: false
+   games: 12
+   wins: 9
+   losses: 3
+   inturn-total: 104
+   inturn-percent: 85
+   outturn-total: 117
+   outturn-percent: 86
+   draw-total: 96
+   draw-percent: 85
+   takeout-total: 125
+   takeout-percent: 86
+   shots-total: 221
+   shots-percent: 86
 vs:
  - Abel, Clinton
  - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
+ - Aglukark, David
  - Anderson, Chris
  - Armstrong, Mike
  - Asselin, Emile
@@ -358,6 +377,7 @@ vs:
  - Berthelot, Marco
  - Beuk, Jonathan
  - Bezanson, Jared
+ - Bilawka, Brendan
  - Bilesky, Andrew
  - Boland, Adam
  - Bonot, Trevor
@@ -366,9 +386,11 @@ vs:
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
+ - Brophy, Michael
  - Bryant, Doug
  - Burgess, Steve
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
@@ -376,6 +398,7 @@ vs:
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
+ - Chambers, Corey
  - Champion, Kevin
  - Charette, Pierre
  - Chester, Corey
@@ -398,10 +421,12 @@ vs:
  - Dobson, Paul
  - Doherty, Robbie
  - Drummond, Kerr
+ - Dunlop, Spencer
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
+ - Everist, Bryce
  - Ferland, Martin
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
@@ -436,6 +461,7 @@ vs:
  - Harris, Tyler
  - Hart, Richard
  - Hebert, Ben
+ - Henry, Owen
  - Higgs, Jake
  - Hodgson, Colin
  - Horvath, Alex
@@ -458,8 +484,10 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
  - Kingdon, Wade
  - Kleiter, Rylan
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -470,6 +498,7 @@ vs:
  - Korte, Roger
  - Krats, Joel
  - Kuhn, Ryan
+ - Kurz, Kyle
  - Laing, Brent
  - Lang, Tyler
  - Latos, Evan
@@ -479,6 +508,7 @@ vs:
  - Lemay, Philippe
  - Lequin, Bradley
  - Likely, John
+ - Locke, Nathan
  - Lott, Colton
  - Lyburn, Allan
  - MacAulay, Ian
@@ -494,7 +524,7 @@ vs:
  - Manners, Scott
  - March, Tim
  - Markowsky, Rob
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -505,6 +535,7 @@ vs:
  - McCarville, Mike
  - McDermaid, Donald
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - McKee, Darrell
  - Mckinnon, Robert
@@ -537,6 +568,7 @@ vs:
  - Neufeld, Denni
  - Newson, Jamie
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Odian, Scott
  - Odishaw, Grant
@@ -549,6 +581,7 @@ vs:
  - Patzer, Brad
  - Peech, Alexander
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pillsworth, Mark
  - Pinder, Jordan
  - Porter, Ryan
@@ -559,6 +592,7 @@ vs:
  - Rafuse, Brian
  - Reid, Serge
  - Richard, Jeff
+ - Ring, Mat
  - Roach, Darren
  - Roach, Jason
  - Robar, Mark
@@ -580,6 +614,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Slauenwhite, David
+ - Sluchinski, Aaron
  - Smallwood, Robert
  - Smith, Alex
  - Smith, Kent
@@ -590,12 +625,16 @@ vs:
  - St.Louis, David
  - Steele, Nathan
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin
+ - Thompson, Kendal
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Ursel, Bob
@@ -606,6 +645,7 @@ vs:
  - Walker, Geoff
  - Wallingham, Joe
  - Watson, Aaron
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
@@ -613,4 +653,5 @@ vs:
  - Wood, Brad
  - Wood, Mike
  - Wozniak, Matt
+ - Young, Nathan
 ---

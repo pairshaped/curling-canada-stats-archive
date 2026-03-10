@@ -4,18 +4,18 @@ name: Matt Dunstone
 name-sort: Dunstone, Matt
 totals:
  - event: Brier
-   games: 79
-   wins: 55
-   losses: 24
-   inturn-total: 864
+   games: 91
+   wins: 65
+   losses: 26
+   inturn-total: 993
    inturn-percent: 86
-   outturn-total: 603
-   outturn-percent: 86
-   draw-total: 568
-   draw-percent: 86
-   takeout-total: 899
-   takeout-percent: 86
-   shots-total: 1467
+   outturn-total: 704
+   outturn-percent: 87
+   draw-total: 642
+   draw-percent: 85
+   takeout-total: 1055
+   takeout-percent: 87
+   shots-total: 1697
    shots-percent: 86
 years:
  - year: 2018
@@ -144,23 +144,45 @@ years:
    takeout-percent: 90
    shots-total: 204
    shots-percent: 88
+ - year: 2026
+   event: Brier
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 12
+   wins: 10
+   losses: 2
+   inturn-total: 129
+   inturn-percent: 86
+   outturn-total: 101
+   outturn-percent: 91
+   draw-total: 74
+   draw-percent: 84
+   takeout-total: 156
+   takeout-percent: 90
+   shots-total: 230
+   shots-percent: 88
 vs:
  - Aho, David
  - Armstrong, Mike
  - Asselin, Felix
  - Barry, Josh
  - Bartling, Aaron
+ - Bilawka, Brendan
  - Blyde, Greg
+ - Bonin-Ducharme, Olivier
  - Bonot, Trevor
  - Bottcher, Brendan
  - Brannen, Jamie
  - Bruce, Daniel
  - Byrd, Kurtis
+ - Calvert, Braden
  - Camm, Mathew
  - Carpenter, Brayden
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chambers, Corey
  - Chester, Corey
  - Chown, Jeff
  - Cocks, Adam
@@ -171,7 +193,9 @@ vs:
  - Dilello, Ty
  - Dion, William
  - Dobson, Paul
+ - Drummond, Kerr
  - Epping, John
+ - Fadden, Coburn
  - Feltham, Aaron
  - Flasch, Colton
  - Flemming, Paul
@@ -209,7 +233,10 @@ vs:
  - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
  - Krats, Joel
+ - Kurz, Kyle
  - Laing, Brent
  - Latimer, Shane
  - Latos, Evan
@@ -218,11 +245,12 @@ vs:
  - Lichty, Terry
  - Locke, Nathan
  - Lowery, Ryan
+ - MacEwan, Sandy
  - MacKenzie, Eddie
  - Mackey, Peter
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -233,12 +261,13 @@ vs:
  - McDonald, Scott
  - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Middaugh, Wayne
  - Middleton, Sterling
+ - Montpellier, Dustin
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -250,8 +279,11 @@ vs:
  - Ng, Matt
  - Nichols, Mark
  - Njegovan, Connor
+ - Ouimet, Luc
  - Parsons, Cole
  - Potts, Jordan
+ - Riggs, Noah
+ - Robinson, Roland
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
@@ -268,10 +300,12 @@ vs:
  - St.Louis, David
  - Stringer, Ben
  - Symonds, Andrew
+ - Tanaka, Cody
  - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
  - Thomas, Jeff
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Van Strien, Peter

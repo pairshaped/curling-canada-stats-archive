@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 73
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 86
-        wins: 1
+        percent: 82
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -30,16 +30,32 @@ vs:
       year: 2024
       draw: Round Robin(7)
       score: NU 3 - PE 10
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(7)
+      score: NU 5 - PE 10
  - name: Young, Nathan
    totals:
     - event: Brier
       player1:
-        percent: 79
+        percent: 68
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 71
-        wins: 0
+        percent: 75
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -58,6 +74,22 @@ vs:
       year: 2023
       draw: Round Robin(2)
       score: NU 7 - NL 4
+    - player1:
+        team: 'NU'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(1)
+      score: NL 8 - NU 4
  - name: Zachernuk, Nick
    totals:
     - event: Brier

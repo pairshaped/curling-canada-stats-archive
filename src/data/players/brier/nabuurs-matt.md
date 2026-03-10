@@ -70,7 +70,7 @@ years:
    shots-percent: 73
 vs:
  - Bottcher, Brendan
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Moulding, Darren

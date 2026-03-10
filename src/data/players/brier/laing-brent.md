@@ -304,6 +304,11 @@ years:
    takeout-percent: 88
    shots-total: 6
    shots-percent: 92
+ - year: 2026
+   event: Brier
+   team: "SK"
+   position: Alternate
+   alternate: true
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -498,7 +503,7 @@ vs:
  - McDonald, Scott
  - McEwen, Mike
  - McKee, Darrell
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Mead, Jon
  - Menard, Jean-Michel

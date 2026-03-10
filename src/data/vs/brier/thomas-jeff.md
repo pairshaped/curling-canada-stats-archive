@@ -2,6 +2,34 @@
 title: Jeff Thomas Head-to-head
 name: Thomas, Jeff
 vs:
+ - name: Thompson, Kendal
+   totals:
+    - event: Brier
+      player1:
+        percent: 100
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2026
+      draw: Round Robin(7)
+      score: NL 2 - NS 11
  - name: Thompson, Ron
    totals:
     - event: Brier

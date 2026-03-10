@@ -1,22 +1,22 @@
 ---
-title: Shadrach Mcleod
-name: Shadrach Mcleod
-name-sort: Mcleod, Shadrach
+title: Shadrach McLeod
+name: Shadrach McLeod
+name-sort: McLeod, Shadrach
 totals:
  - event: Brier
-   games: 27
-   wins: 9
-   losses: 18
-   inturn-total: 219
-   inturn-percent: 86
-   outturn-total: 233
-   outturn-percent: 76
-   draw-total: 349
-   draw-percent: 82
-   takeout-total: 103
+   games: 35
+   wins: 11
+   losses: 24
+   inturn-total: 316
+   inturn-percent: 85
+   outturn-total: 276
+   outturn-percent: 79
+   draw-total: 481
+   draw-percent: 84
+   takeout-total: 111
    takeout-percent: 76
-   shots-total: 452
-   shots-percent: 81
+   shots-total: 592
+   shots-percent: 82
 years:
  - year: 2019
    event: Brier
@@ -90,21 +90,44 @@ years:
    takeout-percent: 77
    shots-total: 162
    shots-percent: 85
+ - year: 2026
+   event: Brier
+   team: "NT"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 97
+   inturn-percent: 85
+   outturn-total: 43
+   outturn-percent: 91
+   draw-total: 132
+   draw-percent: 88
+   takeout-total: 8
+   takeout-percent: 75
+   shots-total: 140
+   shots-percent: 87
 vs:
  - Armstrong, Mike
  - Arsenault, Jean-Michel
  - Beuk, Jonathan
+ - Bilawka, Brendan
+ - Bonin-Ducharme, Olivier
  - Brannen, Jamie
  - Brassard, Philippe
+ - Calvert, Braden
  - Camm, Mathew
  - Carruthers, Reid
  - Chadwick, Scott
+ - Chambers, Corey
  - Cocks, Adam
  - Cotter, Jim
  - Dobson, Paul
  - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Fadden, Coburn
  - Flasch, Colton
  - Follett, Sam
  - Forget, Wesley
@@ -130,21 +153,27 @@ vs:
  - Knapp, Kelly
  - Knapp, Trent
  - Koe, Kevin
+ - Kolomaya, Jared
+ - Kopytko, Mitchell
+ - Krats, Joel
+ - Kurz, Kyle
  - Laing, Brent
  - Latimer, Shane
  - Laycock, Steve
  - LeCocq, Marc
  - Locke, Nathan
  - Lott, Colton
+ - MacEwan, Sandy
  - Mackey, Peter
  - Manuel, Matthew
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
  - Meagher, Jeffrey
+ - Montpellier, Dustin
  - Moskowy, Braeden
  - Moulding, Darren
  - Mullen, Jesse
@@ -155,7 +184,10 @@ vs:
  - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
+ - Ouimet, Luc
  - Pinder, Jordan
+ - Riggs, Noah
+ - Robinson, Ben
  - Samagalski, Derek
  - Saunders, Luke
  - Sawatsky, Rick
@@ -167,6 +199,8 @@ vs:
  - St.Louis, Brady
  - St.Louis, David
  - Stringer, Ben
+ - Tanaka, Cody
+ - Tardi, Tyler
  - Thiessen, Brad
  - Tremblay, Julien
  - Walker, Geoff

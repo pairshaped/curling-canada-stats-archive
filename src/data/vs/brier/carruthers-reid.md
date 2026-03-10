@@ -5606,7 +5606,7 @@ vs:
       year: 2024
       draw: Round Robin(4)
       score: MB 7 - ON 6
- - name: Marsh, Dan
+ - name: Marsh, Daniel
    totals:
     - event: Brier
       player1:
@@ -6226,7 +6226,7 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: YT 2 - WC 14
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:
@@ -9326,6 +9326,34 @@ vs:
       year: 2024
       draw: Round Robin(14)
       score: MB 6 - NL 3
+ - name: Thompson, Stuart
+   totals:
+    - event: Brier
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2024
+      draw: Round Robin(12)
+      score: NB 3 - MB 7
  - name: Trepanier, Jean-Francois
    totals:
     - event: Brier

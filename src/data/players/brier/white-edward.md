@@ -4,18 +4,18 @@ name: Edward White
 name-sort: White, Edward
 totals:
  - event: Brier
-   games: 32
-   wins: 9
-   losses: 23
-   inturn-total: 251
-   inturn-percent: 85
-   outturn-total: 323
+   games: 40
+   wins: 12
+   losses: 28
+   inturn-total: 343
+   inturn-percent: 84
+   outturn-total: 444
    outturn-percent: 85
-   draw-total: 479
+   draw-total: 641
    draw-percent: 86
-   takeout-total: 95
-   takeout-percent: 81
-   shots-total: 574
+   takeout-total: 146
+   takeout-percent: 79
+   shots-total: 787
    shots-percent: 85
 years:
  - year: 2022
@@ -90,6 +90,24 @@ years:
    takeout-percent: 92
    shots-total: 148
    shots-percent: 91
+ - year: 2026
+   event: Brier
+   team: "PE"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 92
+   inturn-percent: 81
+   outturn-total: 121
+   outturn-percent: 86
+   draw-total: 162
+   draw-percent: 86
+   takeout-total: 51
+   takeout-percent: 76
+   shots-total: 213
+   shots-percent: 84
 vs:
  - Abraham, Ryan
  - Arsenault, Jean-Michel
@@ -100,11 +118,14 @@ vs:
  - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
+ - Brophy, Michael
+ - Casey, Adam
  - Crete, Martin
  - Delorey, D'arcy
  - Dobson, Paul
  - Drummond, Kerr
  - Dunstone, Matt
+ - Everist, Bryce
  - Flasch, Colton
  - Follett, Sam
  - Fry, Ryan
@@ -119,6 +140,7 @@ vs:
  - Hart, Joey
  - Harty, Jeremy
  - Hebert, Ben
+ - Henry, Owen
  - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
@@ -126,12 +148,15 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Johnson, Trevor
+ - Jones, Brennen
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
  - Kleiter, Rylan
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
@@ -142,13 +167,14 @@ vs:
  - Mallais, Jeremy
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - Mattern, Joshua
+ - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Middleton, Sterling
@@ -162,10 +188,14 @@ vs:
  - Naugler, Adam
  - Neufeld, B.J.
  - Nichols, Mark
+ - Niepage, Dylan
  - Parsons, Cole
+ - Pietrangelo, Victor
  - Preston, Eric
  - Purcell, Owen
+ - Ring, Mat
  - Saccary, Scott
+ - Samagalski, Derek
  - Saunders, Luke
  - Schneider, Catlin
  - Scoffin, Thomas
@@ -178,6 +208,8 @@ vs:
  - Sturmay, Karsten
  - Tardi, Tyler
  - Thiessen, Brad
+ - Thomas, Colin
+ - Thompson, Kendal
  - Tremblay, Julien
  - Trepanier, Jean-Francois
  - Venance, Glenn

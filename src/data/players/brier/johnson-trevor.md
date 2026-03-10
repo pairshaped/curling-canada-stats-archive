@@ -52,7 +52,7 @@ vs:
  - Jacobs, Brad
  - Jensen, Trygg
  - Kennedy, Marc
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - McEwen, Mike
  - Menard, Jean-Michel

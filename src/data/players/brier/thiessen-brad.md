@@ -231,14 +231,14 @@ vs:
  - MacDonald, Edmund
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Mathers, David
  - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - Meachem, Shaun Myles
  - Meagher, Jeffrey
  - Menard, Jean-Michel

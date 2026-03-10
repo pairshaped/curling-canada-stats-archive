@@ -726,7 +726,7 @@ vs:
       year: 2025
       draw: Round Robin(17)
       score: NU 3 - NO 13
- - name: Mcleod, Shadrach
+ - name: McLeod, Shadrach
    totals:
     - event: Brier
       player1:

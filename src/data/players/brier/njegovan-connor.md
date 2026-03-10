@@ -201,7 +201,7 @@ vs:
  - Mackey, Peter
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
@@ -210,7 +210,7 @@ vs:
  - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
@@ -254,6 +254,7 @@ vs:
  - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
+ - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
  - Van Strien, Peter

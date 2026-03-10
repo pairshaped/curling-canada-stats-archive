@@ -4,18 +4,18 @@ name: Geoff Walker
 name-sort: Walker, Geoff
 totals:
  - event: Brier
-   games: 171
-   wins: 127
-   losses: 44
-   inturn-total: 1412
+   games: 182
+   wins: 136
+   losses: 46
+   inturn-total: 1492
    inturn-percent: 90
-   outturn-total: 1838
-   outturn-percent: 89
-   draw-total: 2746
+   outturn-total: 1956
+   outturn-percent: 90
+   draw-total: 2933
    draw-percent: 92
-   takeout-total: 504
-   takeout-percent: 79
-   shots-total: 3250
+   takeout-total: 515
+   takeout-percent: 80
+   shots-total: 3448
    shots-percent: 90
 years:
  - year: 2012
@@ -270,6 +270,24 @@ years:
    takeout-percent: 88
    shots-total: 206
    shots-percent: 91
+ - year: 2026
+   event: Brier
+   team: "NL"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 80
+   inturn-percent: 92
+   outturn-total: 118
+   outturn-percent: 93
+   draw-total: 187
+   draw-percent: 93
+   takeout-total: 11
+   takeout-percent: 82
+   shots-total: 198
+   shots-percent: 93
 vs:
  - Abraham, Ryan
  - Aho, David
@@ -295,6 +313,7 @@ vs:
  - Brannen, Jamie
  - Brassard, Philippe
  - Breckon, Graham
+ - Brophy, Michael
  - Bruce, Daniel
  - Camm, Mathew
  - Carmody, Anson
@@ -330,6 +349,7 @@ vs:
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
+ - Everist, Bryce
  - Farnell, Jamie
  - Fecteau, Steve
  - Feltham, Aaron
@@ -361,6 +381,7 @@ vs:
  - Hart, Richard
  - Harty, Jeremy
  - Hebert, Ben
+ - Henry, Owen
  - Higgs, Jake
  - Hodgson, Colin
  - Horgan, Jacob
@@ -374,6 +395,7 @@ vs:
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
+ - Jones, Brennen
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
@@ -382,6 +404,8 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - King, Jayden
+ - Knapp, Kelly
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -398,6 +422,7 @@ vs:
  - Ledgerwood, Sean
  - Lequin, Bradley
  - Lind, J.D.
+ - Locke, Nathan
  - Lott, Colton
  - Lowery, Ryan
  - Lyburn, Allan
@@ -411,7 +436,7 @@ vs:
  - Manners, Scott
  - Manuel, Matthew
  - March, Tim
- - Marsh, Dan
+ - Marsh, Daniel
  - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
@@ -424,7 +449,7 @@ vs:
  - McDonald, Scott
  - McDonell, Justin
  - McEwen, Mike
- - Mcleod, Shadrach
+ - McLeod, Shadrach
  - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
@@ -451,16 +476,19 @@ vs:
  - Neufeld, Denni
  - Ng, Matt
  - Nichols, Mark
+ - Niepage, Dylan
  - Njegovan, Connor
  - Odishaw, Grant
  - Odishaw, Terry
  - O'Rourke, Mark
  - Parsons, Cole
  - Pierce, Brent
+ - Pietrangelo, Victor
  - Pillsworth, Mark
  - Pinder, Jordan
  - Quevillon, Louis
  - Richard, Jeff
+ - Ring, Mat
  - Roach, Darren
  - Roach, Jason
  - Roy, Jean-Sebastien
@@ -486,12 +514,15 @@ vs:
  - St.Louis, David
  - Steele, Colten
  - Stoughton, Jeff
+ - Stringer, Ben
  - Sturmay, Karsten
  - Sylvain, Eric
  - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
+ - Thomas, Colin
+ - Thompson, Kendal
  - Thompson, Stuart
  - Tremblay, Julien
  - Trepanier, Jean-Francois
@@ -508,5 +539,6 @@ vs:
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt
+ - Young, Nathan
  - Zachernuk, Nick
 ---
